@@ -21,3 +21,4 @@
 
 
 ## Backdoor Learning
+- Rethink Stealthy Backdoor Attacks in Natural Language Processing; Lingfeng Shen, Haiyun Jiang, Lemao Liu, Shuming Shi; Results in Table 1 are a little bit weird. But present an intersting idea, measuring what acturally contribute to the high ASR of backdoor attack (e.g. trigger? mislabel? et al).
