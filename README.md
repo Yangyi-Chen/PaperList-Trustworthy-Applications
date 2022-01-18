@@ -10,7 +10,7 @@
 
 
 ## Textual Adversarial Sample
-Repairing Adversarial Texts through Perturbation; Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
+- Repairing Adversarial Texts through Perturbation; Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
 
 
 
