@@ -20,7 +20,7 @@
 
 
 ## Trustworthy (broad topic)
-- **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs (Uncertainty);** Hanjie Chen, Yangfeng Ji 
+- **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
 
 
 
