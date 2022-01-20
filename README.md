@@ -19,6 +19,12 @@
 
 
 
+## Trustworthy (broad topic)
+- **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs (Uncertainty);** Hanjie Chen, Yangfeng Ji 
+
+
 
 ## Backdoor Learning
 - **Rethink Stealthy Backdoor Attacks in Natural Language Processing;** Lingfeng Shen, Haiyun Jiang, Lemao Liu, Shuming Shi; Results in Table 1 are a little bit weird. But present an intersting idea, measuring what acturally contributes to the high ASR of backdoor attack (e.g. trigger? mislabel? et al).
+
+
