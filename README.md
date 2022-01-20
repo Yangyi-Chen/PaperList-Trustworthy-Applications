@@ -21,6 +21,8 @@
 
 ## Trustworthy (broad topic)
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
+- **Calibration of Pre-trained Transformers; (Unvertainty)** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
+- **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data; (Uncertainty)** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
 
 
 
