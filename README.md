@@ -23,6 +23,7 @@
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
 - **Calibration of Pre-trained Transformers; (Unvertainty)** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
 - **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data; (Uncertainty)** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
+- **Types of Out-of-Distribution Texts and How to Detect Them; (OOD detection)** Udit Arora, William Huang and He He; Analyze two types of ood data and benchmark two popular ood detection methods, get some interesting findings. 
 
 
 
