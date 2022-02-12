@@ -37,6 +37,7 @@
 - **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
 - **Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets;** Nelson F. Liu, Roy Schwartz, Noah A. Smith
+- **FINE-TUNING DISTORTS PRETRAINED FEATURES AND UNDERPERFORMS OUT-OF-DISTRIBUTION;** Anonymous
 
 
 ## Data Augmentation
