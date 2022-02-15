@@ -62,7 +62,8 @@
 
 ## Parameter Efficient Tuning
 - **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
-
+- **Prefix-Tuning: Optimizing Continuous Prompts for Generation;** Xiang Lisa Li, Percy Liang
+- **LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS;** Edward Hu et al 
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
