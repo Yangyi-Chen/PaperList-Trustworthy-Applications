@@ -67,6 +67,8 @@
 - **The Power of Scale for Parameter-Efficient Prompt Tuning;** Brian Lester, Rami Al-Rfou, Noah Constant
 - **Robust Transfer Learning with Pretrained Language Models through Adapters;** Wenjuan Han, Bo Pang, Yingnian Wu
 - **COMPACTER: Efficient Low-Rank Hypercomplex Adapter Layers;** Rabeeh Karimi Mahabad, James Henderson, Sebastian Ruder
+- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models;** Elad Ben-Zaken, Shauli Ravfogel, Yoav Goldberg
+- **Parameter-Efficient Transfer Learning with Diff Pruning;** Demi Guo, Alexander M. Rush, Yoon Kim
 
 
 
