@@ -60,6 +60,10 @@
 - **Anti-Backdoor Learning: Training Clean Models on Poisoned Data;** Yige Li et al
 
 
+## Parameter Efficient Tuning
+- **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
+
+
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
 - **LAMOL: LANGUAGE MODELING FOR LIFELONG LANGUAGE LEARNING;** Fan-Keng Sun, Cheng-Hao Ho, Hung-Yi Lee; Use an LM to both generate previous tasks' data and solve the tasks.
