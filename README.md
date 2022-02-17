@@ -72,7 +72,9 @@
 - **ON ROBUST PREFIX-TUNING FOR TEXT CLASSIFICATION; (Robustness)** Anonymous 
 - **Ensembles and Cocktails: Robust Finetuning for Natural Language Generation; (OOD Robustness)** John Hewitt et al
 - **AdapterDrop: On the Efficiency of Adapters in Transformers;** Andreas Rücklé et al; Drop the adapters to speed up the inference time while maintaining performance. 
-
+- **MEASURING THE INTRINSIC DIMENSION OF OBJECTIVE LANDSCAPES;** Chunyuan Li, Heerad Farkhoor, Rosanne Liu, and Jason Yosinski
+- **INTRINSIC DIMENSIONALITY EXPLAINS THE EFFEC- TIVENESS OF LANGUAGE MODEL FINE-TUNING;** Armen Aghajanyan, Luke Zettlemoyer, Sonal Gupta
+- **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning**; Yujia Qin et al
 
 
 
