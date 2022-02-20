@@ -59,6 +59,8 @@
 - **Excess Capacity and Backdoor Poisoning;** Naren Sarayu Manoj, Avrim Blum
 - **Anti-Backdoor Learning: Training Clean Models on Poisoned Data;** Yige Li et al
 
+## Prompt-based Learning
+- **LFPT5: A UNIFIED FRAMEWORK FOR LIFELONG FEW-SHOT LANGUAGE LEARNING BASED ON PROMPT TUNING OF T5;** Chengwei Qin, Shafiq Joty; Life-long few-shot learning, using T5. 
 
 ## Parameter Efficient Tuning
 - **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
