@@ -91,7 +91,7 @@
 
 
 ## Spurious Correlation
-
+- **Competency Problems: On Finding and Removing Artifacts in Language Data;** Matt Gardner et al
 
 
 
