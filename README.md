@@ -58,6 +58,7 @@
 - **Rethink Stealthy Backdoor Attacks in Natural Language Processing;** Lingfeng Shen, Haiyun Jiang, Lemao Liu, Shuming Shi; Results in Table 1 are a little bit weird. But present an interesting idea, measuring what actually contributes to the high ASR of backdoor attack (e.g. trigger? mislabel? et al). Also, propose two effective methods to defend against stealthy backdoor attacks. 
 - **Excess Capacity and Backdoor Poisoning;** Naren Sarayu Manoj, Avrim Blum
 - **Anti-Backdoor Learning: Training Clean Models on Poisoned Data;** Yige Li et al
+- **Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering;** Bryant Chen et al
 
 ## Prompt-based Learning
 - **LFPT5: A UNIFIED FRAMEWORK FOR LIFELONG FEW-SHOT LANGUAGE LEARNING BASED ON PROMPT TUNING OF T5;** Chengwei Qin, Shafiq Joty; Life-long few-shot learning, using T5. 
