@@ -69,8 +69,6 @@
 
 
 
-
-
 ## Parameter Efficient Tuning
 - **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation;** Xiang Lisa Li, Percy Liang
@@ -92,6 +90,10 @@
 
 ## Spurious Correlation
 - **Competency Problems: On Finding and Removing Artifacts in Language Data;** Matt Gardner et al
+- **Annotation Artifacts in Natural Language Inference Data;** Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel Bowman, Noah A. Smith
+- **Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases;** Christopher Clark, Mark Yatskar, Luke Zettlemoyer
+- **Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual;** He He, Sheng Zha, Haohan Wang
+
 
 
 
