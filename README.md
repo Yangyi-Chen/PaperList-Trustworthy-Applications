@@ -98,6 +98,13 @@
 - **Annotation Artifacts in Natural Language Inference Data;** Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel Bowman, Noah A. Smith
 - **Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases;** Christopher Clark, Mark Yatskar, Luke Zettlemoyer
 - **Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual;** He He, Sheng Zha, Haohan Wang
+- **An Empirical Study on Robustness to Spurious Correlations using Pre-trained Language Models;** Lifu Tu, Garima Lalwani, Spandana Gella, He He
+- **End-to-End Bias Mitigation by Modelling Biases in Corpora;** Rabeeh Karimi Mahabadi, Yonatan Belinkov, James Henderson
+- **Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview;** Deven Shah, H. Andrew Schwartz, Dirk Hovy
+- **Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles;** Christopher Clark, Mark Yatskar, Luke Zettlemoyer
+
+
+
 
 
 
