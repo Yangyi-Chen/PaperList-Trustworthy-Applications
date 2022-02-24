@@ -106,6 +106,7 @@
 - **Towards Debiasing NLU Models from Unknown Biases;** Prasetya Ajie Utama, Nafise Sadat Moosav, Iryna Gurevych
 - **LEARNING FROM OTHERS’ MISTAKES: AVOIDING DATASET BIASES WITHOUT MODELING THEM;** Victor Sanh, Thomas Wolf, Yonatan Belinkov, Alexander M. Rush
 - **Towards Robustifying NLI Models Against Lexical Dataset Biases;** Xiang Zhou, Mohit Bansal
+- **On Adversarial Removal of Hypothesis-only Bias in Natural Language Inference;** Yonatan Belinkov et al
 
 
 
