@@ -22,6 +22,8 @@
 - **Adversarial Examples Are Not Bugs, They Are Features;** Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry
 - **Detecting Adversarial Samples from Artifacts; (Detection)** Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner
 - **Detection of Adversarial Examples in NLP: Benchmark and Baseline via Robust Density Estimation；** Anonymous
+- **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples;** Dongyeop Kang et al
+- **Adversarially Regularising Neural NLI Models to Integrate Logical Background Knowledge;** Pasquale Minervini, Sebastian Riedel
 
 
 
