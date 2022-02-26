@@ -108,6 +108,8 @@
 - **LEARNING FROM OTHERS’ MISTAKES: AVOIDING DATASET BIASES WITHOUT MODELING THEM;** Victor Sanh, Thomas Wolf, Yonatan Belinkov, Alexander M. Rush
 - **Towards Robustifying NLI Models Against Lexical Dataset Biases;** Xiang Zhou, Mohit Bansal
 - **On Adversarial Removal of Hypothesis-only Bias in Natural Language Inference;** Yonatan Belinkov et al
+- **Increasing Robustness to Spurious Correlations using Forgettable Examples;** Yadollah Yaghoobzadeh et al
+
 
 
 
