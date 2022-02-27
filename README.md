@@ -109,6 +109,7 @@
 - **Towards Robustifying NLI Models Against Lexical Dataset Biases;** Xiang Zhou, Mohit Bansal
 - **On Adversarial Removal of Hypothesis-only Bias in Natural Language Inference;** Yonatan Belinkov et al
 - **Increasing Robustness to Spurious Correlations using Forgettable Examples;** Yadollah Yaghoobzadeh et al
+- **Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance;** Prasetya Ajie Utama, Nafise Sadat Moosavi, Iryna Gurevych
 
 
 
