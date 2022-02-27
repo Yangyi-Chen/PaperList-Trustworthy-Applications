@@ -10,7 +10,7 @@
 - **Data Augmentation Approaches in Natural Language Processing: A Survey;** Bohan Li, Yutai Hou, Wanxiang Che
 - **An Empirical Survey of Data Augmentation for Limited Data Learning in NLP;** Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang 
 - **Shortcut Learning in Deep Neural Networks;** Robert Geirhos et al 
-
+- **Learning Neural Models for Natural Language Processing in the Face of Distributional Shift;** 
 
 
 
@@ -110,9 +110,9 @@
 - **On Adversarial Removal of Hypothesis-only Bias in Natural Language Inference;** Yonatan Belinkov et al
 - **Increasing Robustness to Spurious Correlations using Forgettable Examples;** Yadollah Yaghoobzadeh et al
 - **Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance;** Prasetya Ajie Utama, Nafise Sadat Moosavi, Iryna Gurevych
-
-
-
+- **Learning Robust Global Representations by Penalizing Local Predictive Power;** Haohan Wang, Songwei Ge, Eric P. Xing, Zachary C. Lipton
+- **Invariant Risk Minimization;** Martin Arjovsky, L ́eon Bottou, Ishaan Gulrajani, David Lopez-Paz
+- **Examining and Combating Spurious Features under Distribution Shift;** Chunting Zhou, Xuezhe Ma, Paul Michel, Graham Neubig
 
 
 
