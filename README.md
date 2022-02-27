@@ -72,6 +72,8 @@
 - **NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework;** Xingcheng Yao, Yanan Zheng, Xiaocong Yang, Zhilin Yang; "Given some labeled task data and a large general corpus, TLM uses task data as queries to retrieve a tiny subset of the general corpus and jointly optimizes the task objective and the language modeling objective from scratch"
 - **On the Transferability of Pre-trained Language Models: A Study from Artificial Datasets;** Cheng-Han Chiang, Hung-yi Lee
 - **NoisyTune: A Little Noise Can Help You Finetune Pretrained Language Models Better; (Robust Fine-tuning)** Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang, Xing Xie
+- **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting; (Robust Fine-tuning)** Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu
+- **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta
 
 
 
