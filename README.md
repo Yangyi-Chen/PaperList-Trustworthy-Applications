@@ -75,7 +75,10 @@
 - **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting; (Robust Fine-tuning)** Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu
 - **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta
 - **SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization; (Robust Fine-tuning)** Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Tuo Zhao 
-- **REVISITING FEW-SAMPLE BERT FINE-TUNING; (Robust Fine-tuning)** Tianyi Zhang et al
+- **REVISITING FEW-SAMPLE BERT FINE-TUNING; (Stable Fine-tuning)** Tianyi Zhang et al
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning; (Robust Fine-tuning)** Runxin Xu et al
+- **MIXOUT: EFFECTIVE REGULARIZATION TO FINETUNE LARGE-SCALE PRETRAINED LANGUAGE MODELS; (Robust Fine-tuning)** Cheolhyoung Lee, Kyunghyun Cho, Wanmo Kang
+- **Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping;** Jesse Dodge et al; Empirical study on the fine-tuning strategies. 
 
 
 ## Parameter Efficient Tuning
