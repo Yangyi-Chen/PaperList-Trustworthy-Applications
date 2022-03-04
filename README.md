@@ -38,7 +38,6 @@
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
 - **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
-- **Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets;** Nelson F. Liu, Roy Schwartz, Noah A. Smith
 - **FINE-TUNING DISTORTS PRETRAINED FEATURES AND UNDERPERFORMS OUT-OF-DISTRIBUTION;** Anonymous
 - **UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION; (Generalization)** Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
 
@@ -120,6 +119,13 @@
 - **Invariant Risk Minimization;** Martin Arjovsky, L ́eon Bottou, Ishaan Gulrajani, David Lopez-Paz
 - **Examining and Combating Spurious Features under Distribution Shift;** Chunting Zhou, Xuezhe Ma, Paul Michel, Graham Neubig
 
+
+## Dataset and Benchmark
+- **Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets;** Nelson F. Liu, Roy Schwartz, Noah A. Smith
+- **Stress Test Evaluation for Natural Language Inference; (Stress NLI)** Aakanksha Naik et al
+- **Adversarial NLI: A New Benchmark for Natural Language Understanding; (ANLI)** Yixin Nie et al
+- **Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference; (HANS)** R. Thomas McCoy, Ellie Pavlick, Tal Linzen
+- **PAWS: Paraphrase Adversaries from Word Scrambling; (PAWS)** Yuan Zhang, Jason Baldridge, Luheng He
 
 
 
