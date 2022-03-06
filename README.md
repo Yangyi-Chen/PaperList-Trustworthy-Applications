@@ -40,7 +40,8 @@
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
 - **FINE-TUNING DISTORTS PRETRAINED FEATURES AND UNDERPERFORMS OUT-OF-DISTRIBUTION;** Anonymous
 - **UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION; (Generalization)** Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
-
+- **Robustness Gym: Unifying the NLP Evaluation Landscape;** Karan Goel et al
+- **TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing;** Tao Gui et al
 
 ## Data Augmentation
 - **Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning; (Few-shot setting)** Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu
