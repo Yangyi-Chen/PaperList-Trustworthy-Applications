@@ -128,6 +128,7 @@
 - **Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference; (HANS)** R. Thomas McCoy, Ellie Pavlick, Tal Linzen
 - **PAWS: Paraphrase Adversaries from Word Scrambling; (PAWS)** Yuan Zhang, Jason Baldridge, Luheng He
 - **Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models;** Boxin Wang et al
+- **What will it take to fix benchmarking in natural language understanding?;** Samuel R. Bowman, George E. Dahl
 
 
 
