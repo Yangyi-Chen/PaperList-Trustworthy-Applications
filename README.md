@@ -25,7 +25,7 @@
 - **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples; (Adversarial Training)** Dongyeop Kang et al
 - **Adversarially Regularising Neural NLI Models to Integrate Logical Background Knowledge; (Adversarial Training)** Pasquale Minervini, Sebastian Riedel
 - **Reevaluating Adversarial Examples in Natural Language; (Evaluation)** John X. Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi; Discuss how to align automatic evaluation metrics with human intuition; and integrate automatic metrics in the searching process to preserve quality and validity of adversarial samples. 
-
+- **Evaluating the Robustness of Neural Language Models to Input Perturbations;** Milad Moradi, Matthias Samwald; Benchmark models' robustness to real-world user inputs; they use adversarial samples to simulate user inputs. 
 
 ## Trustworthy (broad topic)
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
