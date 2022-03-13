@@ -54,6 +54,12 @@
 - **Are All Training Examples Created Equal? An Empirical Study;** Kailas Vodrahalli, Ke Li, Jitendra Malik; In MNIST, using a subset of the whole training dataset can achieve comparable performance while this conclusion doesn't hold in CIFAR10 & CIFAR100. They propose a method based on the magnitude of the gradients to select important samples. 
 - **FIRST IS BETTER THAN LAST FOR TRAINING DATA INFLUENCE;** Chih-Kuan Yeh, Ankur Taly, Mukund Sundararajan, Frederick Liu, and Pradeep Ravikumar
 - **Generative Data Augmentation for Commonsense Reasoning;** Yiben Yang et al; Filtering data-augmentation generated synthetic data. 
+- **ILDAE: Instance-Level Difficulty Analysis of Evaluation Data;** Neeraj Varshney, Swaroop Mishra, Chitta Baral; Introduce difficulty scores for evaluation samples; have some interesting applications. 
+- 
+
+
+
+
 
 ## Backdoor Learning
 - **Rethink Stealthy Backdoor Attacks in Natural Language Processing;** Lingfeng Shen, Haiyun Jiang, Lemao Liu, Shuming Shi; Results in Table 1 are a little bit weird. But present an interesting idea, measuring what actually contributes to the high ASR of backdoor attack (e.g. trigger? mislabel? et al). Also, propose two effective methods to defend against stealthy backdoor attacks. 
