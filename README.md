@@ -70,6 +70,7 @@
 
 ## Prompt-based Learning
 - **LFPT5: A UNIFIED FRAMEWORK FOR LIFELONG FEW-SHOT LANGUAGE LEARNING BASED ON PROMPT TUNING OF T5;** Chengwei Qin, Shafiq Joty; Life-long few-shot learning, using T5. 
+- **Pre-trained Token-replaced Detection Model as Few-shot Learner;** Zicheng Li, Shoushan Li, Guodong Zhou
 
 ## PLM
 - **Adversarial Training for Large Neural Language Models;** Xiaodong Liu et al
