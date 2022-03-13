@@ -55,7 +55,7 @@
 - **FIRST IS BETTER THAN LAST FOR TRAINING DATA INFLUENCE;** Chih-Kuan Yeh, Ankur Taly, Mukund Sundararajan, Frederick Liu, and Pradeep Ravikumar
 - **Generative Data Augmentation for Commonsense Reasoning;** Yiben Yang et al; Filtering data-augmentation generated synthetic data. 
 - **ILDAE: Instance-Level Difficulty Analysis of Evaluation Data;** Neeraj Varshney, Swaroop Mishra, Chitta Baral; Introduce difficulty scores for evaluation samples; have some interesting applications. 
-- 
+- **Feeding What You Need by Understanding What You Learned;** Xiaoqiang Wang et al; Define different capability measures for both data and models. Employ the curriculum learning paradigm to train a better MRC model. 
 
 
 
