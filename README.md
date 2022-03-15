@@ -11,7 +11,7 @@
 - **An Empirical Survey of Data Augmentation for Limited Data Learning in NLP;** Jiaao Chen, Derek Tam, Colin Raffel, Mohit Bansal, Diyi Yang 
 - **Shortcut Learning in Deep Neural Networks;** Robert Geirhos et al 
 - **Learning Neural Models for Natural Language Processing in the Face of Distributional Shift;** Paul Michel
-- **Evaluation of Text Generation: A Survey;** Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao
+- **A Survey of Evaluation Metrics Used for NLG Systems;** ANANYA B. SAI et al
 
 
 
