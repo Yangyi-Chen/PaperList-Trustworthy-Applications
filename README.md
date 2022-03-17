@@ -130,6 +130,10 @@
 - **Learning Robust Global Representations by Penalizing Local Predictive Power;** Haohan Wang, Songwei Ge, Eric P. Xing, Zachary C. Lipton
 - **Invariant Risk Minimization;** Martin Arjovsky, L ́eon Bottou, Ishaan Gulrajani, David Lopez-Paz
 - **Examining and Combating Spurious Features under Distribution Shift;** Chunting Zhou, Xuezhe Ma, Paul Michel, Graham Neubig
+- **WINOGRANDE: An Adversarial Winograd Schema Challenge at Scale; (AFLITE)** Keisuke Sakaguchi et al
+- **Adversarial Filters of Dataset Biases;** Ronan Le Bras et al; Discuss AFLITE.
+
+
 
 
 ## Dataset and Benchmark
