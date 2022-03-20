@@ -12,6 +12,7 @@
 - **Shortcut Learning in Deep Neural Networks;** Robert Geirhos et al 
 - **Learning Neural Models for Natural Language Processing in the Face of Distributional Shift;** Paul Michel
 - **A Survey of Evaluation Metrics Used for NLG Systems;** ANANYA B. SAI et al
+- **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models;** Ning Ding et al
 
 
 
