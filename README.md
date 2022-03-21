@@ -72,10 +72,14 @@
 - **Excess Capacity and Backdoor Poisoning;** Naren Sarayu Manoj, Avrim Blum
 - **Anti-Backdoor Learning: Training Clean Models on Poisoned Data;** Yige Li et al
 - **Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering;** Bryant Chen et al
+- **BACKDOOR DEFENSE VIA DECOUPLING THE TRAINING PROCESS;** Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren
+
+
 
 ## Prompt-based Learning
 - **LFPT5: A UNIFIED FRAMEWORK FOR LIFELONG FEW-SHOT LANGUAGE LEARNING BASED ON PROMPT TUNING OF T5;** Chengwei Qin, Shafiq Joty; Life-long few-shot learning, using T5. 
 - **Pre-trained Token-replaced Detection Model as Few-shot Learner;** Zicheng Li, Shoushan Li, Guodong Zhou
+
 
 ## PLM
 - **Adversarial Training for Large Neural Language Models;** Xiaodong Liu et al
