@@ -152,6 +152,7 @@
 - **Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models;** Boxin Wang et al
 - **What will it take to fix benchmarking in natural language understanding?;** Samuel R. Bowman, George E. Dahl
 - **GLUE: A MULTI-TASK BENCHMARK AND ANALYSIS PLATFORM FOR NATURAL LANGUAGE UNDERSTANDING;** Alex Wang et al
+- **From Hero to Zeroe: A Benchmark of Low-Level Adversarial Attacks;** Steffen Eger, Yannik Benz
 
 
 
