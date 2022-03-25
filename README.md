@@ -55,7 +55,7 @@
 - **Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification;** Shuhuai Ren, Jinchao Zhang, Lei Li, Xu Sun, Jie Zhou
 - **Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness;** Tejas Gokhale et al
 - **PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks;** Yufei Wang et al
-
+- **When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation;** Ehsan Kamalloo, Mehdi Rezagholizadeh, Ali Ghodsi
 
 
 
@@ -73,7 +73,7 @@
 - **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data;** Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng
 - **AN EMPIRICAL STUDY OF EXAMPLE FORGETTING DURING DEEP NEURAL NETWORK LEARNING;** Mariya Toneva et al
 - **Data Contamination: From Memorization to Exploitation;** Inbal Magar, Roy Schwartz; Study how data contamination issue in pretraining data affect memorization and exploitation. 
-- **When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation;** Ehsan Kamalloo, Mehdi Rezagholizadeh, Ali Ghodsi
+
 
 
 
