@@ -29,6 +29,7 @@
 - **Reevaluating Adversarial Examples in Natural Language; (Evaluation)** John X. Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi; Discuss how to align automatic evaluation metrics with human intuition; and integrate automatic metrics in the searching process to preserve quality and validity of adversarial samples. 
 - **Evaluating the Robustness of Neural Language Models to Input Perturbations;** Milad Moradi, Matthias Samwald; Benchmark models' robustness to real-world user inputs; they use adversarial samples to simulate user inputs. 
 - **Interpreting the Robustness of Neural NLP Models to Textual Perturbations;** Yunxiang Zhang et al
+- **Distinguishing Non-natural from Natural Adversarial Samples for More Robust Pre-trained Language Model;** Anonymous; Using outlier detection to filter non-natural adversarial samples. 
 
 ## Trustworthy (broad topic)
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
