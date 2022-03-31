@@ -13,6 +13,7 @@
 - **Learning Neural Models for Natural Language Processing in the Face of Distributional Shift;** Paul Michel
 - **A Survey of Evaluation Metrics Used for NLG Systems;** ANANYA B. SAI et al
 - **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models;** Ning Ding et al
+- **Analysis Methods in Neural Language Processing: A Survey;** Yonatan Belinkov, James Glass
 
 
 
