@@ -81,6 +81,9 @@
 - **AN EMPIRICAL STUDY OF EXAMPLE FORGETTING DURING DEEP NEURAL NETWORK LEARNING;** Mariya Toneva et al
 - **Data Contamination: From Memorization to Exploitation; (Memorization)** Inbal Magar, Roy Schwartz; Study how data contamination issue in pretraining data affect memorization and exploitation. 
 - **Does Learning Require Memorization? A Short Tale about a Long Tail; (Memorization)** Vitaly Feldman
+- **Memorization vs. Generalization: Quantifying Data Leakage in NLP Performance Evaluation; (Memorization)** Aparna Elangovan, Jiayuan He, Karin Verspoor
+- **Memorisation versus Generalisation in Pre-trained Language Models; (Memorization)** Michael Tänzer, Sebastian Ruder, Marek Rei
+- **An Empirical Study of Memorization in NLP;** Xiaosen Zheng, Jing Jiang
 
 
 
