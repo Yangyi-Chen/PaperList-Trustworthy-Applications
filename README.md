@@ -79,7 +79,8 @@
 - **Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning;** Nicolas Papernot and Patrick McDaniel
 - **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data;** Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng
 - **AN EMPIRICAL STUDY OF EXAMPLE FORGETTING DURING DEEP NEURAL NETWORK LEARNING;** Mariya Toneva et al
-- **Data Contamination: From Memorization to Exploitation;** Inbal Magar, Roy Schwartz; Study how data contamination issue in pretraining data affect memorization and exploitation. 
+- **Data Contamination: From Memorization to Exploitation; (Memorization)** Inbal Magar, Roy Schwartz; Study how data contamination issue in pretraining data affect memorization and exploitation. 
+- **Does Learning Require Memorization? A Short Tale about a Long Tail; (Memorization)** Vitaly Feldman
 
 
 
