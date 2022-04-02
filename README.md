@@ -84,7 +84,7 @@
 - **Memorization vs. Generalization: Quantifying Data Leakage in NLP Performance Evaluation; (Memorization)** Aparna Elangovan, Jiayuan He, Karin Verspoor
 - **Memorisation versus Generalisation in Pre-trained Language Models; (Memorization)** Michael Tänzer, Sebastian Ruder, Marek Rei
 - **An Empirical Study of Memorization in NLP; (Memorization)** Xiaosen Zheng, Jing Jiang
-
+- **Are Neural Networks Extracting Linguistic Properties or Memorizing Training Data? An Observation with a Multilingual Probe for Predicting Tense; (Memorization)** Bingzhi Li, Guillaume Wisniewski; Discuss probing tasks. 
 
 
 
