@@ -78,12 +78,12 @@
 - **Explaining and Improving Model Behavior with k Nearest Neighbor Representations;** Nazneen Fatema Rajani, Ben Krause, Wenpeng Yin, Tong Niu, Richard Socher, Caiming Xiong; The related work section is informative.
 - **Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning;** Nicolas Papernot and Patrick McDaniel
 - **Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data;** Shuohang Wang, Yichong Xu, Yuwei Fang, Yang Liu, Siqi Sun, Ruochen Xu, Chenguang Zhu, Michael Zeng
-- **AN EMPIRICAL STUDY OF EXAMPLE FORGETTING DURING DEEP NEURAL NETWORK LEARNING;** Mariya Toneva et al
+- **AN EMPIRICAL STUDY OF EXAMPLE FORGETTING DURING DEEP NEURAL NETWORK LEARNING; (Memorization)** Mariya Toneva et al
 - **Data Contamination: From Memorization to Exploitation; (Memorization)** Inbal Magar, Roy Schwartz; Study how data contamination issue in pretraining data affect memorization and exploitation. 
 - **Does Learning Require Memorization? A Short Tale about a Long Tail; (Memorization)** Vitaly Feldman
 - **Memorization vs. Generalization: Quantifying Data Leakage in NLP Performance Evaluation; (Memorization)** Aparna Elangovan, Jiayuan He, Karin Verspoor
 - **Memorisation versus Generalisation in Pre-trained Language Models; (Memorization)** Michael Tänzer, Sebastian Ruder, Marek Rei
-- **An Empirical Study of Memorization in NLP;** Xiaosen Zheng, Jing Jiang
+- **An Empirical Study of Memorization in NLP; (Memorization)** Xiaosen Zheng, Jing Jiang
 
 
 
