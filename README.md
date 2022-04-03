@@ -14,6 +14,7 @@
 - **A Survey of Evaluation Metrics Used for NLG Systems;** ANANYA B. SAI et al
 - **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models;** Ning Ding et al
 - **Analysis Methods in Neural Language Processing: A Survey;** Yonatan Belinkov, James Glass
+- **A Roadmap for Big Model;** Sha Yuan et al
 
 
 
