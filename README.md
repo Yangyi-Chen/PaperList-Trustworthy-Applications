@@ -185,6 +185,7 @@
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
 - **Word Order Does Matter (And Shuffled Language Models Know It);** Vinit Ravishankar et al
+- **BERT Rediscovers the Classical NLP Pipeline;** Ian Tenney, Dipanjan Das, Ellie Pavlick
 
 
 
