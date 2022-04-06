@@ -52,7 +52,7 @@
 - **TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing;** Tao Gui et al
 - **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList; (NLP Model Evaluation)** Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
 - **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency;** Seo Yeon Park, Cornelia Caragea
-
+- **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
 
 
 
