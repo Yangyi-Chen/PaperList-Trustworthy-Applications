@@ -166,6 +166,7 @@
 - **Adversarial Filters of Dataset Biases;** Ronan Le Bras et al; Discuss AFLITE.
 - **Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference; (AF)** Rowan Zellers, Yonatan Bisk, Roy Schwartz, Yejin Choi
 - **Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets;** Yuxiang Wu et al
+- **Combining Feature and Instance Attribution to Detect Artifacts;** Pouya Pezeshkpour et al
 
 
 
