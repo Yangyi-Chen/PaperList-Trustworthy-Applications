@@ -108,6 +108,7 @@
 - **Pre-trained Token-replaced Detection Model as Few-shot Learner;** Zicheng Li, Shoushan Li, Guodong Zhou
 - **FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning;** Jing Zhou et al
 - **Example-based Hypernetworks for Out-of-Distribution Generalization;** Tomer Volk et al
+- **Few-Shot Learning with Siamese Networks and Label Tuning;** Thomas Muller et al
 
 
 ## PLM
