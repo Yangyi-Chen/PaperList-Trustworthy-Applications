@@ -54,7 +54,11 @@
 - **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency;** Seo Yeon Park, Cornelia Caragea
 - **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
 - **On the Sensitivity and Stability of Model Interpretations in NLP; (Interpretability)** Fan Yin, Zhouxing Shi, Cho-Jui Hsieh, Kai-Wei Chang; Propose two new metrics in explainable NLP & propose a adversarial robustness based explainable method. 
-- **EVALUATIONS AND METHODS FOR EXPLANATION THROUGH ROBUSTNESS ANALYSIS;** Cheng-Yu Hsieh et al
+- **EVALUATIONS AND METHODS FOR EXPLANATION THROUGH ROBUSTNESS ANALYSIS; (Interpretability)** Cheng-Yu Hsieh et al
+- **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints; (Fairness)** Jieyu Zhao et al 
+- **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings; (Fairness)** Tolga Bolukbasi et al
+
+
 
 ## Data Augmentation
 - **Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning; (Few-shot setting)** Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu
