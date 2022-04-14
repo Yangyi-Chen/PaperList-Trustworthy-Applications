@@ -175,6 +175,7 @@
 - **Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets;** Yuxiang Wu et al
 - **Combining Feature and Instance Attribution to Detect Artifacts;** Pouya Pezeshkpour et al
 - **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
+- **Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets;** Mor Geva et al
 
 
 
