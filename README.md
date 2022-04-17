@@ -221,6 +221,8 @@
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
 - **Goal-Oriented Script Construction;** Qing Lyu et al
 - **Reasoning about Goals, Steps, and Temporal Ordering with WikiHow;** Qing Lyu et al
+- **Chain of Thought Prompting Elicits Reasoning in Large Language Models;** Jason Wei et al
+- **Self-Consistency Improves Chain of Thought Reasoning in Language Models;** Xuezhi Wang et al
 
 
 
