@@ -216,6 +216,7 @@
 
 
 ## Multimodal
+- **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
 
 
 
