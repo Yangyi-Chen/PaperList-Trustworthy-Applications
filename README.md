@@ -216,7 +216,10 @@
 
 
 ## Multimodal
+
+## Reasoning
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
+- **Goal-Oriented Script Construction;** Qing Lyu et al
 
 
 
