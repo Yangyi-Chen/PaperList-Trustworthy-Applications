@@ -212,6 +212,7 @@
 
 ## Language and robotics
 - **Survey on frontiers of language and robotics;** T. Taniguchi et al
+- **Grounded Language Learning: Where Robotics and NLP Meet;** Cynthia Matuszek
 
 
 
