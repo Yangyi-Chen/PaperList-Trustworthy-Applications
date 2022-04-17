@@ -220,6 +220,7 @@
 ## Reasoning
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
 - **Goal-Oriented Script Construction;** Qing Lyu et al
+- **Reasoning about Goals, Steps, and Temporal Ordering with WikiHow;** Qing Lyu et al
 
 
 
