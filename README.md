@@ -215,6 +215,8 @@
 - **Grounded Language Learning: Where Robotics and NLP Meet;** Cynthia Matuszek
 - **Spoken language interaction with robots: Recommendations for future research; (Survey)** Matthew Marge et al
 - **Language to Action: Towards Interactive Task Learning with Physical Agents; (Survey)** Joyce Y. Chai et al
+- **Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior;** Noriyuki Kojima, Alane Suhr, Yoav Artzi
+- **Teaching Robots New Tasks through Natural Interaction; (Survey)** Joyce Y. Chai, Maya Cakmak, Candace Sidner
 
 
 ## Multimodal
