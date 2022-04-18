@@ -213,7 +213,9 @@
 ## Language and robotics
 - **Survey on frontiers of language and robotics; (Survey)** T. Taniguchi et al
 - **Grounded Language Learning: Where Robotics and NLP Meet;** Cynthia Matuszek
-- **Spoken language interaction with robots: Recommendations for future research; (Survey)** Matthew Marge et ak
+- **Spoken language interaction with robots: Recommendations for future research; (Survey)** Matthew Marge et al
+- **Language to Action: Towards Interactive Task Learning with Physical Agents; (Survey)** Joyce Y. Chai et al
+
 
 ## Multimodal
 
