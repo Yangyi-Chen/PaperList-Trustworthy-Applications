@@ -191,6 +191,8 @@
 - **GLUE: A MULTI-TASK BENCHMARK AND ANALYSIS PLATFORM FOR NATURAL LANGUAGE UNDERSTANDING;** Alex Wang et al
 - **From Hero to Zeroe: A Benchmark of Low-Level Adversarial Attacks;** Steffen Eger, Yannik Benz
 - **Quantifying Adaptability in Pre-trained Language Models with 500 Tasks;** Belinda Z. Li et al
+- **Dynabench: Rethinking Benchmarking in NLP;** Douwe Kiela et al
+- **Dynatask: A Framework for Creating Dynamic AI Benchmark Tasks;** Tristan Thrush et al
 
 
 ## Model Analysis
