@@ -34,6 +34,7 @@
 - **Interpreting the Robustness of Neural NLP Models to Textual Perturbations;** Yunxiang Zhang et al
 - **Distinguishing Non-natural from Natural Adversarial Samples for More Robust Pre-trained Language Model;** Anonymous; Using outlier detection to filter non-natural adversarial samples. 
 - **Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense;** Thai Le et al
+- **Understanding, Detecting, and Separating Out-of-Distribution Samples and Adversarial Samples in Text Classification;** Cheng-Han Chiang, Hung-yi Lee
 
 
 
