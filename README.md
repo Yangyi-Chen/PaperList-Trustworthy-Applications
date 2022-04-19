@@ -220,6 +220,7 @@
 - **Language to Action: Towards Interactive Task Learning with Physical Agents; (Survey)** Joyce Y. Chai et al
 - **Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior;** Noriyuki Kojima, Alane Suhr, Yoav Artzi
 - **Teaching Robots New Tasks through Natural Interaction; (Survey)** Joyce Y. Chai, Maya Cakmak, Candace Sidner
+- **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback;** Yuntao Bai et al
 
 
 ## Multimodal
