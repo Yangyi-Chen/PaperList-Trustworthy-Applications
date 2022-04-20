@@ -225,6 +225,8 @@
 - **Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior;** Noriyuki Kojima, Alane Suhr, Yoav Artzi
 - **Teaching Robots New Tasks through Natural Interaction; (Survey)** Joyce Y. Chai, Maya Cakmak, Candace Sidner
 - **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback;** Yuntao Bai et al
+- **A Persistent Spatial Semantic Representation for High-level Natural Language Instruction Execution;** Valts Blukis et al
+- **Analysis of Language Change in Collaborative Instruction Following;** Anna Effenberger et al
 
 
 ## Multimodal
