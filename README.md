@@ -203,6 +203,7 @@
 - **Word Order Does Matter (And Shuffled Language Models Know It);** Vinit Ravishankar et al
 - **BERT Rediscovers the Classical NLP Pipeline;** Ian Tenney, Dipanjan Das, Ellie Pavlick
 - **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space;** Thomas Muller et al
+- **A Primer in BERTology: What We Know About How BERT Works;** Anna Rogers, Olga Kovaleva, Anna Rumshisky 
 
 
 
