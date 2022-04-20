@@ -178,6 +178,7 @@
 - **Combining Feature and Instance Attribution to Detect Artifacts;** Pouya Pezeshkpour et al
 - **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
 - **Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets;** Mor Geva et al
+- **Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language;** Jacob Eisenstein
 
 
 
