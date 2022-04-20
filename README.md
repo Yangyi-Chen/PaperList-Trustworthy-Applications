@@ -239,7 +239,8 @@
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models;** Xuezhi Wang et al
 
 ## Grounding
-
+- **Climbing towards NLU: On meaning, form, and understanding in the age of data;** Emily M. Bender, Alexander Koller
+- **Provable Limitations of Acquiring Meaning from Ungrounded Form: What Will Future Language Models Understand?;** William Merrill et al
 
 
 
