@@ -241,7 +241,8 @@
 ## Grounding
 - **Climbing towards NLU: On meaning, form, and understanding in the age of data;** Emily M. Bender, Alexander Koller
 - **Provable Limitations of Acquiring Meaning from Ungrounded Form: What Will Future Language Models Understand?;** William Merrill et al
-
+- **What Does BERT with Vision Look At?;** Liunian Harold Li et al
+- **Visual Grounding Strategies for Text-Only Natural Language Processing;** Damien Sileo
 
 
 ## Resources
