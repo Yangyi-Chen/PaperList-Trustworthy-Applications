@@ -230,6 +230,8 @@
 
 
 ## Multimodal
+- **Visually Grounded Neural Syntax Acquisition;** Haoyue Shi et al
+- **What is Learned in Visually Grounded Neural Syntax Acquisition;** Noriyuki Kojima et al
 
 ## Reasoning
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
