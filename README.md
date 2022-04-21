@@ -235,6 +235,7 @@
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models;** Xuezhi Wang et al
 - **Evaluating Commonsense in Pre-trained Language Models; (Commonsense)** Xuhui Zhou et al
 - **Do Neural Language Representations Learn Physical Commonsense?; (Commonse)** Maxwell Forbes et al
+- **COMMONSENSEQA: A Question Answering Challenge Targeting Commonsense Knowledge; (Commonse Benchmark)** Alon Talmor et al
 
 ## Grounding
 - **Climbing towards NLU: On meaning, form, and understanding in the age of data;** Emily M. Bender, Alexander Koller
