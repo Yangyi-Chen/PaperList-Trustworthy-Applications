@@ -16,6 +16,7 @@
 - **Analysis Methods in Neural Language Processing: A Survey;** Yonatan Belinkov, James Glass
 - **A Roadmap for Big Model;** Sha Yuan et al
 - **Language (Technology) is Power: A Critical Survey of “Bias” in NLP;** Su Lin Blodgett et al
+- **A Review on Language Models as Knowledge Bases;** Badr AlKhamissi et al
 
 
 
