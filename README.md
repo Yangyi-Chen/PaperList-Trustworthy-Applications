@@ -242,6 +242,9 @@
 - **COMMONSENSEQA: A Question Answering Challenge Targeting Commonsense Knowledge; (Commonse Benchmark)** Alon Talmor et al
 - **A Corpus for Reasoning About Natural Language Grounded in Photographs; (Image & Language Reasoning)** Alane Suhr et al
 - **From Recognition to Cognition: Visual Commonsense Reasoning; (Image & Language Reasoning)** Rowan Zellers et al
+- **THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION; (Vision Reasoning)** Jiayuan Mao et al
+
+
 
 ## Grounding
 - **Climbing towards NLU: On meaning, form, and understanding in the age of data;** Emily M. Bender, Alexander Koller
