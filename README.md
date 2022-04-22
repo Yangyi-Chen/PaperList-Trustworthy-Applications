@@ -221,6 +221,9 @@
 - **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback;** Yuntao Bai et al
 - **A Persistent Spatial Semantic Representation for High-level Natural Language Instruction Execution;** Valts Blukis et al
 - **Analysis of Language Change in Collaborative Instruction Following;** Anna Effenberger et al
+- **Learning to Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight;** Valts Blukis et al
+- **Few-shot Object Grounding and Mapping for Natural Language Robot Instruction Following;** Valts Blukis et al
+
 
 
 ## Multimodal
