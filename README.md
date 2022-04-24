@@ -231,6 +231,7 @@
 ## Multimodal
 - **Visually Grounded Neural Syntax Acquisition;** Haoyue Shi et al
 - **What is Learned in Visually Grounded Neural Syntax Acquisition;** Noriyuki Kojima et al
+- **CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection;** Zhen Li et al
 
 ## Reasoning
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
