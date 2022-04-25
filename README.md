@@ -17,6 +17,7 @@
 - **A Roadmap for Big Model;** Sha Yuan et al
 - **Language (Technology) is Power: A Critical Survey of “Bias” in NLP;** Su Lin Blodgett et al
 - **A Review on Language Models as Knowledge Bases;** Badr AlKhamissi et al
+- **Vision-and-Language Pretrained Models: A Survey;** Siqu Long et al
 
 
 
