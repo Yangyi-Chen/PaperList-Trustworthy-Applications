@@ -118,6 +118,8 @@
 - **FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning;** Jing Zhou et al
 - **Example-based Hypernetworks for Out-of-Distribution Generalization;** Tomer Volk et al
 - **Few-Shot Learning with Siamese Networks and Label Tuning;** Thomas Muller et al
+- **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
+
 
 
 ## PLM
