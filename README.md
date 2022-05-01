@@ -230,7 +230,7 @@
 - **Few-shot Object Grounding and Mapping for Natural Language Robot Instruction Following;** Valts Blukis et al
 - **ALFRED A Benchmark for Interpreting Grounded Instructions for Everyday Tasks;** Mohit Shridhar et al
 - **Learning to Execute Actions or Ask Clarification Questions;** Zhengxiang Shi et al
-
+- **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning;** Khanh Nguyen, Hal Daume III
 
 
 ## Multimodal
