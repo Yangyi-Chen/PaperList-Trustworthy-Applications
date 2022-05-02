@@ -63,6 +63,7 @@
 - **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints; (Fairness)** Jieyu Zhao et al 
 - **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings; (Fairness)** Tolga Bolukbasi et al
 - **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification; (Fairness)** Xiaolei Huang
+- **Measuring Robustness to Natural Distribution Shifts in Image Classification;** Rohan Taori et al
 
 
 
