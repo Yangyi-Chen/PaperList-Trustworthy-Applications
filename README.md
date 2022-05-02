@@ -229,9 +229,10 @@
 - **Analysis of Language Change in Collaborative Instruction Following;** Anna Effenberger et al
 - **Learning to Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight;** Valts Blukis et al
 - **Few-shot Object Grounding and Mapping for Natural Language Robot Instruction Following;** Valts Blukis et al
-- **ALFRED A Benchmark for Interpreting Grounded Instructions for Everyday Tasks;** Mohit Shridhar et al
+- **ALFRED A Benchmark for Interpreting Grounded Instructions for Everyday Tasks;** Mohit Shridhar et al; Create the dataset ALFRED.
 - **Learning to Execute Actions or Ask Clarification Questions;** Zhengxiang Shi et al
-- **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning;** Khanh Nguyen, Hal Daume III
+- **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning;** Khanh Nguyen, Hal Daume III; Create the dataset HANNA. 
+- **Vision-and-Dialog Navigation;** Jesse Thomason et al; Create the dataset CVDN.
 
 
 ## Multimodal
