@@ -223,6 +223,7 @@
 - **BERT Rediscovers the Classical NLP Pipeline;** Ian Tenney, Dipanjan Das, Ellie Pavlick
 - **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space;** Thomas Muller et al
 - **A Primer in BERTology: What We Know About How BERT Works;** Anna Rogers, Olga Kovaleva, Anna Rumshisky 
+- **Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models’ Transferability;** Wei-Tsung Kao, Hung-yi Lee
 
 
 
