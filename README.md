@@ -110,6 +110,8 @@
 - **Meta-learning via Language Model In-context Tuning;** Yanda Chen et al
 - **Muppet: Massive Multi-task Representations with Pre-Finetuning;** Armen Aghajanyan et al
 - **Cross-Task Generalization via Natural Language Crowdsourcing Instructions;** Swaroop Mishra et al
+- **Unsupervised Cross-Task Generalization via Retrieval Augmentation;** Bill Yuchen Lin et al
+- **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
 
 
 
