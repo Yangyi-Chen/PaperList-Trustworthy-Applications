@@ -100,11 +100,12 @@
 
 
 
-## Transfer & Lifelong & Few-shot Learning
+## Transfer & Lifelong & Few-shot & Zero-shot Learning
 - **CROSSFIT: A Few-shot Learning Challenge for Cross-task Generalization in NLP;** Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
 - **FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding;** Yanan Zheng et al
 - **FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS;** Jason Wei et al
 - **MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION;** Victor Sanh et al
+- **LAMOL: LANGUAGE MODELING FOR LIFELONG LANGUAGE LEARNING;** Fan-Keng Sun, Cheng-Hao Ho, Hung-Yi Lee; Use an LM to both generate previous tasks' data and solve the tasks.
 
 
 
@@ -268,17 +269,15 @@
 - **Provable Limitations of Acquiring Meaning from Ungrounded Form: What Will Future Language Models Understand?;** William Merrill et al
 - **What Does BERT with Vision Look At?;** Liunian Harold Li et al
 - **Visual Grounding Strategies for Text-Only Natural Language Processing;** Damien Sileo; Discuss how multi-modal pretraining improves NLU tasks. 
-
+- **Experience Grounds Language;** Yonatan Bisk et al
 
 
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
-- **LAMOL: LANGUAGE MODELING FOR LIFELONG LANGUAGE LEARNING;** Fan-Keng Sun, Cheng-Hao Ho, Hung-Yi Lee; Use an LM to both generate previous tasks' data and solve the tasks.
 - **What are the best Systems? New Perspectives on NLP Benchmarking;** Pierre Colombo, Nathan Noiry, Ekhine Irurozki, Stephan Clemencon; Study how to aggregate metrics in multi-task evaluation. "benchmarks are made of datasets, metrics, and a way to aggregate performance. ... If the bulk of the NLP community efforts on this domain is about collecting new datasets and introducing new metrics, little work is concerned with the third part, namely how to aggregate various performances."
 - **On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection;** Vivian Lai, Chenhao Tan; Use ML models and explanation technology to help the human decision process. 
 - **A Neural-Symbolic Approach to Natural Language Understanding;** Zhixuan Liu et al
-- **Experience Grounds Language;** Yonatan Bisk et al
 - **Fast Few-shot Debugging for NLU Test Suites;** Christopher Malon et al
 - **Shedding New Light on the Language of the Dark Web;** Youngjin Jin et al
 
