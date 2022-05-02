@@ -189,9 +189,7 @@
 - **Learning Robust Global Representations by Penalizing Local Predictive Power;** Haohan Wang, Songwei Ge, Eric P. Xing, Zachary C. Lipton
 - **Invariant Risk Minimization;** Martin Arjovsky, L ́eon Bottou, Ishaan Gulrajani, David Lopez-Paz
 - **Examining and Combating Spurious Features under Distribution Shift;** Chunting Zhou, Xuezhe Ma, Paul Michel, Graham Neubig
-- **WINOGRANDE: An Adversarial Winograd Schema Challenge at Scale; (AFLITE)** Keisuke Sakaguchi et al
 - **Adversarial Filters of Dataset Biases;** Ronan Le Bras et al; Discuss AFLITE.
-- **Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference; (AF)** Rowan Zellers, Yonatan Bisk, Roy Schwartz, Yejin Choi
 - **Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets;** Yuxiang Wu et al
 - **Combining Feature and Instance Attribution to Detect Artifacts;** Pouya Pezeshkpour et al
 - **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
@@ -215,6 +213,11 @@
 - **Dynabench: Rethinking Benchmarking in NLP;** Douwe Kiela et al
 - **Dynatask: A Framework for Creating Dynamic AI Benchmark Tasks;** Tristan Thrush et al
 - **NUMGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks;** Swaroop Mishra et al
+- **WINOGRANDE: An Adversarial Winograd Schema Challenge at Scale; (AFLITE)** Keisuke Sakaguchi et al
+- **Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference; (AF)** Rowan Zellers, Yonatan Bisk, Roy Schwartz, Yejin Choi
+
+
+
 
 
 ## Model Analysis
