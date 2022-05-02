@@ -103,7 +103,8 @@
 ## Transfer & Lifelong & Few-shot Learning
 - **CROSSFIT: A Few-shot Learning Challenge for Cross-task Generalization in NLP;** Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
 - **FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding;** Yanan Zheng et al
-
+- **FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS;** Jason Wei et al
+- **MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION;** Victor Sanh et al
 
 
 
