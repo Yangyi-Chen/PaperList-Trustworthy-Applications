@@ -285,6 +285,7 @@
 - **A Neural-Symbolic Approach to Natural Language Understanding;** Zhixuan Liu et al
 - **Fast Few-shot Debugging for NLU Test Suites;** Christopher Malon et al
 - **Shedding New Light on the Language of the Dark Web;** Youngjin Jin et al
+- **Training language models to follow instructions with human feedback;** Long Ouyang et al; Directly use RL to train language generation models according to the human feedback. 
 
 
 
