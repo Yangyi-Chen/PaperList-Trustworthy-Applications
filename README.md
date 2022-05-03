@@ -272,6 +272,9 @@
 - **THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION; (Vision Reasoning)** Jiayuan Mao et al
 - **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning; (Image Reasoning Benchmark)** Justin Johnson et al
 - **Inferring and Executing Programs for Visual Reasoning;** Justin Johnson et al
+- **Relational World Knowledge Representation in Contextual Language Models: A Review;** Tara Safavi, Danai Koutra
+- **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge;** Alon Talmor et al
+- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents;** Wenlong Huang et al
 
 
 
