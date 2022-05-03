@@ -215,8 +215,8 @@
 - **NUMGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks;** Swaroop Mishra et al
 - **WINOGRANDE: An Adversarial Winograd Schema Challenge at Scale; (AFLITE)** Keisuke Sakaguchi et al
 - **Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference; (AF)** Rowan Zellers, Yonatan Bisk, Roy Schwartz, Yejin Choi
-
-
+- **ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models;** Chunyuan Li et al
+- **KILT: a Benchmark for Knowledge Intensive Language Tasks;** Fabio Petroni et al
 
 
 
