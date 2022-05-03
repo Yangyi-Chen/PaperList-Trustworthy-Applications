@@ -250,7 +250,7 @@
 - **Learning to Execute Actions or Ask Clarification Questions;** Zhengxiang Shi et al
 - **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning;** Khanh Nguyen, Hal Daume III; Create the dataset HANNA. 
 - **Vision-and-Dialog Navigation;** Jesse Thomason et al; Create the dataset CVDN.
-
+- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents;** Wenlong Huang et al
 
 ## Multimodal
 - **Visually Grounded Neural Syntax Acquisition;** Haoyue Shi et al
@@ -274,7 +274,7 @@
 - **Inferring and Executing Programs for Visual Reasoning;** Justin Johnson et al
 - **Relational World Knowledge Representation in Contextual Language Models: A Review;** Tara Safavi, Danai Koutra
 - **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge;** Alon Talmor et al
-- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents;** Wenlong Huang et al
+
 
 
 
