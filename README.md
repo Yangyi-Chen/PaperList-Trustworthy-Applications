@@ -251,12 +251,17 @@
 - **Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning;** Khanh Nguyen, Hal Daume III; Create the dataset HANNA. 
 - **Vision-and-Dialog Navigation;** Jesse Thomason et al; Create the dataset CVDN.
 - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents;** Wenlong Huang et al
+- **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation;** Vihan Jain et al
+
 
 ## Multimodal
 - **Visually Grounded Neural Syntax Acquisition;** Haoyue Shi et al
 - **What is Learned in Visually Grounded Neural Syntax Acquisition;** Noriyuki Kojima et al
 - **CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection;** Zhen Li et al
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan, Mohit Bansal
+- **UniVSE: Robust Visual Semantic Embeddings via Structured Semantic Representations;** Hao Wu et al
+- **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
+
 
 ## Reasoning
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
