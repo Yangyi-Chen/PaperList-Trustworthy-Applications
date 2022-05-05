@@ -260,6 +260,7 @@
 - **What is Learned in Visually Grounded Neural Syntax Acquisition;** Noriyuki Kojima et al
 - **CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection;** Zhen Li et al
 - **Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision;** Hao Tan, Mohit Bansal
+- **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples;** Haoyue Shi et al
 - **UniVSE: Robust Visual Semantic Embeddings via Structured Semantic Representations;** Hao Wu et al
 - **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
 
