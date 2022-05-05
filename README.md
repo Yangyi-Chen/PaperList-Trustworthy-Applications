@@ -65,7 +65,7 @@
 - **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings; (Fairness)** Tolga Bolukbasi et al
 - **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification; (Fairness)** Xiaolei Huang
 - **Measuring Robustness to Natural Distribution Shifts in Image Classification;** Rohan Taori et al
-
+- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 
 
 ## Data Augmentation
