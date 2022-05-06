@@ -263,6 +263,7 @@
 - **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples;** Haoyue Shi et al
 - **UniVSE: Robust Visual Semantic Embeddings via Structured Semantic Representations;** Hao Wu et al
 - **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
+- **K-LITE: Learning Transferable Visual Models with External Knowledge;** Sheng Shen et al
 
 
 ## Reasoning
