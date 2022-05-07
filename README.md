@@ -282,7 +282,7 @@
 - **Inferring and Executing Programs for Visual Reasoning;** Justin Johnson et al
 - **Relational World Knowledge Representation in Contextual Language Models: A Review;** Tara Safavi, Danai Koutra
 - **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge;** Alon Talmor et al
-
+- **Probing Script Knowledge from Pre-Trained Models;** Zijia Jin et al
 
 
 
