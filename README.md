@@ -169,6 +169,7 @@
 - **INTRINSIC DIMENSIONALITY EXPLAINS THE EFFEC- TIVENESS OF LANGUAGE MODEL FINE-TUNING;** Armen Aghajanyan, Luke Zettlemoyer, Sonal Gupta
 - **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning**; Yujia Qin et al
 - **TOWARDS A UNIFIED VIEW OF PARAMETER-EFFICIENT TRANSFER LEARNIN;** Junxian He et al
+- **STANDING ON THE SHOULDERS OF GIANT FROZEN LANGUAGE MODELS;** Yoav Levine et al
 
 
 
