@@ -67,6 +67,7 @@
 - **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification; (Fairness)** Xiaolei Huang
 - **Measuring Robustness to Natural Distribution Shifts in Image Classification;** Rohan Taori et al
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
+- **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
 
 
 ## Data Augmentation
