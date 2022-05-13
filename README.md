@@ -40,8 +40,7 @@
 - **Distinguishing Non-natural from Natural Adversarial Samples for More Robust Pre-trained Language Model;** Anonymous; Using outlier detection to filter non-natural adversarial samples. 
 - **Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense;** Thai Le et al
 - **Understanding, Detecting, and Separating Out-of-Distribution Samples and Adversarial Samples in Text Classification;** Cheng-Han Chiang, Hung-yi Lee
-
-
+- **Consistency Training with Virtual Adversarial Discrete Perturbation;** Jungsoo Park et al
 
 ## Trustworthy (broad topic)
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
