@@ -205,7 +205,7 @@
 - **Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets;** Mor Geva et al
 - **Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language;** Jacob Eisenstein
 - **Avoiding infer- ence heuristics in few-shot prompt-based finetuning; (Prompt-based Learning Paradigm)** Prasetya Ajie Utama et al
-
+- **On the Limitations of Dataset Balancing: The Lost Battle Against Spurious Correlations;** Roy Schwartz, Gabriel Stanovsky
 
 
 ## Dataset and Benchmark
