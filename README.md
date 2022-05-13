@@ -41,6 +41,7 @@
 - **Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense;** Thai Le et al
 - **Understanding, Detecting, and Separating Out-of-Distribution Samples and Adversarial Samples in Text Classification;** Cheng-Han Chiang, Hung-yi Lee
 - **Consistency Training with Virtual Adversarial Discrete Perturbation;** Jungsoo Park et al
+- **Improving Robustness of Language Models from a Geometry-aware Perspective;** Bin Zhu et al
 
 ## Trustworthy (broad topic)
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
@@ -69,6 +70,8 @@
 - **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
 - **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
 - **Can Rationalization Improve Robustness?;** Howard Chen et al
+- **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
+
 
 
 
@@ -290,6 +293,7 @@
 - **Relational World Knowledge Representation in Contextual Language Models: A Review;** Tara Safavi, Danai Koutra
 - **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge;** Alon Talmor et al
 - **Probing Script Knowledge from Pre-Trained Models;** Zijia Jin et al
+- **Towards Teachable Reasoning Systems;** Bhavana Dalvi, Oyvind Tafjord, Peter Clark
 
 
 
