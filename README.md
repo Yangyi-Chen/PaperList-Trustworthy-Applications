@@ -69,6 +69,7 @@
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 - **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
 - **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
+- **Can Rationalization Improve Robustness?;** Howard Chen et al
 
 
 
