@@ -294,6 +294,7 @@
 - **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge;** Alon Talmor et al
 - **Probing Script Knowledge from Pre-Trained Models;** Zijia Jin et al
 - **Towards Teachable Reasoning Systems;** Bhavana Dalvi, Oyvind Tafjord, Peter Clark
+- **Inferring Implicit Relations with Language Models;** Uri Katz et al
 
 
 
