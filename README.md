@@ -228,6 +228,7 @@
 - **Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference; (AF)** Rowan Zellers, Yonatan Bisk, Roy Schwartz, Yejin Choi
 - **ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models;** Chunyuan Li et al
 - **KILT: a Benchmark for Knowledge Intensive Language Tasks;** Fabio Petroni et al
+- **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs;** Dheeru Dua et al
 
 
 
@@ -295,6 +296,7 @@
 - **Probing Script Knowledge from Pre-Trained Models;** Zijia Jin et al
 - **Towards Teachable Reasoning Systems;** Bhavana Dalvi, Oyvind Tafjord, Peter Clark
 - **Inferring Implicit Relations with Language Models;** Uri Katz et al
+- **OPERA: Operation-Pivoted Discrete Reasoning over Text;** Yongwei Zhou et al
 
 
 
