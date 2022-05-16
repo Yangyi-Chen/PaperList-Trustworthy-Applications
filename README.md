@@ -71,6 +71,7 @@
 - **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
 - **Can Rationalization Improve Robustness?;** Howard Chen et al
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
+- **EXSUM: From Local Explanations to Model Understanding; (Explanation)** Yilun Zhou et al
 
 
 
