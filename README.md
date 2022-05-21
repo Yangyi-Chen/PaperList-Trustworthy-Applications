@@ -320,6 +320,7 @@
 
 
 ## NLG Hallucination
+- **On Faithfulness and Factuality in Abstractive Summarization;** Joshua Maynez et al
 
 
 
