@@ -22,6 +22,7 @@
 - **Multimodal Machine Learning: A Survey and Taxonomy;** Tadas Baltrusaitis et al
 - **Measure and Improve Robustness in NLP Models: A Survey;** Xuezhi Wang et al
 - **Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses;** Micah Goldblum et al
+- **Graph Neural Networks for Natural Language Processing: A Survey;** Lingfei Wu et al
 
 
 
