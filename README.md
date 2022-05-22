@@ -182,6 +182,7 @@
 - **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning**; Yujia Qin et al
 - **TOWARDS A UNIFIED VIEW OF PARAMETER-EFFICIENT TRANSFER LEARNIN;** Junxian He et al
 - **STANDING ON THE SHOULDERS OF GIANT FROZEN LANGUAGE MODELS;** Yoav Levine et al
+- **Adaptable Adapters;** Nafise Sadat Moosavi et al
 
 
 
