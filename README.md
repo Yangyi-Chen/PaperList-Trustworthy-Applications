@@ -234,6 +234,7 @@
 - **ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models;** Chunyuan Li et al
 - **KILT: a Benchmark for Knowledge Intensive Language Tasks;** Fabio Petroni et al
 - **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs;** Dheeru Dua et al
+- **TRUE: Re-evaluating Factual Consistency Evaluation;** Or Honovich et al
 
 
 
