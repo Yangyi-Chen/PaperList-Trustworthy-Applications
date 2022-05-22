@@ -129,6 +129,7 @@
 - **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
 - **Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners;** Shashank Gupta et al
 - **Exploring and Predicting Transferability across NLP Tasks;** Tu Vu et al
+- **On Continual Model Refinement in Out-of-Distribution Data Streams;** Bill Yuchen Lin et al
 
 
 ## Backdoor Learning
