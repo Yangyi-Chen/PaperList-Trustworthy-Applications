@@ -283,6 +283,7 @@
 - **UniVSE: Robust Visual Semantic Embeddings via Structured Semantic Representations;** Hao Wu et al
 - **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
 - **K-LITE: Learning Transferable Visual Models with External Knowledge;** Sheng Shen et al
+- **i-Code: An Integrative and Composable Multimodal Learning Framework;** Ziyi Yang et al
 
 
 ## Reasoning
