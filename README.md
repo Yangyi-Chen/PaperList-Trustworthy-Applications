@@ -317,6 +317,7 @@
 - **What Does BERT with Vision Look At?;** Liunian Harold Li et al
 - **Visual Grounding Strategies for Text-Only Natural Language Processing;** Damien Sileo; Discuss how multi-modal pretraining improves NLU tasks. 
 - **Experience Grounds Language;** Yonatan Bisk et al
+- **ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension;** Sanjay Subramanian et al
 
 
 
