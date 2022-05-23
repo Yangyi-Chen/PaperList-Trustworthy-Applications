@@ -237,6 +237,7 @@
 - **KILT: a Benchmark for Knowledge Intensive Language Tasks;** Fabio Petroni et al
 - **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs;** Dheeru Dua et al
 - **TRUE: Re-evaluating Factual Consistency Evaluation;** Or Honovich et al
+- **CURRICULUM: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding;** Zeming Chen, Qiyue Gao
 
 
 
