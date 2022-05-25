@@ -330,6 +330,8 @@
 ## NLG Hallucination
 - **On Faithfulness and Factuality in Abstractive Summarization;** Joshua Maynez et al
 - **Entity-Based Knowledge Conflicts in Question Answering;** Shayne Longpre et al; QA Task hallucination. 
+- **Evaluating the Factual Consistency of Abstractive Text Summarization;** Wojciech Krys ́cin ́ski, Bryan McCann, Caiming Xiong, Richard Socher
+- **Annotating and Modeling Fine-grained Factuality in Summarization;** Tanya Goyal, Greg Durrett
 
 
 
