@@ -329,6 +329,7 @@
 
 ## NLG Hallucination
 - **On Faithfulness and Factuality in Abstractive Summarization;** Joshua Maynez et al
+- **Entity-Based Knowledge Conflicts in Question Answering;** Shayne Longpre et al; QA Task hallucination. 
 
 
 
