@@ -24,9 +24,7 @@
 - **Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses;** Micah Goldblum et al
 - **Graph Neural Networks for Natural Language Processing: A Survey;** Lingfei Wu et al
 - **Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods;** Wei Li et al
-
-
-
+- **Survey of Hallucination in Natural Language Generation;** Ziwei Ji et al
 
 
 
