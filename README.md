@@ -74,8 +74,7 @@
 - **Can Rationalization Improve Robustness?;** Howard Chen et al
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
 - **EXSUM: From Local Explanations to Model Understanding; (Explanation)** Yilun Zhou et al
-
-
+- **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
 
 
 
