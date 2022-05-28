@@ -87,6 +87,7 @@
 - **PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks;** Yufei Wang et al
 - **When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation;** Ehsan Kamalloo, Mehdi Rezagholizadeh, Ali Ghodsi
 - **EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification;** Minyi Zhao et al
+- **Sibylvariant Transformations for Robust Text Classification;** Fabrice Harel-Canada et al
 
 
 
