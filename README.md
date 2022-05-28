@@ -62,8 +62,6 @@
 - **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList; (NLP Model Evaluation)** Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
 - **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency;** Seo Yeon Park, Cornelia Caragea
 - **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
-- **On the Sensitivity and Stability of Model Interpretations in NLP; (Interpretability)** Fan Yin, Zhouxing Shi, Cho-Jui Hsieh, Kai-Wei Chang; Propose two new metrics in explainable NLP & propose a adversarial robustness based explainable method. 
-- **EVALUATIONS AND METHODS FOR EXPLANATION THROUGH ROBUSTNESS ANALYSIS; (Interpretability)** Cheng-Yu Hsieh et al
 - **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints; (Fairness)** Jieyu Zhao et al 
 - **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings; (Fairness)** Tolga Bolukbasi et al
 - **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification; (Fairness)** Xiaolei Huang
@@ -72,9 +70,23 @@
 - **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
 - **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
 - **Can Rationalization Improve Robustness?;** Howard Chen et al
-- **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
-- **EXSUM: From Local Explanations to Model Understanding; (Explanation)** Yilun Zhou et al
 - **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
+
+
+
+
+
+## Explanation
+- **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
+- **EXSUM: From Local Explanations to Model Understanding; ** Yilun Zhou et al
+- **On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection;** Vivian Lai, Chenhao Tan; Use ML models and explanation technology to help the human decision process. 
+- **On the Sensitivity and Stability of Model Interpretations in NLP; ** Fan Yin, Zhouxing Shi, Cho-Jui Hsieh, Kai-Wei Chang; Propose two new metrics in explainable NLP & propose a adversarial robustness based explainable method. 
+- **EVALUATIONS AND METHODS FOR EXPLANATION THROUGH ROBUSTNESS ANALYSIS;** Cheng-Yu Hsieh et al
+- **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
+- **Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection;** Esma Balkir et al
+
+
+
 
 
 
@@ -149,7 +161,6 @@
 - **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
 
 
-
 ## PLM
 - **Adversarial Training for Large Neural Language Models;** Xiaodong Liu et al
 - **SHOULD WE BE Pre-TRAINING? EXPLORING END-TASK AWARE TRAINING IN LIEU OF CONTINUED PRE-TRAINING; (PLM Pre-training)** Lucio M. Dery, Paul Michel, Ameet Talwalkar, Graham Neubig; Study the end-task aware pre-training. 
@@ -209,7 +220,6 @@
 - **Adversarial Filters of Dataset Biases;** Ronan Le Bras et al; Discuss AFLITE.
 - **Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets;** Yuxiang Wu et al
 - **Combining Feature and Instance Attribution to Detect Artifacts;** Pouya Pezeshkpour et al
-- **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
 - **Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets;** Mor Geva et al
 - **Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language;** Jacob Eisenstein
 - **Avoiding infer- ence heuristics in few-shot prompt-based finetuning; (Prompt-based Learning Paradigm)** Prasetya Ajie Utama et al
@@ -340,7 +350,6 @@
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
 - **What are the best Systems? New Perspectives on NLP Benchmarking;** Pierre Colombo, Nathan Noiry, Ekhine Irurozki, Stephan Clemencon; Study how to aggregate metrics in multi-task evaluation. "benchmarks are made of datasets, metrics, and a way to aggregate performance. ... If the bulk of the NLP community efforts on this domain is about collecting new datasets and introducing new metrics, little work is concerned with the third part, namely how to aggregate various performances."
-- **On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection;** Vivian Lai, Chenhao Tan; Use ML models and explanation technology to help the human decision process. 
 - **A Neural-Symbolic Approach to Natural Language Understanding;** Zhixuan Liu et al
 - **Fast Few-shot Debugging for NLU Test Suites;** Christopher Malon et al
 - **Shedding New Light on the Language of the Dark Web;** Youngjin Jin et al
