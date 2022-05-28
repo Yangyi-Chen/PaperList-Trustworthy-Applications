@@ -78,9 +78,9 @@
 
 ## Explanation
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
-- **EXSUM: From Local Explanations to Model Understanding; ** Yilun Zhou et al
+- **EXSUM: From Local Explanations to Model Understanding;** Yilun Zhou et al
 - **On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection;** Vivian Lai, Chenhao Tan; Use ML models and explanation technology to help the human decision process. 
-- **On the Sensitivity and Stability of Model Interpretations in NLP; ** Fan Yin, Zhouxing Shi, Cho-Jui Hsieh, Kai-Wei Chang; Propose two new metrics in explainable NLP & propose a adversarial robustness based explainable method. 
+- **On the Sensitivity and Stability of Model Interpretations in NLP;** Fan Yin, Zhouxing Shi, Cho-Jui Hsieh, Kai-Wei Chang; Propose two new metrics in explainable NLP & propose a adversarial robustness based explainable method. 
 - **EVALUATIONS AND METHODS FOR EXPLANATION THROUGH ROBUSTNESS ANALYSIS;** Cheng-Yu Hsieh et al
 - **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
 - **Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection;** Esma Balkir et al
