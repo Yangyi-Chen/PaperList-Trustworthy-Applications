@@ -195,6 +195,7 @@
 - **STANDING ON THE SHOULDERS OF GIANT FROZEN LANGUAGE MODELS;** Yoav Levine et al
 - **Adaptable Adapters;** Nafise Sadat Moosavi et al
 - **Efficient Hierarchical Domain Adaptation for Pretrained Language Models;** Alexandra Chronopoulou et al
+- **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
 
 
 
