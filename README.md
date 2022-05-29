@@ -100,8 +100,7 @@
 - **When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation;** Ehsan Kamalloo, Mehdi Rezagholizadeh, Ali Ghodsi
 - **EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification;** Minyi Zhao et al
 - **Sibylvariant Transformations for Robust Text Classification;** Fabrice Harel-Canada et al
-
-
+- **TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding;** Le Zhang, Zichao Yang, Diyi Yang
 
 ## Training Data Points
 - **On Training Instance Selection for Few-Shot Neural Text Generation; (Prompt-based generation)** Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh, Vera Demberg; Select informative and representative samples based on K-means clustering.
