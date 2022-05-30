@@ -44,6 +44,9 @@
 - **Understanding, Detecting, and Separating Out-of-Distribution Samples and Adversarial Samples in Text Classification;** Cheng-Han Chiang, Hung-yi Lee
 - **Consistency Training with Virtual Adversarial Discrete Perturbation;** Jungsoo Park et al
 - **Improving Robustness of Language Models from a Geometry-aware Perspective;** Bin Zhu et al
+- **AEON: A Method for Automatic Evaluation of NLP Test Cases;** Jen-tse Huang et al; Validity verification. 
+
+
 
 ## Trustworthy (broad topic)
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
