@@ -87,8 +87,7 @@
 - **EVALUATIONS AND METHODS FOR EXPLANATION THROUGH ROBUSTNESS ANALYSIS;** Cheng-Yu Hsieh et al
 - **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
 - **Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection;** Esma Balkir et al
-
-
+- **The Solvability of Interpretability Evaluation Metrics;** Yilun Zhou, Julie Shah
 
 
 
