@@ -365,6 +365,7 @@
 - **Training language models to follow instructions with human feedback;** Long Ouyang et al; Directly use RL to train language generation models according to the human feedback. 
 - **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training;** Yuanxin Liu et al
 - **Machine-in-the-Loop Rewriting for Creative Image Captioning;** Vishakh Padmakumar, He He
+- **Describing Differences between Text Distributions with Natural Language;** Ruiqi Zhong et al
 
 
 
