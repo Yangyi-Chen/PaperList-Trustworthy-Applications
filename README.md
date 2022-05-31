@@ -349,6 +349,7 @@
 - **Evaluating the Factual Consistency of Abstractive Text Summarization;** Wojciech Krys ́cin ́ski, Bryan McCann, Caiming Xiong, Richard Socher
 - **Annotating and Modeling Fine-grained Factuality in Summarization;** Tanya Goyal, Greg Durrett
 - **FACTPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarizationl** David Wan, Mohit Bansal
+- **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks;** Akari Asai et al
 
 
 
