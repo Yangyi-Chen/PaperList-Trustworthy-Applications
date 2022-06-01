@@ -249,6 +249,7 @@
 - **DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs;** Dheeru Dua et al
 - **TRUE: Re-evaluating Factual Consistency Evaluation;** Or Honovich et al
 - **CURRICULUM: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding;** Zeming Chen, Qiyue Gao
+- **ERASER: A Benchmark to Evaluate Rationalized NLP Models;** Jay DeYoung et al
 
 
 
