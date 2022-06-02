@@ -197,6 +197,7 @@
 - **Adaptable Adapters;** Nafise Sadat Moosavi et al
 - **Efficient Hierarchical Domain Adaptation for Pretrained Language Models;** Alexandra Chronopoulou et al
 - **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
+- **LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners;** Yaqing Wang et al
 
 
 
