@@ -124,7 +124,7 @@
 - **An Empirical Study of Memorization in NLP; (Memorization)** Xiaosen Zheng, Jing Jiang
 - **Are Neural Networks Extracting Linguistic Properties or Memorizing Training Data? An Observation with a Multilingual Probe for Predicting Tense; (Memorization)** Bingzhi Li, Guillaume Wisniewski; Discuss probing tasks. 
 - **Selecting Informative Contexts Improves Language Model Fine-tuning;** Richard Antonello et al
-
+- **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models;** Kushal Tirumala et al
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
