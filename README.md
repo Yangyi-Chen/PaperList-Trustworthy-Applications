@@ -26,6 +26,7 @@
 - **Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods;** Wei Li et al
 - **Survey of Hallucination in Natural Language Generation;** Ziwei Ji et al
 - **Meta Learning for Natural Language Processing: A Survey;** Hung-yi Lee et al
+- **HOW TO KEEP TEXT PRIVATE? A SYSTEMATIC REVIEW OF DEEP LEARNING METHODS FOR PRIVACY-PRESERVING NATURAL LANGUAGE PROCESSING;** Samuel Sousa et al
 
 
 
