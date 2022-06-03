@@ -76,6 +76,7 @@
 - **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
 - **Challenges in Generalization in Open Domain Question Answering; (Generalization)** Linqing Liu et al
 - **Token-Aware Virtual Adversarial Training in Natural Language Understanding; (Adversarial Training)** Linyang Li, Xipeng Qiu
+- **IDANI: Inference-time Domain Adaptation via Neuron-level Interventions; (Domain Adaptation)** Omer Antverg et al
 
 
 
