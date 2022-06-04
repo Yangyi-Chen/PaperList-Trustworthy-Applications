@@ -290,6 +290,7 @@
 - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents;** Wenlong Huang et al
 - **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation;** Vihan Jain et al
 - **Asking for Knowledge: Training RL Agents to Query External Knowledge Using Language;** Iou-Jen Liu et al
+- **Few-shot Subgoal Planning with Language Models;** Lajanugen Logeswaran et al
 
 
 
