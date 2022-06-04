@@ -27,7 +27,7 @@
 - **Survey of Hallucination in Natural Language Generation;** Ziwei Ji et al
 - **Meta Learning for Natural Language Processing: A Survey;** Hung-yi Lee et al
 - **HOW TO KEEP TEXT PRIVATE? A SYSTEMATIC REVIEW OF DEEP LEARNING METHODS FOR PRIVACY-PRESERVING NATURAL LANGUAGE PROCESSING;** Samuel Sousa et al
-
+- **A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics and Benchmark Datasets;** Changchang Zeng et al
 
 
 ## Adversarial Sample
