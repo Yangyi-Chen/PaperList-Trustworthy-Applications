@@ -46,6 +46,8 @@
 - **Consistency Training with Virtual Adversarial Discrete Perturbation;** Jungsoo Park et al
 - **Improving Robustness of Language Models from a Geometry-aware Perspective;** Bin Zhu et al
 - **AEON: A Method for Automatic Evaluation of NLP Test Cases;** Jen-tse Huang et al; Validity verification. 
+- **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks; (Adversarial Training)** Zhao Meng et al;
+- **Token-Aware Virtual Adversarial Training in Natural Language Understanding; (Adversarial Training)** Linyang Li, Xipeng Qiu
 
 
 
@@ -76,7 +78,6 @@
 - **Can Rationalization Improve Robustness?;** Howard Chen et al
 - **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
 - **Challenges in Generalization in Open Domain Question Answering; (Generalization)** Linqing Liu et al
-- **Token-Aware Virtual Adversarial Training in Natural Language Understanding; (Adversarial Training)** Linyang Li, Xipeng Qiu
 - **IDANI: Inference-time Domain Adaptation via Neuron-level Interventions; (Domain Adaptation)** Omer Antverg et al
 
 
