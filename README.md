@@ -310,19 +310,15 @@
 - **i-Code: An Integrative and Composable Multimodal Learning Framework;** Ziyi Yang et al
 
 
-## Reasoning
+## NLP Reasoning
 - **Visual Goal-Step Inference using wikiHow;** Yue Yang et al
 - **Goal-Oriented Script Construction;** Qing Lyu et al
 - **Reasoning about Goals, Steps, and Temporal Ordering with WikiHow;** Qing Lyu et al
 - **Chain of Thought Prompting Elicits Reasoning in Large Language Models;** Jason Wei et al
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models;** Xuezhi Wang et al
 - **Evaluating Commonsense in Pre-trained Language Models; (Commonsense)** Xuhui Zhou et al
-- **Do Neural Language Representations Learn Physical Commonsense?; (Commonse)** Maxwell Forbes et al
+- **Do Neural Language Representations Learn Physical Commonsense?; (Commonsense)** Maxwell Forbes et al
 - **COMMONSENSEQA: A Question Answering Challenge Targeting Commonsense Knowledge; (Commonse Benchmark)** Alon Talmor et al
-- **A Corpus for Reasoning About Natural Language Grounded in Photographs; (Image & Language Reasoning)** Alane Suhr et al
-- **From Recognition to Cognition: Visual Commonsense Reasoning; (Image & Language Reasoning)** Rowan Zellers et al
-- **THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION; (Vision Reasoning)** Jiayuan Mao et al
-- **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning; (Image Reasoning Benchmark)** Justin Johnson et al
 - **Inferring and Executing Programs for Visual Reasoning;** Justin Johnson et al
 - **Relational World Knowledge Representation in Contextual Language Models: A Review;** Tara Safavi, Danai Koutra
 - **Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge;** Alon Talmor et al
@@ -331,8 +327,21 @@
 - **Inferring Implicit Relations with Language Models;** Uri Katz et al
 - **OPERA: Operation-Pivoted Discrete Reasoning over Text;** Yongwei Zhou et al
 - **Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner;** Danilo Neves Ribeiro et al
+- **Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions;** Emily Allaway et al
+
+
+
+## CV Reasoning
 - **MERLOT: Multimodal Neural Script Knowledge Models;** Rowan Zellers et al
 - **MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound;** Rowan Zellers et al
+- **THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION; (Vision Reasoning)** Jiayuan Mao et al
+- **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning; (Image Reasoning Benchmark)** Justin Johnson et al
+- **A Corpus for Reasoning About Natural Language Grounded in Photographs; (Image & Language Reasoning)** Alane Suhr et al
+- **From Recognition to Cognition: Visual Commonsense Reasoning; (Image & Language Reasoning)** Rowan Zellers et al
+
+
+
+
 
 
 ## MRC Reasoning
