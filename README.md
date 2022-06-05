@@ -331,6 +331,7 @@
 - **Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner;** Danilo Neves Ribeiro et al
 - **Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions; (Commonsense)** Emily Allaway et al
 - **Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations;** Jaehun Jung et al
+- **Impact of Pretraining Term Frequencies on Few-Shot Reasoning;** Yasaman Razeghi et al
 
 
 
