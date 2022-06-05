@@ -171,7 +171,7 @@
 - **On the Transferability of Pre-trained Language Models: A Study from Artificial Datasets;** Cheng-Han Chiang, Hung-yi Lee
 - **NoisyTune: A Little Noise Can Help You Finetune Pretrained Language Models Better; (Robust Fine-tuning)** Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang, Xing Xie
 - **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting; (Robust Fine-tuning)** Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu
-- **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta
+- **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta; Discuss representation collapse.
 - **SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization; (Robust Fine-tuning)** Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Tuo Zhao 
 - **REVISITING FEW-SAMPLE BERT FINE-TUNING; (Stable Fine-tuning)** Tianyi Zhang et al
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning; (Robust Fine-tuning)** Runxin Xu et al
@@ -376,7 +376,7 @@
 - **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training;** Yuanxin Liu et al
 - **Machine-in-the-Loop Rewriting for Creative Image Captioning;** Vishakh Padmakumar, He He
 - **Describing Differences between Text Distributions with Natural Language;** Ruiqi Zhong et al
-- **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan et al; Discuss representation collapse.
+
 
 
 
