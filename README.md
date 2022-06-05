@@ -232,6 +232,7 @@
 - **On the Limitations of Dataset Balancing: The Lost Battle Against Spurious Correlations;** Roy Schwartz, Gabriel Stanovsky
 - **Are Prompt-based Models Clueless?** Pride Kavumba et al
 - **Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning;** Prasetya Ajie Utama et al
+- **Partial-input baselines show that NLI models can ignore context, but they don’t;** Neha Srikanth, Rachel Rudinger
 
 ## Dataset and Benchmark
 - **Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets;** Nelson F. Liu, Roy Schwartz, Noah A. Smith
