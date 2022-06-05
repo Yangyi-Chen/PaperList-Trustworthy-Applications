@@ -327,7 +327,8 @@
 - **Inferring Implicit Relations with Language Models;** Uri Katz et al
 - **OPERA: Operation-Pivoted Discrete Reasoning over Text;** Yongwei Zhou et al
 - **Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner;** Danilo Neves Ribeiro et al
-- **Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions;** Emily Allaway et al
+- **Penguins Don’t Fly: Reasoning about Generics through Instantiations and Exceptions; (Commonsense)** Emily Allaway et al
+- **Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations;** Jaehun Jung et al
 
 
 
