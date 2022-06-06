@@ -145,6 +145,7 @@
 - **Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners;** Shashank Gupta et al
 - **Exploring and Predicting Transferability across NLP Tasks;** Tu Vu et al
 - **On Continual Model Refinement in Out-of-Distribution Data Streams;** Bill Yuchen Lin et al
+- **Continual-T0: Progressively Instructing 50+ Tasks to Language Models Without Forgetting;** Thomas Scialom et al
 
 
 ## Backdoor Learning
