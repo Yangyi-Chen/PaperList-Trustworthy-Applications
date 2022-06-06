@@ -390,6 +390,7 @@
 - **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training;** Yuanxin Liu et al
 - **Machine-in-the-Loop Rewriting for Creative Image Captioning;** Vishakh Padmakumar, He He
 - **Describing Differences between Text Distributions with Natural Language;** Ruiqi Zhong et al
+- **The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail;** Samuel R. Bowman
 
 
 
