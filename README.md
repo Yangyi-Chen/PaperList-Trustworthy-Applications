@@ -311,6 +311,7 @@
 - **Visual Referring Expression Recognition: What Do Systems Actually Learn?;** Volkan Cirik et al
 - **K-LITE: Learning Transferable Visual Models with External Knowledge;** Sheng Shen et al
 - **i-Code: An Integrative and Composable Multimodal Learning Framework;** Ziyi Yang et al
+- **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al
 
 
 ## NLP Reasoning
