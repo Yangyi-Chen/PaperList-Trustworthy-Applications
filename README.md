@@ -353,6 +353,7 @@
 ## MRC Reasoning
 - **NEURAL MODULE NETWORKS FOR REASONING OVER TEXT;** Nitish Gupta et al
 - **NEURAL SYMBOLIC READER: SCALABLE INTEGRATION OF DISTRIBUTED AND SYMBOLIC REPRESENTATIONS FOR READING COMPREHENSION;** Xinyun Chen et al
+- **Is a Question Decomposition Unit All We Need?;** Pruthvi Patel et al; Decompose a hard question into several easy ones via human-in-the-loop.
 
 
 
