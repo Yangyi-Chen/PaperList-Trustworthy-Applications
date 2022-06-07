@@ -108,6 +108,7 @@
 - **EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification;** Minyi Zhao et al
 - **Sibylvariant Transformations for Robust Text Classification;** Fabrice Harel-Canada et al
 - **TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding;** Le Zhang, Zichao Yang, Diyi Yang
+- **Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation;** Dheeraj Mekala et al; Employing QA models to generate synthetic data. Most tasks can be reformulated as QA. 
 
 ## Training Data Points
 - **On Training Instance Selection for Few-Shot Neural Text Generation; (Prompt-based generation)** Ernie Chang, Xiaoyu Shen, Hui-Syuan Yeh, Vera Demberg; Select informative and representative samples based on K-means clustering.
