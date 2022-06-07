@@ -130,6 +130,7 @@
 - **Are Neural Networks Extracting Linguistic Properties or Memorizing Training Data? An Observation with a Multilingual Probe for Predicting Tense; (Memorization)** Bingzhi Li, Guillaume Wisniewski; Discuss probing tasks. 
 - **Selecting Informative Contexts Improves Language Model Fine-tuning;** Richard Antonello et al
 - **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models;** Kushal Tirumala et al
+- **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data;** Xiaochuang Han, Yulia Tsvetkov; Discuss why pre-training helps zero/few shot learning.
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
