@@ -82,6 +82,7 @@
 
 
 
+
 ## Explanation
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
 - **EXSUM: From Local Explanations to Model Understanding;** Yilun Zhou et al
@@ -91,6 +92,7 @@
 - **Explaining NLP Models via Minimal Contrastive Editing (MICE);** Alexis Ross et al
 - **Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection;** Esma Balkir et al
 - **The Solvability of Interpretability Evaluation Metrics;** Yilun Zhou, Julie Shah
+- **ER-TEST: Evaluating Explanation Regularization Methods for NLP Models;** Brihi Joshi et al; Set an evaluation benchmark for explanation regularization methods, including OOD generalization (e.g., Unseen Datasets, Contrast Set Tests, Functional Tests).
 
 
 
