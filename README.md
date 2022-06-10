@@ -55,33 +55,39 @@
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
 - **Calibration of Pre-trained Transformers; (Uncertainty)** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
 - **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data; (Uncertainty)** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
-- **Types of Out-of-Distribution Texts and How to Detect Them; (OOD detection)** Udit Arora, William Huang and He He; Analyze two types of OOD data and benchmark two popular OOD detection methods, get some interesting findings. 
-- **Towards Textual Out-of-Domain Detection without In-Domain Labels;** Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, Dilek Hakkani-Tur
-- **On the Trade-off between Adversarial and Backdoor Robustness;** Cheng-Hsin Weng, Yan-Ting Lee, Shan-Hung Wu
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
 - **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
+- **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency; (Uncertainty)** Seo Yeon Park, Cornelia Caragea
+- **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
+- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
+- **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
+- **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
+- **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
+
+## Fairness
+- **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints;** Jieyu Zhao et al 
+- **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings;** Tolga Bolukbasi et al
+- **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification;** Xiaolei Huang
+
+## OOD Detection
+- **Contrastive Out-of-Distribution Detection for Pretrained Transformers;** Wenxuan Zhou, Fangyu Liu, Muhao Chen
+- **Types of Out-of-Distribution Texts and How to Detect Them;** Udit Arora, William Huang and He He; Analyze two types of OOD data and benchmark two popular OOD detection methods, get some interesting findings. 
+- **Towards Textual Out-of-Domain Detection without In-Domain Labels;** Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, Dilek Hakkani-Tur
+
+## Robustness
+- **Challenges in Generalization in Open Domain Question Answering; (Generalization)** Linqing Liu et al
+- **IDANI: Inference-time Domain Adaptation via Neuron-level Interventions; (Domain Adaptation)** Omer Antverg et al
 - **FINE-TUNING DISTORTS PRETRAINED FEATURES AND UNDERPERFORMS OUT-OF-DISTRIBUTION;** Anonymous
 - **UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION; (Generalization)** Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
 - **Robustness Gym: Unifying the NLP Evaluation Landscape;** Karan Goel et al
 - **TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing;** Tao Gui et al
 - **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList; (NLP Model Evaluation)** Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
-- **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency;** Seo Yeon Park, Cornelia Caragea
-- **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
-- **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints; (Fairness)** Jieyu Zhao et al 
-- **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings; (Fairness)** Tolga Bolukbasi et al
-- **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification; (Fairness)** Xiaolei Huang
+- **On the Trade-off between Adversarial and Backdoor Robustness;** Cheng-Hsin Weng, Yan-Ting Lee, Shan-Hung Wu
 - **Measuring Robustness to Natural Distribution Shifts in Image Classification;** Rohan Taori et al
-- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
-- **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
-- **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
 - **Can Rationalization Improve Robustness?;** Howard Chen et al
-- **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
-- **Challenges in Generalization in Open Domain Question Answering; (Generalization)** Linqing Liu et al
-- **IDANI: Inference-time Domain Adaptation via Neuron-level Interventions; (Domain Adaptation)** Omer Antverg et al
-- **Contrastive Out-of-Distribution Detection for Pretrained Transformers; (OOD Detection)** Wenxuan Zhou, Fangyu Liu, Muhao Chen
 
-
+## Temporal Effect
 
 
 ## Explanation
