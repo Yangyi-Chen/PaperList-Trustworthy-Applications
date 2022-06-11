@@ -28,7 +28,13 @@
 - **Meta Learning for Natural Language Processing: A Survey;** Hung-yi Lee et al
 - **HOW TO KEEP TEXT PRIVATE? A SYSTEMATIC REVIEW OF DEEP LEARNING METHODS FOR PRIVACY-PRESERVING NATURAL LANGUAGE PROCESSING;** Samuel Sousa et al
 - **A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics and Benchmark Datasets;** Changchang Zeng et al
-**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions;** Jing Gu et al
+- **Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions;** Jing Gu et al
+- **Adapting to the Long Tail: A Meta-Analysis of Transfer Learning Research for Language Understanding Tasks;** Aakanksha Naik et al
+- **Temporal Effects on Pre-trained Models for Language Processing Tasks;** Oshin Agarwal, Ani Nenkova
+- **Neural Unsupervised Domain Adaptation in NLP—A Survey;** Alan Ramponi, Barbara Plank
+
+
+
 
 ## Adversarial Sample
 - **Repairing Adversarial Texts through Perturbation;** Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
