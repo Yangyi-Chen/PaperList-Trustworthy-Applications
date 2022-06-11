@@ -64,7 +64,7 @@
 - **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
 - **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
 - **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
-
+- **Detecting Label Errors using Pre-Trained Language Models; (Noisy labels)** Derek Chong et al
 ## Fairness
 - **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints;** Jieyu Zhao et al 
 - **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings;** Tolga Bolukbasi et al
