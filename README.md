@@ -32,6 +32,7 @@
 - **Adapting to the Long Tail: A Meta-Analysis of Transfer Learning Research for Language Understanding Tasks;** Aakanksha Naik et al
 - **Temporal Effects on Pre-trained Models for Language Processing Tasks;** Oshin Agarwal, Ani Nenkova
 - **Neural Unsupervised Domain Adaptation in NLP—A Survey;** Alan Ramponi, Barbara Plank
+- **Core Challenges in Embodied Vision-Language Planning;** Jonathan Francis et al
 
 
 
