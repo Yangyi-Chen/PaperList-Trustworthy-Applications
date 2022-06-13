@@ -335,6 +335,7 @@
 - **i-Code: An Integrative and Composable Multimodal Learning Framework;** Ziyi Yang et al
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al
 - **Multimodal Knowledge Alignment with Reinforcement Learning;** Youngjae Yu et al
+- **BRAINISH: FORMALIZING A MULTIMODAL LANGUAGE FOR INTELLIGENCE AND CONSCIOUSNESS;** Paul Pu Liang
 
 
 ## NLP Reasoning
