@@ -93,9 +93,10 @@
 - **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList; (NLP Model Evaluation)** Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
 - **On the Trade-off between Adversarial and Backdoor Robustness;** Cheng-Hsin Weng, Yan-Ting Lee, Shan-Hung Wu
 - **Measuring Robustness to Natural Distribution Shifts in Image Classification;** Rohan Taori et al
-- **Can Rationalization Improve Robustness?;** Howard Chen et al
+- **Can Rationalization Improve Robustness?;** Howard Chen et a
+- **Adaptive Testing and Debugging of NLP Models;** Marco Tulio Ribeiro, Scott M. Lundberg; Human-in-the-loop NLP model debugging. 
 
-## Temporal Effect
+
 
 
 ## Explanation
