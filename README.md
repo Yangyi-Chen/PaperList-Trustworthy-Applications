@@ -56,6 +56,7 @@
 - **AEON: A Method for Automatic Evaluation of NLP Test Cases;** Jen-tse Huang et al; Validity verification. 
 - **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks; (Adversarial Training)** Zhao Meng et al;
 - **Token-Aware Virtual Adversarial Training in Natural Language Understanding; (Adversarial Training)** Linyang Li, Xipeng Qiu
+- **It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations;** Samson Tan et al
 
 
 
