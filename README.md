@@ -96,6 +96,7 @@
 - **Measuring Robustness to Natural Distribution Shifts in Image Classification;** Rohan Taori et al
 - **Can Rationalization Improve Robustness?;** Howard Chen et a
 - **Adaptive Testing and Debugging of NLP Models;** Marco Tulio Ribeiro, Scott M. Lundberg; Human-in-the-loop NLP model debugging. 
+- **Improving the Adversarial Robustness of NLP Models by Information Bottleneck;** Cenyuan Zhang et al; Consider robust and non-robust features. Use the information bottleneck to filter out non-robust features.
 
 
 
