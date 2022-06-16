@@ -111,6 +111,7 @@
 - **Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection;** Esma Balkir et al
 - **The Solvability of Interpretability Evaluation Metrics;** Yilun Zhou, Julie Shah
 - **ER-TEST: Evaluating Explanation Regularization Methods for NLP Models;** Brihi Joshi et al; Set an evaluation benchmark for explanation regularization methods, including OOD generalization (e.g., Unseen Datasets, Contrast Set Tests, Functional Tests).
+- **Is Attention Explanation? An Introduction to the Debate;** Adrien Bibal et al
 
 
 
