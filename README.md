@@ -341,6 +341,7 @@
 - **Flamingo: a Visual Language Model for Few-Shot Learning;** Jean-Baptiste Alayrac et al
 - **Multimodal Knowledge Alignment with Reinforcement Learning;** Youngjae Yu et al
 - **BRAINISH: FORMALIZING A MULTIMODAL LANGUAGE FOR INTELLIGENCE AND CONSCIOUSNESS;** Paul Pu Liang
+- **A Unified Continuous Learning Framework for Multi-modal Knowledge Discovery and Pre-training;** Zhihao Fan et al
 
 
 ## NLP Reasoning
