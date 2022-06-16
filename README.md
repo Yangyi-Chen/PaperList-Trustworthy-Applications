@@ -58,12 +58,13 @@
 - **Token-Aware Virtual Adversarial Training in Natural Language Understanding; (Adversarial Training)** Linyang Li, Xipeng Qiu
 - **It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations;** Samson Tan et al
 
-
+## Calibration
+- **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs** Hanjie Chen, Yangfeng Ji 
+- **Calibration of Pre-trained Transformers;** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
+- **Teaching models to express their uncertainty in words;** Stephanie Lin et al
+- **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data;** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
 
 ## Trustworthy (broad topic)
-- **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs; (Uncertainty)** Hanjie Chen, Yangfeng Ji 
-- **Calibration of Pre-trained Transformers; (Uncertainty)** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
-- **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data; (Uncertainty)** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
 - **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
