@@ -203,6 +203,7 @@
 - **Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping;** Jesse Dodge et al; Empirical study on the fine-tuning strategies. 
 - **Impossible Triangle: What’s Next for Pre-trained Language Models?;** Chenguang Zhu, Michael Zeng
 - **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline;** Xiangyang Liu et al
+- **Language Models are General-Purpose Interfaces;** Yaru Hao et al
 
 ## Parameter Efficient Tuning
 - **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
