@@ -229,6 +229,7 @@
 - **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
 - **LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners;** Yaqing Wang et al
 - **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning;** Yi-Lin Sung et al
+- **Sparse Structure Search for Parameter-Efficient Tuning;** Shengding Hu et al
 
 
 
