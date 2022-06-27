@@ -347,6 +347,7 @@
 - **BRAINISH: FORMALIZING A MULTIMODAL LANGUAGE FOR INTELLIGENCE AND CONSCIOUSNESS;** Paul Pu Liang
 - **A Unified Continuous Learning Framework for Multi-modal Knowledge Discovery and Pre-training;** Zhihao Fan et al
 - **OFA: UNIFYING ARCHITECTURES, TASKS, AND MODALITIES THROUGH A SIMPLE SEQUENCE-TO-SEQUENCE LEARNING FRAMEWORK;** Peng Wang et al
+- **A Unified Sequence Interface for Vision Tasks;** Ting Chen et al
 
 ## Scene Graph
 - **Visual Distant Supervision for Scene Graph Generation;** Yuan Yao et al
