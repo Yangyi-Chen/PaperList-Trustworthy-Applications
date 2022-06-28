@@ -291,6 +291,7 @@
 - **CURRICULUM: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding;** Zeming Chen, Qiyue Gao
 - **ERASER: A Benchmark to Evaluate Rationalized NLP Models;** Jay DeYoung et al
 - **VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models;** Wangchunshu Zhou et al
+- **Visual Genome Connecting Language and Vision Using Crowdsourced Dense Image Annotations;** Ranjay Krishna et al
 
 
 
