@@ -64,6 +64,10 @@
 - **Teaching models to express their uncertainty in words;** Stephanie Lin et al
 - **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data;** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
 
+
+
+
+
 ## Trustworthy (broad topic)
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
 - **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
@@ -99,8 +103,7 @@
 - **Adaptive Testing and Debugging of NLP Models;** Marco Tulio Ribeiro, Scott M. Lundberg; Human-in-the-loop NLP model debugging. 
 - **Improving the Adversarial Robustness of NLP Models by Information Bottleneck;** Cenyuan Zhang et al; Consider robust and non-robust features. Use the information bottleneck to filter out non-robust features.
 - **Methods for Estimating and Improving Robustness of Language Models; (Generalization)** Michal Štefánik
-
-
+- **A FINE-GRAINED ANALYSIS ON DISTRIBUTION SHIFT;** Olivia Wiles et al
 
 
 ## Explanation
@@ -190,6 +193,7 @@
 - **Example-based Hypernetworks for Out-of-Distribution Generalization;** Tomer Volk et al
 - **Few-Shot Learning with Siamese Networks and Label Tuning;** Thomas Muller et al
 - **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
+- **On Transferability of Prompt Tuning for Natural Language Understanding;** Yusheng Su et al
 
 
 ## PLM
@@ -292,6 +296,7 @@
 - **ERASER: A Benchmark to Evaluate Rationalized NLP Models;** Jay DeYoung et al
 - **VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models;** Wangchunshu Zhou et al
 - **Visual Genome Connecting Language and Vision Using Crowdsourced Dense Image Annotations;** Ranjay Krishna et al
+- **Wilds: A Benchmark of in-the-Wild Distribution Shifts;** Pang Wei Koh et al
 
 
 
