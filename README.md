@@ -297,6 +297,10 @@
 - **VLUE: A Multi-Task Benchmark for Evaluating Vision-Language Models;** Wangchunshu Zhou et al
 - **Visual Genome Connecting Language and Vision Using Crowdsourced Dense Image Annotations;** Ranjay Krishna et al
 - **Wilds: A Benchmark of in-the-Wild Distribution Shifts;** Pang Wei Koh et al
+- **Natural Adversarial Examples;** Dan Hendrycks et al; ImageNet-A & ImageNet-O.
+- **The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization;** Dan Hendrycks et al; ImageNet-R.
+- **Learning Robust Global Representations by Penalizing Local Predictive Power;** Haohan Wang et al; ImageNet-S.
+- **ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models;** Andrei Barbu et al; ObjectNet.
 
 
 
