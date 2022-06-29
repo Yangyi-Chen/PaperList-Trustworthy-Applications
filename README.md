@@ -194,6 +194,7 @@
 - **Few-Shot Learning with Siamese Networks and Label Tuning;** Thomas Muller et al
 - **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
 - **On Transferability of Prompt Tuning for Natural Language Understanding;** Yusheng Su et al
+- **reStructured Pre-training;** Weizhe Yuan, Pengfei Liu
 
 
 ## PLM
