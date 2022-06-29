@@ -104,6 +104,9 @@
 - **Improving the Adversarial Robustness of NLP Models by Information Bottleneck;** Cenyuan Zhang et al; Consider robust and non-robust features. Use the information bottleneck to filter out non-robust features.
 - **Methods for Estimating and Improving Robustness of Language Models; (Generalization)** Michal Štefánik
 - **A FINE-GRAINED ANALYSIS ON DISTRIBUTION SHIFT;** Olivia Wiles et al
+- **The Effect of Natural Distribution Shift on Question Answering Models;** John Miller et al
+- **Selective Question Answering under Domain Shift;** Amita Kamath, Robin Jia, Percy Liang
+
 
 
 ## Explanation
