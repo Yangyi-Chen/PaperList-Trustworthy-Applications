@@ -187,6 +187,7 @@
 - **Anti-Backdoor Learning: Training Clean Models on Poisoned Data;** Yige Li et al
 - **Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering;** Bryant Chen et al
 - **BACKDOOR DEFENSE VIA DECOUPLING THE TRAINING PROCESS;** Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren
+- **Backdoor Attacks Against Deep Learning Systems in the Physical World;** Emily Wenger et al
 
 
 
