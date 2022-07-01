@@ -111,6 +111,7 @@
 - **The Effect of Natural Distribution Shift on Question Answering Models;** John Miller et al
 - **Selective Question Answering under Domain Shift;** Amita Kamath, Robin Jia, Percy Liang
 - **Towards a Theoretical Framework of Out-of-Distribution Generalization;** Haotian Ye et al
+- **MULTIQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension;** Alon Talmor, Jonathan Berant
 
 
 
