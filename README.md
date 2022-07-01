@@ -112,6 +112,8 @@
 - **Selective Question Answering under Domain Shift;** Amita Kamath, Robin Jia, Percy Liang
 - **Towards a Theoretical Framework of Out-of-Distribution Generalization;** Haotian Ye et al
 - **MULTIQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension;** Alon Talmor, Jonathan Berant
+- **On the Robustness of Reading Comprehension Models to Entity Renaming;** Jun Yan et al
+- **RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models;** Bill Yuchen Lin et al
 
 
 
