@@ -106,6 +106,7 @@
 - **A FINE-GRAINED ANALYSIS ON DISTRIBUTION SHIFT;** Olivia Wiles et al
 - **The Effect of Natural Distribution Shift on Question Answering Models;** John Miller et al
 - **Selective Question Answering under Domain Shift;** Amita Kamath, Robin Jia, Percy Liang
+- **Towards a Theoretical Framework of Out-of-Distribution Generalization;** Haotian Ye et al
 
 
 
