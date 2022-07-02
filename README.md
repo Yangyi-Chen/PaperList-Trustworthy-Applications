@@ -43,8 +43,6 @@
 - **Adversarial Examples Are Not Bugs, They Are Features;** Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry
 - **Detecting Adversarial Samples from Artifacts; (Detection)** Reuben Feinman, Ryan R. Curtin, Saurabh Shintre, Andrew B. Gardner
 - **Detection of Adversarial Examples in NLP: Benchmark and Baseline via Robust Density Estimation；** Anonymous
-- **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples; (Adversarial Training)** Dongyeop Kang et al
-- **Adversarially Regularising Neural NLI Models to Integrate Logical Background Knowledge; (Adversarial Training)** Pasquale Minervini, Sebastian Riedel
 - **Reevaluating Adversarial Examples in Natural Language; (Evaluation)** John X. Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi; Discuss how to align automatic evaluation metrics with human intuition; and integrate automatic metrics in the searching process to preserve quality and validity of adversarial samples. 
 - **Evaluating the Robustness of Neural Language Models to Input Perturbations;** Milad Moradi, Matthias Samwald; Benchmark models' robustness to real-world user inputs; they use adversarial samples to simulate user inputs. 
 - **Interpreting the Robustness of Neural NLP Models to Textual Perturbations;** Yunxiang Zhang et al
@@ -54,9 +52,17 @@
 - **Consistency Training with Virtual Adversarial Discrete Perturbation;** Jungsoo Park et al
 - **Improving Robustness of Language Models from a Geometry-aware Perspective;** Bin Zhu et al
 - **AEON: A Method for Automatic Evaluation of NLP Test Cases;** Jen-tse Huang et al; Validity verification. 
-- **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks; (Adversarial Training)** Zhao Meng et al;
-- **Token-Aware Virtual Adversarial Training in Natural Language Understanding; (Adversarial Training)** Linyang Li, Xipeng Qiu
 - **It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations;** Samson Tan et al
+
+
+
+## Adversarial Training
+- **ADVERSARIAL SELF-ATTENTION FOR LANGUAGE UNDERSTANDING;** Hongqiu Wu, Hai Zhao
+- **Token-Aware Virtual Adversarial Training in Natural Language Understanding;** Linyang Li, Xipeng Qiu
+- **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples;** Dongyeop Kang et al
+- **Adversarially Regularising Neural NLI Models to Integrate Logical Background Knowledge;** Pasquale Minervini, Sebastian Riedel
+- **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks;** Zhao Meng et al;
+
 
 ## Calibration
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs** Hanjie Chen, Yangfeng Ji 
