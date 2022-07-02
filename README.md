@@ -69,6 +69,7 @@
 - **Calibration of Pre-trained Transformers;** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
 - **Teaching models to express their uncertainty in words;** Stephanie Lin et al
 - **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data;** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
+- **Revisiting Calibration for Question Answering;** Chenglei Si et al
 
 
 
