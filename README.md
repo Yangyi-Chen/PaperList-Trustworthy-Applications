@@ -482,3 +482,4 @@
 - **How to write research paper?** https://students.uu.nl/sites/default/files/ge0-aw-guide-for-scientific-writing-2016.pdf
 - **CausalNLP: A Practical Toolkit for Causal Inference with Text;** Arun S. Maiya
 - **Challenges and Opportunities in NLP Benchmarking;** Sebastian Ruder
+- **Zero- and Few-Shot NLP with Pretrained Language Models; (Tutorial)** https://github.com/allenai/acl2022-zerofewshot-tutorial
