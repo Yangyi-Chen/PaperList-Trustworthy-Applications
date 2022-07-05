@@ -124,6 +124,7 @@
 - **RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models;** Bill Yuchen Lin et al
 - **Learning Stable Classifiers by Transferring Unstable Features;** Yujia Bao et al
 - **Time Waits for No One! Analysis and Challenges of Temporal Misalignment;** Kelvin Luu et al
+- **VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations;** Tiancheng Zhao et al
 
 
 
