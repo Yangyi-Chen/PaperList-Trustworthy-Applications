@@ -99,6 +99,7 @@
 - **Contrastive Out-of-Distribution Detection for Pretrained Transformers;** Wenxuan Zhou, Fangyu Liu, Muhao Chen
 - **Types of Out-of-Distribution Texts and How to Detect Them;** Udit Arora, William Huang and He He; Analyze two types of OOD data and benchmark two popular OOD detection methods, get some interesting findings. 
 - **Towards Textual Out-of-Domain Detection without In-Domain Labels;** Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, Dilek Hakkani-Tur
+- **Scaling Out-of-Distribution Detection for Real-World Settings;** Dan Hendrycks et al
 
 ## Robustness
 - **Challenges in Generalization in Open Domain Question Answering; (Generalization)** Linqing Liu et al
