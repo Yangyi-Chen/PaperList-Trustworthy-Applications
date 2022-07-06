@@ -88,6 +88,7 @@
 - **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
 - **Detecting Label Errors using Pre-Trained Language Models; (Noisy labels)** Derek Chong et al
 - **Protoformer: Embedding Prototypes for Transformers (Noisy labels);** Ashkan Farhangi et al
+- **PIXMIX: Dreamlike Pictures Comprehensively Improve Safety Measures;** Dan Hendrycks et al
 
 
 
