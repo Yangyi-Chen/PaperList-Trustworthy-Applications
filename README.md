@@ -238,6 +238,8 @@
 - **Impossible Triangle: What’s Next for Pre-trained Language Models?;** Chenguang Zhu, Michael Zeng
 - **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline;** Xiangyang Liu et al
 - **Language Models are General-Purpose Interfaces;** Yaru Hao et al
+- **Finding Skill Neurons in Pre-trained Transformers via Prompt Tuning;** Anonymous
+
 
 ## Parameter Efficient Tuning
 - **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
