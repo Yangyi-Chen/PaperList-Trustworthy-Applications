@@ -180,6 +180,7 @@
 - **Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models;** Kushal Tirumala et al
 - **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data;** Xiaochuang Han, Yulia Tsvetkov; Discuss why pre-training helps zero/few shot learning.
 - **Understanding Dataset Difficulty with V-Usable Information;** Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta
+- **Prioritized Training on Points that are learnable, Worth Learning, and Not Yet Learnt;** Sören Mindermann et al
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
