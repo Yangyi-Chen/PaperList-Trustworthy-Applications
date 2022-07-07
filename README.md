@@ -224,23 +224,6 @@
 - **Learning to Prompt for Vision-Language Models;** Kaiyang Zhou et al
 
 
-## PLM
-- **Adversarial Training for Large Neural Language Models;** Xiaodong Liu et al
-- **SHOULD WE BE Pre-TRAINING? EXPLORING END-TASK AWARE TRAINING IN LIEU OF CONTINUED PRE-TRAINING; (PLM Pre-training)** Lucio M. Dery, Paul Michel, Ameet Talwalkar, Graham Neubig; Study the end-task aware pre-training. 
-- **NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework;** Xingcheng Yao, Yanan Zheng, Xiaocong Yang, Zhilin Yang; "Given some labeled task data and a large general corpus, TLM uses task data as queries to retrieve a tiny subset of the general corpus and jointly optimizes the task objective and the language modeling objective from scratch"
-- **On the Transferability of Pre-trained Language Models: A Study from Artificial Datasets;** Cheng-Han Chiang, Hung-yi Lee
-- **NoisyTune: A Little Noise Can Help You Finetune Pretrained Language Models Better; (Robust Fine-tuning)** Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang, Xing Xie
-- **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting; (Robust Fine-tuning)** Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu
-- **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta; Discuss representation collapse.
-- **SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization; (Robust Fine-tuning)** Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Tuo Zhao 
-- **REVISITING FEW-SAMPLE BERT FINE-TUNING; (Stable Fine-tuning)** Tianyi Zhang et al
-- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning; (Robust Fine-tuning)** Runxin Xu et al
-- **MIXOUT: EFFECTIVE REGULARIZATION TO FINETUNE LARGE-SCALE PRETRAINED LANGUAGE MODELS; (Robust Fine-tuning)** Cheolhyoung Lee, Kyunghyun Cho, Wanmo Kang
-- **Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping;** Jesse Dodge et al; Empirical study on the fine-tuning strategies. 
-- **Impossible Triangle: What’s Next for Pre-trained Language Models?;** Chenguang Zhu, Michael Zeng
-- **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline;** Xiangyang Liu et al
-- **Language Models are General-Purpose Interfaces;** Yaru Hao et al
-- **Finding Skill Neurons in Pre-trained Transformers via Prompt Tuning;** Anonymous
 
 
 ## Parameter Efficient Tuning
@@ -334,6 +317,25 @@
 
 
 
+## PLM
+- **Adversarial Training for Large Neural Language Models;** Xiaodong Liu et al
+- **SHOULD WE BE Pre-TRAINING? EXPLORING END-TASK AWARE TRAINING IN LIEU OF CONTINUED PRE-TRAINING; (PLM Pre-training)** Lucio M. Dery, Paul Michel, Ameet Talwalkar, Graham Neubig; Study the end-task aware pre-training. 
+- **NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework;** Xingcheng Yao, Yanan Zheng, Xiaocong Yang, Zhilin Yang; "Given some labeled task data and a large general corpus, TLM uses task data as queries to retrieve a tiny subset of the general corpus and jointly optimizes the task objective and the language modeling objective from scratch"
+- **On the Transferability of Pre-trained Language Models: A Study from Artificial Datasets;** Cheng-Han Chiang, Hung-yi Lee
+- **NoisyTune: A Little Noise Can Help You Finetune Pretrained Language Models Better; (Robust Fine-tuning)** Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang, Xing Xie
+- **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting; (Robust Fine-tuning)** Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu
+- **BETTER FINE-TUNING BY REDUCING REPRESENTATIONAL COLLAPSE;** Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta; Discuss representation collapse.
+- **SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization; (Robust Fine-tuning)** Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Tuo Zhao 
+- **REVISITING FEW-SAMPLE BERT FINE-TUNING; (Stable Fine-tuning)** Tianyi Zhang et al
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning; (Robust Fine-tuning)** Runxin Xu et al
+- **MIXOUT: EFFECTIVE REGULARIZATION TO FINETUNE LARGE-SCALE PRETRAINED LANGUAGE MODELS; (Robust Fine-tuning)** Cheolhyoung Lee, Kyunghyun Cho, Wanmo Kang
+- **Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping;** Jesse Dodge et al; Empirical study on the fine-tuning strategies. 
+- **Impossible Triangle: What’s Next for Pre-trained Language Models?;** Chenguang Zhu, Michael Zeng
+- **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline;** Xiangyang Liu et al
+- **Language Models are General-Purpose Interfaces;** Yaru Hao et al
+
+
+
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
 - **Word Order Does Matter (And Shuffled Language Models Know It);** Vinit Ravishankar et al
@@ -341,7 +343,8 @@
 - **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space;** Thomas Muller et al
 - **A Primer in BERTology: What We Know About How BERT Works;** Anna Rogers, Olga Kovaleva, Anna Rumshisky 
 - **Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models’ Transferability;** Wei-Tsung Kao, Hung-yi Lee
-
+- **Finding Experts in Transformer Models;** Xavier Suau et al
+- **Finding Skill Neurons in Pre-trained Transformers via Prompt Tuning;** Anonymous
 
 
 
