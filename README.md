@@ -74,7 +74,9 @@
 
 
 
-
+## Compositional Generalization
+- **MEASURING COMPOSITIONAL GENERALIZATION: A COMPREHENSIVE METHOD ON REALISTIC DATA;** Daniel Keysers et al
+- **Improving Compositional Generalization in Classification Tasks via Structure Annotations;** Juyong Kim et al
 
 ## Trustworthy (broad topic)
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
