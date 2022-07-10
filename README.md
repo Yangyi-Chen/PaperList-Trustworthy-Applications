@@ -128,6 +128,9 @@
 - **Learning Stable Classifiers by Transferring Unstable Features;** Yujia Bao et al
 - **Time Waits for No One! Analysis and Challenges of Temporal Misalignment;** Kelvin Luu et al
 - **VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations;** Tiancheng Zhao et al
+- **DISTRIBUTIONALLY ROBUST NEURAL NETWORKS FOR GROUP SHIFTS: ON THE IMPORTANCE OF REGULARIZATION FOR WORST-CASE GENERALIZATION;** Shiori Sagawa et al; Subpopulation shift. 
+
+
 
 
 
