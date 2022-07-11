@@ -75,6 +75,7 @@
 
 
 ## Compositional Generalization
+- **Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks;** Brenden Lake, Marco Baroni
 - **MEASURING COMPOSITIONAL GENERALIZATION: A COMPREHENSIVE METHOD ON REALISTIC DATA;** Daniel Keysers et al
 - **Improving Compositional Generalization in Classification Tasks via Structure Annotations;** Juyong Kim et al
 
