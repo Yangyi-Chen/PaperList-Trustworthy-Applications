@@ -150,7 +150,7 @@
 - **The Solvability of Interpretability Evaluation Metrics;** Yilun Zhou, Julie Shah
 - **ER-TEST: Evaluating Explanation Regularization Methods for NLP Models;** Brihi Joshi et al; Set an evaluation benchmark for explanation regularization methods, including OOD generalization (e.g., Unseen Datasets, Contrast Set Tests, Functional Tests).
 - **Is Attention Explanation? An Introduction to the Debate;** Adrien Bibal et al
-
+- **Compositional Explanations of Neurons;** Jesse Mu, Jacob Andreas
 
 
 
