@@ -35,6 +35,7 @@
 - **Core Challenges in Embodied Vision-Language Planning;** Jonathan Francis et al
 - **Multimodal Machine Learning: A Survey and Taxonomy;** Tadas Baltrusaitis, Chaitanya Ahuja, Louis-Philippe Morency; Introduce 4 challenges for multi-modal learning, including representation, translation, alignment, fusion, and co-learning. 
 - **Modern Question Answering Datasets and Benchmarks: A Survey;** Zhen Wang 
+- **A Unified Survey on Anomaly, Novelty, Open-Set, and Out- of-Distribution Detection: Solutions and Future Challenges;** Mohammadreza Salehi et al
 
 
 
