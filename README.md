@@ -407,6 +407,7 @@
 - **Learning to Generate Scene Graph from Natural Language Supervision;** Yiwu Zhong et al
 - **Weakly Supervised Visual Semantic Parsing;** Alireza Zareian, Svebor Karaman, Shih-Fu Chang
 - **Scene Graph Prediction with Limited Labels;** Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei
+- **Neural Motifs: Scene Graph Parsing with Global Context;** Rowan Zellers et al
 
 
 
