@@ -379,6 +379,8 @@
 - **Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation;** Vihan Jain et al
 - **Asking for Knowledge: Training RL Agents to Query External Knowledge Using Language;** Iou-Jen Liu et al
 - **Few-shot Subgoal Planning with Language Models;** Lajanugen Logeswaran et al
+- **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action;** Dhruv Shah et al
+- **Inner Monologue: Embodied Reasoning through Planning with Language Models;** Wenlong Huang et al
 
 
 
