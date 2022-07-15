@@ -72,8 +72,8 @@
 - **Teaching models to express their uncertainty in words;** Stephanie Lin et al
 - **Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data;** Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao, Chao Zhang
 - **Revisiting Calibration for Question Answering;** Chenglei Si et al
-
-
+- **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency;** Seo Yeon Park, Cornelia Caragea
+- **Language Models (Mostly) Know What They Know;** Saurav Kadavath et al
 
 ## Compositional Generalization
 - **Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks;** Brenden Lake, Marco Baroni
@@ -85,7 +85,6 @@
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
 - **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
-- **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency; (Uncertainty)** Seo Yeon Park, Cornelia Caragea
 - **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 - **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
