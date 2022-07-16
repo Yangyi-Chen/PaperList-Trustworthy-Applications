@@ -94,6 +94,7 @@
 - **Protoformer: Embedding Prototypes for Transformers (Noisy labels);** Ashkan Farhangi et al
 - **PIXMIX: Dreamlike Pictures Comprehensively Improve Safety Measures;** Dan Hendrycks et al
 - **METASHIFT: A DATASET OF DATASETS FOR EVALUATING CONTEXTUAL DISTRIBUTION SHIFTS AND TRAINING CONFLICTS;** Weixin Liang, James Zou
+- **TOXIGEN: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection;** Thomas Hartvigsen et al
 
 
 
