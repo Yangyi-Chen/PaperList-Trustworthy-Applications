@@ -291,6 +291,7 @@
 - **Are Prompt-based Models Clueless?** Pride Kavumba et al
 - **Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning;** Prasetya Ajie Utama et al
 - **Partial-input baselines show that NLI models can ignore context, but they don’t;** Neha Srikanth, Rachel Rudinger
+- **Learning De-biased Representations with Biased Representations;** Hyojin Bahng et al
 
 
 
