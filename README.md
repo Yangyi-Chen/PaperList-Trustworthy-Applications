@@ -74,6 +74,7 @@
 - **Revisiting Calibration for Question Answering;** Chenglei Si et al
 - **On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency;** Seo Yeon Park, Cornelia Caragea
 - **Language Models (Mostly) Know What They Know;** Saurav Kadavath et al
+- **Investigating Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial Settings;** Neeraj Varshney, Swaroop Mishra, Chitta Baral
 
 ## Compositional Generalization
 - **Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks;** Brenden Lake, Marco Baroni
