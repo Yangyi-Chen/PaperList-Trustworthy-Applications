@@ -137,7 +137,7 @@
 - **VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations;** Tiancheng Zhao et al
 - **DISTRIBUTIONALLY ROBUST NEURAL NETWORKS FOR GROUP SHIFTS: ON THE IMPORTANCE OF REGULARIZATION FOR WORST-CASE GENERALIZATION;** Shiori Sagawa et al; Subpopulation shift. 
 - **NoiseQA: Challenge Set Evaluation for User-Centric Question Answering;** Abhilasha Ravichander et al
-
+- **Semantically Distributed Robust Optimization for Vision-and-Language Inference;** Tejas Gokhale et al
 
 
 
