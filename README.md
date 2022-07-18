@@ -220,6 +220,7 @@
 - **Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering;** Bryant Chen et al
 - **BACKDOOR DEFENSE VIA DECOUPLING THE TRAINING PROCESS;** Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren
 - **Backdoor Attacks Against Deep Learning Systems in the Physical World;** Emily Wenger et al
+- **DBIA: Data-free Backdoor Injection Attack against Transformer Networks;** Peizhuo Lv et al
 
 
 
