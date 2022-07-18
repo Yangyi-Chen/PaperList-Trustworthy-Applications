@@ -138,6 +138,9 @@
 - **DISTRIBUTIONALLY ROBUST NEURAL NETWORKS FOR GROUP SHIFTS: ON THE IMPORTANCE OF REGULARIZATION FOR WORST-CASE GENERALIZATION;** Shiori Sagawa et al; Subpopulation shift. 
 - **NoiseQA: Challenge Set Evaluation for User-Centric Question Answering;** Abhilasha Ravichander et al
 - **Semantically Distributed Robust Optimization for Vision-and-Language Inference;** Tejas Gokhale et al
+- **Detecting and Correcting for Label Shift with Black Box Predictors;** Zachary C. Lipton et al; Label shift. 
+- **LTF: A Label Transformation Framework for Correcting Target Shift;** Jiaxian Guo et al; Label shift. 
+- **A Unified View of Label Shift Estimation;** Saurabh Garg et al; Label shift. 
 
 
 
