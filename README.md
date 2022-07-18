@@ -358,6 +358,7 @@
 - **Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models’ Transferability;** Wei-Tsung Kao, Hung-yi Lee
 - **Finding Experts in Transformer Models;** Xavier Suau et al
 - **Finding Skill Neurons in Pre-trained Transformers via Prompt Tuning;** Anonymous
+- **Analyzing Encoded Concepts in Transformer Language Models;** Hassan Sajjad et al
 
 
 
@@ -386,6 +387,7 @@
 - **Few-shot Subgoal Planning with Language Models;** Lajanugen Logeswaran et al
 - **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action;** Dhruv Shah et al
 - **Inner Monologue: Embodied Reasoning through Planning with Language Models;** Wenlong Huang et al
+
 
 
 
