@@ -6,7 +6,31 @@
 - [Adversarial Training](#adversarial-training)
 - [Calibration](#calibration) 
 - [Compositional Generalization](#compositional-generalization) 
-- [Trustworthy (broad topic)](#trustworthy-(broad-topic)) 
+- [Trustworthy (broad topic)](#trustworthy-(broad-topic))
+- [Fairness](#fairness)
+- [OOD Detection](#ood-detection)
+- [Robustness](#robustness) 
+- [Explanation](#explanation)
+- [Data Augmentation](#data-augmentation)
+- [Training Data Points](#training-data-points)
+- [Transfer & Lifelong & Few-shot & Zero-shot Learning](#transfer-&-lifelong-&-few-shot-&-zero-shot-learning)
+- [Backdoor Learning](#backdoor-learning)
+- [Prompt-based Learning](#prompt-based-learning)
+- [Parameter Efficient Tuning](#parameter-efficient-tuning)
+- [Spurious Correlation](#spurious-correlation)
+- [Dataset and Benchmark](#dataset-and-benchmark)
+- [PLM](#plm)
+- [Model Analysis](#model-analysis)
+- [Language and Robotics](#language-and-robotics)
+- [Multimodal](#multimodal)
+- [Scene Graph](#scene-graph)
+- [NLP Reasoning](#nlp-reasoning)
+- [CV Reasoning](#cv-reasoning)
+- [MRC Reasoning](#mrc-reasoning)
+- [Grounding](#grounding) 
+- [NLG Hallucination](#nlg-hallucination)
+- [Interesting Topics](#interesting-topics)
+- [Resources](#resources) 
 
 
 
@@ -379,7 +403,7 @@
 
 
 
-## Language and robotics
+## Language and Robotics
 - **Survey on frontiers of language and robotics; (Survey)** T. Taniguchi et al
 - **Grounded Language Learning: Where Robotics and NLP Meet;** Cynthia Matuszek
 - **Spoken language interaction with robots: Recommendations for future research; (Survey)** Matthew Marge et al
