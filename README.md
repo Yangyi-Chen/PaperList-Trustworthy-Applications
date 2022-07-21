@@ -390,6 +390,7 @@
 - **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline;** Xiangyang Liu et al
 - **The Lottery Ticket Hypothesis for Pre-trained BERT Networks;** Tianlong Chen et al
 - **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training;** Yuanxin Liu et al 
+- **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
 
 
 ## Model Analysis
