@@ -234,7 +234,7 @@
 - **ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data;** Xiaochuang Han, Yulia Tsvetkov; Discuss why pre-training helps zero/few shot learning.
 - **Understanding Dataset Difficulty with V-Usable Information;** Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta
 - **Prioritized Training on Points that are learnable, Worth Learning, and Not Yet Learnt;** Sören Mindermann et al
-
+- **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning;** Anonymous
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
 - **CROSSFIT: A Few-shot Learning Challenge for Cross-task Generalization in NLP;** Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
