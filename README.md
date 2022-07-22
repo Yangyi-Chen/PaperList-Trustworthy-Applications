@@ -112,6 +112,7 @@
 - **Investigating Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial Settings;** Neeraj Varshney, Swaroop Mishra, Chitta Baral
 - **Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis;** Anonymous
 - **On the Effects of Transformer Size on In- and Out-of-Domain Calibration;** Soham Dan, Dan Roth
+- **Calibrating Structured Output Predictors for Natural Language Processing;** Abhyuday Jagannatha, Hong Yu
 
 
 
