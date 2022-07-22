@@ -111,6 +111,9 @@
 - **Language Models (Mostly) Know What They Know;** Saurav Kadavath et al
 - **Investigating Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial Settings;** Neeraj Varshney, Swaroop Mishra, Chitta Baral
 - **Uncertainty Quantification with Pre-trained Language Models: A Large-Scale Empirical Analysis;** Anonymous
+- **On the Effects of Transformer Size on In- and Out-of-Domain Calibration;** Soham Dan, Dan Roth
+
+
 
 ## Compositional Generalization
 - **Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks;** Brenden Lake, Marco Baroni
@@ -118,6 +121,7 @@
 - **Improving Compositional Generalization in Classification Tasks via Structure Annotations;** Juyong Kim et al
 - **MEASURING COMPOSITIONALITY IN REPRESENTATION LEARNING;** Jacob Andreas
 - **Revisiting the Compositional Generalization Abilities of Neural Sequence Models;** Arkil Patel et al
+
 
 ## Trustworthy (broad topic)
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
