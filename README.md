@@ -4,7 +4,7 @@
 - [Survey](#survey)
 - [Adversarial Sample](#adversarial-sample)
 - [Adversarial Training](#adversarial-training)
-- [Calibration](#calibration) 
+- [Calibration and Uncertainty](#calibration-and-uncertainty) 
 - [Compositional Generalization](#compositional-generalization) 
 - [Trustworthy (broad topic)](#trustworthy-(broad-topic))
 - [Fairness](#fairness)
@@ -101,7 +101,7 @@
 - **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks;** Zhao Meng et al;
 
 
-## Calibration
+## Calibration and Uncertainty
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs** Hanjie Chen, Yangfeng Ji 
 - **Calibration of Pre-trained Transformers;** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
 - **Teaching models to express their uncertainty in words;** Stephanie Lin et al
@@ -115,6 +115,7 @@
 - **Calibrating Structured Output Predictors for Natural Language Processing;** Abhyuday Jagannatha, Hong Yu
 - **Intrinsic Uncertainty-Aware Calibration Metric;** Anonymous 
 - **IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING;** Mamshad Nayeem Rizve et al; Application. 
+- **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles;** Balaji Lakshminarayanan et al
 
 
 
