@@ -116,6 +116,7 @@
 - **Intrinsic Uncertainty-Aware Calibration Metric;** Anonymous 
 - **IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING;** Mamshad Nayeem Rizve et al; Application. 
 - **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles;** Balaji Lakshminarayanan et al
+- **Uncertainty Estimation of Transformer Predictions for Misclassification Detection;** Artem Vazhentsev et al
 
 
 
