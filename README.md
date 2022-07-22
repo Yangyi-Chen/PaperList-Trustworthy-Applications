@@ -114,6 +114,7 @@
 - **On the Effects of Transformer Size on In- and Out-of-Domain Calibration;** Soham Dan, Dan Roth
 - **Calibrating Structured Output Predictors for Natural Language Processing;** Abhyuday Jagannatha, Hong Yu
 - **Intrinsic Uncertainty-Aware Calibration Metric;** Anonymous 
+- **IN DEFENSE OF PSEUDO-LABELING: AN UNCERTAINTY-AWARE PSEUDO-LABEL SELECTION FRAMEWORK FOR SEMI-SUPERVISED LEARNING;** Mamshad Nayeem Rizve et al; Application. 
 
 
 
