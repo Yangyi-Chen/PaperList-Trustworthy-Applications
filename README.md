@@ -120,6 +120,10 @@
 - **Evaluating model calibration in classification;** Juozas Vaicenavicius et al
 - **CALIBRATION OF NEURAL NETWORKS USING SPLINES;** Kartik Gupta et al
 - **Mitigating Bias in Calibration Error Estimation;** Rebecca Roelofs et al
+- **Mix-n-Match: Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning;** Jize Zhang et al
+- **Revisiting the Calibration of Modern Neural Networks;** Matthias Minderer et al
+- **Measuring Calibration in Deep Learning;** Jeremy Nixon et al
+- **Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift;** Yaniv Ovadia et al
 
 
 
