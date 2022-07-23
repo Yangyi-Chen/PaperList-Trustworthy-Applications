@@ -403,7 +403,7 @@
 - **The Lottery Ticket Hypothesis for Pre-trained BERT Networks;** Tianlong Chen et al
 - **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training;** Yuanxin Liu et al 
 - **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
-
+- **Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?;** Yi Tay et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
