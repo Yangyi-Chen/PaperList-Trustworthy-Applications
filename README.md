@@ -118,6 +118,8 @@
 - **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles;** Balaji Lakshminarayanan et al
 - **Uncertainty Estimation of Transformer Predictions for Misclassification Detection;** Artem Vazhentsev et al
 - **Evaluating model calibration in classification;** Juozas Vaicenavicius et al
+- **CALIBRATION OF NEURAL NETWORKS USING SPLINES;** Kartik Gupta et al
+- **Mitigating Bias in Calibration Error Estimation;** Rebecca Roelofs et al
 
 
 
