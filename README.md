@@ -102,6 +102,7 @@
 
 
 ## Calibration and Uncertainty
+- **On Calibration of Modern Neural Networks;** Chuan Guo et al
 - **Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs** Hanjie Chen, Yangfeng Ji 
 - **Calibration of Pre-trained Transformers;** Shrey Desai, Greg Durrett; Empirically study the calibration of PLMs, in both in-domain & out-out-domain. Also include label smoothing and temperature scaling in the experiments. 
 - **Teaching models to express their uncertainty in words;** Stephanie Lin et al
