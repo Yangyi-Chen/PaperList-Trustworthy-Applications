@@ -19,7 +19,7 @@
 - [Parameter Efficient Tuning](#parameter-efficient-tuning)
 - [Spurious Correlation](#spurious-correlation)
 - [Dataset and Benchmark](#dataset-and-benchmark)
-- [PLM](#plm)
+- [Foundation Model](#foundation-model)
 - [Model Analysis](#model-analysis)
 - [Language and Robotics](#language-and-robotics)
 - [Multimodal](#multimodal)
@@ -396,7 +396,7 @@
 
 
 
-## PLM
+## Foundation Model
 - **Adversarial Training for Large Neural Language Models;** Xiaodong Liu et al
 - **SHOULD WE BE Pre-TRAINING? EXPLORING END-TASK AWARE TRAINING IN LIEU OF CONTINUED PRE-TRAINING; (PLM Pre-training)** Lucio M. Dery, Paul Michel, Ameet Talwalkar, Graham Neubig; Study the end-task aware pre-training. 
 - **NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework;** Xingcheng Yao, Yanan Zheng, Xiaocong Yang, Zhilin Yang; "Given some labeled task data and a large general corpus, TLM uses task data as queries to retrieve a tiny subset of the general corpus and jointly optimizes the task objective and the language modeling objective from scratch"
@@ -415,6 +415,10 @@
 - **Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training;** Yuanxin Liu et al 
 - **DEMIX Layers: Disentangling Domains for Modular Language Modeling;** Suchin Gururangan et al
 - **Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?;** Yi Tay et al
+- **EXPLORING THE LIMITS OF LARGE SCALE PRE-TRAINING;** Samira Abnar, Mostafa Dehghani, Behnam Neyshabur, Hanie Sedghi
+- **Emergent Abilities of Large Language Models;** Jason Wei et al
+
+
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
