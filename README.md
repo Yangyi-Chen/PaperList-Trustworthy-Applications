@@ -164,6 +164,10 @@
 - **Types of Out-of-Distribution Texts and How to Detect Them;** Udit Arora, William Huang and He He; Analyze two types of OOD data and benchmark two popular OOD detection methods, get some interesting findings. 
 - **Towards Textual Out-of-Domain Detection without In-Domain Labels;** Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, Dilek Hakkani-Tur
 - **Scaling Out-of-Distribution Detection for Real-World Settings;** Dan Hendrycks et al
+- **OPEN-SET RECOGNITION: A GOOD CLOSED-SET CLASSIFIER IS ALL YOU NEED?;** Sagar Vaze et al
+
+
+
 
 ## Robustness
 - **Challenges in Generalization in Open Domain Question Answering; (Generalization)** Linqing Liu et al
@@ -210,6 +214,7 @@
 - **ER-TEST: Evaluating Explanation Regularization Methods for NLP Models;** Brihi Joshi et al; Set an evaluation benchmark for explanation regularization methods, including OOD generalization (e.g., Unseen Datasets, Contrast Set Tests, Functional Tests).
 - **Is Attention Explanation? An Introduction to the Debate;** Adrien Bibal et al
 - **Compositional Explanations of Neurons;** Jesse Mu, Jacob Andreas
+- **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 
 
 
