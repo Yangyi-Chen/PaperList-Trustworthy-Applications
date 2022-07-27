@@ -527,6 +527,7 @@
 - **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning; (Image Reasoning Benchmark)** Justin Johnson et al
 - **A Corpus for Reasoning About Natural Language Grounded in Photographs; (Image & Language Reasoning)** Alane Suhr et al
 - **From Recognition to Cognition: Visual Commonsense Reasoning; (Image & Language Reasoning)** Rowan Zellers et al
+- **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning;** Jack Hessel et al
 
 
 
