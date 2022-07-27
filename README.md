@@ -297,7 +297,7 @@
 - **Backdoor Attacks Against Deep Learning Systems in the Physical World;** Emily Wenger et al
 - **DBIA: Data-free Backdoor Injection Attack against Transformer Networks;** Peizhuo Lv et al
 - **POISONING AND BACKDOORING CONTRASTIVE LEARNING;** Nicholas Carlini, Andreas Terzis
-
+- **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning;** Baoyuan Wu et al
 
 
 ## Prompt-based Learning
