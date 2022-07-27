@@ -7,6 +7,7 @@
 - [Calibration and Uncertainty](#calibration-and-uncertainty) 
 - [Compositional Generalization](#compositional-generalization) 
 - [Trustworthy (broad topic)](#trustworthy-(broad-topic))
+- [Noisy Label](#noisy-label) 
 - [Fairness](#fairness)
 - [OOD Detection](#ood-detection)
 - [Robustness](#robustness) 
@@ -90,7 +91,7 @@
 - **Improving Robustness of Language Models from a Geometry-aware Perspective;** Bin Zhu et al
 - **AEON: A Method for Automatic Evaluation of NLP Test Cases;** Jen-tse Huang et al; Validity verification. 
 - **It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations;** Samson Tan et al
-
+- **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
 
 
 ## Adversarial Training
@@ -137,22 +138,29 @@
 
 
 ## Trustworthy (broad topic)
-- **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels; (Noisy labels)** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
-- **Learning to Reweight Examples for Robust Deep Learning;(Noisy labels)** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
-- **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING; (Noisy labels)** Junnan Li, Richard Socher, Steven C.H. Hoi
-- **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
-- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 - **Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective;** Edoardo Manino et al
 - **A Metamorphic Testing Approach for Assessing Question Answering Systems;** Kaiyi Tu et al
 - **White-box Testing of NLP models with Mask Neuron Coverage;** Arshdeep Sekhon et al; Evaluation. Employ white-box information to reduce test cases. The intuition is to identify when an input’s activation of attention neurons is subsumed by that of prior test inputs. 
-- **Detecting Label Errors using Pre-Trained Language Models; (Noisy labels)** Derek Chong et al
-- **Protoformer: Embedding Prototypes for Transformers (Noisy labels);** Ashkan Farhangi et al
 - **PIXMIX: Dreamlike Pictures Comprehensively Improve Safety Measures;** Dan Hendrycks et al
 - **METASHIFT: A DATASET OF DATASETS FOR EVALUATING CONTEXTUAL DISTRIBUTION SHIFTS AND TRAINING CONFLICTS;** Weixin Liang, James Zou
 - **TOXIGEN: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection;** Thomas Hartvigsen et al
 - **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
 - **NON-TRANSFERABLE LEARNING: A NEW APPROACH FOR MODEL OWNERSHIP VERIFICATION AND APPLICABILITY AUTHORIZATION;** Lixu Wang et al
-- **Two-Stage Fine-Tuning: A Novel Strategy for Learning Class- Imbalanced Data;** Taha ValizadehAslani et al
+
+
+
+
+
+## Noisy Label
+- **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels;** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
+- **Learning to Reweight Examples for Robust Deep Learning;** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
+- **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING;** Junnan Li, Richard Socher, Steven C.H. Hoi
+- **Detecting Label Errors using Pre-Trained Language Models;** Derek Chong et al
+- **Protoformer: Embedding Prototypes for Transformers;** Ashkan Farhangi et al
+
+
+
+
 
 
 ## Fairness
@@ -201,7 +209,7 @@
 - **Detecting and Correcting for Label Shift with Black Box Predictors;** Zachary C. Lipton et al; Label shift. 
 - **LTF: A Label Transformation Framework for Correcting Target Shift;** Jiaxian Guo et al; Label shift. 
 - **A Unified View of Label Shift Estimation;** Saurabh Garg et al; Label shift. 
-
+- **Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data;** Taha ValizadehAslani et al
 
 
 ## Explanation
@@ -217,7 +225,7 @@
 - **Is Attention Explanation? An Introduction to the Debate;** Adrien Bibal et al
 - **Compositional Explanations of Neurons;** Jesse Mu, Jacob Andreas
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
-
+- **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 
 
 ## Data Augmentation
