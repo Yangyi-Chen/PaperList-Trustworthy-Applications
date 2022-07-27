@@ -166,6 +166,7 @@
 - **Towards Textual Out-of-Domain Detection without In-Domain Labels;** Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, Dilek Hakkani-Tur
 - **Scaling Out-of-Distribution Detection for Real-World Settings;** Dan Hendrycks et al
 - **OPEN-SET RECOGNITION: A GOOD CLOSED-SET CLASSIFIER IS ALL YOU NEED?;** Sagar Vaze et al
+- **AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing;** Matei Bejan et al
 
 
 
