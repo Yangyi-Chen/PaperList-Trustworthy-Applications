@@ -9,7 +9,7 @@
 - [Trustworthy (broad topic)](#trustworthy-(broad-topic))
 - [Noisy Label](#noisy-label) 
 - [Fairness](#fairness)
-- [OOD Detection](#ood-detection)
+- [OOD/Anomaly/Openset Detection](#ood/anomaly/openset-detection)
 - [Robustness](#robustness) 
 - [Explanation](#explanation)
 - [Data Augmentation](#data-augmentation)
@@ -169,14 +169,14 @@
 - **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings;** Tolga Bolukbasi et al
 - **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification;** Xiaolei Huang
 
-## OOD Detection
+## OOD/Anomaly/Openset Detection
 - **Contrastive Out-of-Distribution Detection for Pretrained Transformers;** Wenxuan Zhou, Fangyu Liu, Muhao Chen
 - **Types of Out-of-Distribution Texts and How to Detect Them;** Udit Arora, William Huang and He He; Analyze two types of OOD data and benchmark two popular OOD detection methods, get some interesting findings. 
 - **Towards Textual Out-of-Domain Detection without In-Domain Labels;** Di Jin, Shuyang Gao, Seokhwan Kim, Yang Liu, Dilek Hakkani-Tur
 - **Scaling Out-of-Distribution Detection for Real-World Settings;** Dan Hendrycks et al
 - **OPEN-SET RECOGNITION: A GOOD CLOSED-SET CLASSIFIER IS ALL YOU NEED?;** Sagar Vaze et al
 - **AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing;** Matei Bejan et al
-
+- **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection;** Jingkang Yang et al
 
 
 
