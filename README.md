@@ -448,7 +448,8 @@
 - **Finding Skill Neurons in Pre-trained Transformers via Prompt Tuning;** Anonymous
 - **Analyzing Encoded Concepts in Transformer Language Models;** Hassan Sajjad et al
 - **Language Models are General-Purpose Interfaces;** Yaru Hao et al
-
+- **Vision Transformers with Patch Diversification;** Chengyue Gong et al
+- **Attention is not all you need: pure attention loses rank doubly exponentially with depth;** Yihe Dong et al
 
 
 
