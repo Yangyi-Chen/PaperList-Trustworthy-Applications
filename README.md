@@ -407,6 +407,7 @@
 - **Learning Robust Global Representations by Penalizing Local Predictive Power;** Haohan Wang et al; ImageNet-S.
 - **ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models;** Andrei Barbu et al; ObjectNet.
 - **EXTENDING THE WILDS BENCHMARK FOR UNSUPERVISED ADAPTATION;** Shiori Sagawa et al
+- **MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING;** Dan Hendrycks et al
 
 
 
