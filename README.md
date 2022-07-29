@@ -452,6 +452,7 @@
 - **Attention is not all you need: pure attention loses rank doubly exponentially with depth;** Yihe Dong et al
 - **BERT Loses Patience: Fast and Robust Inference with Early Exit;** Wangchunshu Zhou et al
 - **Shallow-Deep Networks: Understanding and Mitigating Network Overthinking;** Yigitcan Kaya et al
+- **PAIRNORM: TACKLING OVERSMOOTHING IN GNNS;** Lingxiao Zhao, Leman Akoglu
 
 
 
