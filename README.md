@@ -127,7 +127,7 @@
 - **Measuring Calibration in Deep Learning;** Jeremy Nixon et al
 - **Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift;** Yaniv Ovadia et al
 - **Calibrated ensembles can mitigate accuracy tradeoffs under distribution shift;** Ananya Kumar et al
-
+- **TOP-LABEL CALIBRATION AND MULTICLASS-TO-BINARY REDUCTIONS;** Chirag Gupta, Aaditya Ramdas
 
 
 ## Compositional Generalization
