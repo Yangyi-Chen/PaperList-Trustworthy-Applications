@@ -148,7 +148,7 @@
 - **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
 - **NON-TRANSFERABLE LEARNING: A NEW APPROACH FOR MODEL OWNERSHIP VERIFICATION AND APPLICABILITY AUTHORIZATION;** Lixu Wang et al
 - **Plex: Towards Reliability Using Pretrained Large Model Extensions;** Dustin Tran et al
-
+- **Recovering Private Text in Federated Learning of Language Models;** Samyak Gupta et al
 
 
 
