@@ -456,6 +456,7 @@
 - **Shallow-Deep Networks: Understanding and Mitigating Network Overthinking;** Yigitcan Kaya et al
 - **PAIRNORM: TACKLING OVERSMOOTHING IN GNNS;** Lingxiao Zhao, Leman Akoglu
 - **REVISITING OVER-SMOOTHING IN BERT FROM THE PERSPECTIVE OF GRAPH;** Han Shi et al
+- **ON THE PITFALLS OF ANALYZING INDIVIDUAL NEURONS IN LANGUAGE MODELS;** Omer Antverg, Yonatan Belinkov
 
 
 
