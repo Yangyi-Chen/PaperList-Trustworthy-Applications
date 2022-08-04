@@ -374,6 +374,7 @@
 - **Partial-input baselines show that NLI models can ignore context, but they don’t;** Neha Srikanth, Rachel Rudinger
 - **Learning De-biased Representations with Biased Representations;** Hyojin Bahng et al
 - **Unlearnable Text for Neural Classifiers;** Anonymous
+- **Generative Bias for Visual Question Answering;** Jae Won Cho et al
 
 
 
