@@ -159,7 +159,7 @@
 - **DIVIDEMIX: LEARNING WITH NOISY LABELS AS SEMI-SUPERVISED LEARNING;** Junnan Li, Richard Socher, Steven C.H. Hoi
 - **Detecting Label Errors using Pre-Trained Language Models;** Derek Chong et al
 - **Protoformer: Embedding Prototypes for Transformers;** Ashkan Farhangi et al
-
+- **ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS;** Xiaobo Xia et al
 
 
 
