@@ -436,7 +436,7 @@
 - **Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?;** Yi Tay et al
 - **EXPLORING THE LIMITS OF LARGE SCALE PRE-TRAINING;** Samira Abnar, Mostafa Dehghani, Behnam Neyshabur, Hanie Sedghi
 - **Emergent Abilities of Large Language Models;** Jason Wei et al
-
+- **GLaM: Efficient Scaling of Language Models with Mixture-of-Experts;** Nan Du et al
 
 
 ## Model Analysis
