@@ -513,7 +513,7 @@
 - **Weakly Supervised Visual Semantic Parsing;** Alireza Zareian, Svebor Karaman, Shih-Fu Chang
 - **Scene Graph Prediction with Limited Labels;** Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei
 - **Neural Motifs: Scene Graph Parsing with Global Context;** Rowan Zellers et al
-
+- **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
 
 
 ## NLP Reasoning
