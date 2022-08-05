@@ -162,7 +162,7 @@
 - **Protoformer: Embedding Prototypes for Transformers;** Ashkan Farhangi et al
 - **ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS;** Xiaobo Xia et al
 - **SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS;** Xiaobo Xia et al
-- **SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE;** Hong Liu et al
+
 
 
 
@@ -214,6 +214,7 @@
 - **LTF: A Label Transformation Framework for Correcting Target Shift;** Jiaxian Guo et al; Label shift. 
 - **A Unified View of Label Shift Estimation;** Saurabh Garg et al; Label shift. 
 - **Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data;** Taha ValizadehAslani et al
+- **SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE;** Hong Liu et al
 
 
 ## Explanation
