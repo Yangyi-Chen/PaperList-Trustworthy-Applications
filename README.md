@@ -161,7 +161,8 @@
 - **Detecting Label Errors using Pre-Trained Language Models;** Derek Chong et al
 - **Protoformer: Embedding Prototypes for Transformers;** Ashkan Farhangi et al
 - **ROBUST EARLY-LEARNING: HINDERING THE MEMORIZATION OF NOISY LABELS;** Xiaobo Xia et al
-
+- **SAMPLE SELECTION WITH UNCERTAINTY OF LOSSES FOR LEARNING WITH NOISY LABELS;** Xiaobo Xia et al
+- **SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE;** Hong Liu et al
 
 
 
