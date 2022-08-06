@@ -303,6 +303,8 @@
 - **DBIA: Data-free Backdoor Injection Attack against Transformer Networks;** Peizhuo Lv et al
 - **POISONING AND BACKDOORING CONTRASTIVE LEARNING;** Nicholas Carlini, Andreas Terzis
 - **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning;** Baoyuan Wu et al
+- **Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks;** Kang Liu et al
+- **Adversarial Neuron Pruning Purifies Backdoored Deep Models;** Dongxian Wu, Yisen Wang
 
 
 ## Prompt-based Learning
