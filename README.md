@@ -441,6 +441,7 @@
 - **EXPLORING THE LIMITS OF LARGE SCALE PRE-TRAINING;** Samira Abnar, Mostafa Dehghani, Behnam Neyshabur, Hanie Sedghi
 - **Emergent Abilities of Large Language Models;** Jason Wei et al
 - **GLaM: Efficient Scaling of Language Models with Mixture-of-Experts;** Nan Du et al
+- **RETHINKING SUPERVISED PRE-TRAINING FOR BETTER DOWNSTREAM TRANSFERRING;** Yutong Feng et al
 
 
 ## Model Analysis
