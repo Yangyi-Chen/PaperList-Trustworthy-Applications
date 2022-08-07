@@ -467,6 +467,7 @@
 - **ON THE PITFALLS OF ANALYZING INDIVIDUAL NEURONS IN LANGUAGE MODELS;** Omer Antverg, Yonatan Belinkov
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **DISCOVERING LATENT CONCEPTS LEARNED IN BERT;** Fahim Dalvi et al
+- **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
 
 
 
