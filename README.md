@@ -74,6 +74,7 @@
 - **A Unified Survey on Anomaly, Novelty, Open-Set, and Out- of-Distribution Detection: Solutions and Future Challenges;** Mohammadreza Salehi et al
 - **Survey on deep learning with class imbalance;** Justin M. Johnson, Taghi M. Khoshgoftaar
 - **WHAT IS THE STATE OF NEURAL NETWORK PRUNING?;** Davis Blalock et al
+- **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond;** Amir Feder et al
 
 
 ## Adversarial Sample
