@@ -151,6 +151,7 @@
 - **Plex: Towards Reliability Using Pretrained Large Model Extensions;** Dustin Tran et al
 - **Recovering Private Text in Federated Learning of Language Models;** Samyak Gupta et al
 - **LEVERAGING UNLABELED DATA TO PREDICT OUT-OF-DISTRIBUTION PERFORMANCE;** Saurabh Garg et al
+- **Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI;** Alon Jacovi et al
 
 
 
