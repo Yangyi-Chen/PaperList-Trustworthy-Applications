@@ -22,6 +22,7 @@
 - [Dataset and Benchmark](#dataset-and-benchmark)
 - [Foundation Model](#foundation-model)
 - [Model Analysis](#model-analysis)
+- [Theory](#theory)
 - [Language and Robotics](#language-and-robotics)
 - [Multimodal](#multimodal)
 - [Scene Graph](#scene-graph)
@@ -469,7 +470,10 @@
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **DISCOVERING LATENT CONCEPTS LEARNED IN BERT;** Fahim Dalvi et al
 - **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
+
+## Theory
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
+- **NEURAL COLLAPSE UNDER MSE LOSS: PROXIMITY TO AND DYNAMICS ON THE CENTRAL PATH;** X.Y. Han et al
 
 
 
