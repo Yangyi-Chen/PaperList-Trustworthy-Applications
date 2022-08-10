@@ -384,6 +384,7 @@
 - **Unlearnable Text for Neural Classifiers;** Anonymous
 - **Generative Bias for Visual Question Answering;** Jae Won Cho et al
 - **Measuring Causal Effects of Data Statistics on Language Model’s `Factual’ Predictions;** Yanai Elazar et al
+- **WHICH SHORTCUT CUES WILL DNNS CHOOSE? A STUDY FROM THE PARAMETER-SPACE PERSPECTIVE;** Luca Scimeca et al
 
 
 
@@ -470,10 +471,15 @@
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **DISCOVERING LATENT CONCEPTS LEARNED IN BERT;** Fahim Dalvi et al
 - **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
+- **NO ONE REPRESENTATION TO RULE THEM ALL: OVERLAPPING FEATURES OF TRAINING METHODS;** Raphael Gontijo-Lopes, Yann Dauphin, Ekin D. Cubuk
+- 
+
+
 
 ## Theory
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
 - **NEURAL COLLAPSE UNDER MSE LOSS: PROXIMITY TO AND DYNAMICS ON THE CENTRAL PATH;** X.Y. Han et al
+- **ON THE ROLE OF NEURAL COLLAPSE IN TRANSFER LEARNING;** Tomer Galanti et al
 
 
 
