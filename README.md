@@ -308,6 +308,7 @@
 - **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning;** Baoyuan Wu et al
 - **Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks;** Kang Liu et al
 - **Adversarial Neuron Pruning Purifies Backdoored Deep Models;** Dongxian Wu, Yisen Wang
+- **Backdoor Attacks on Self-Supervised Learning;** Aniruddha Saha et al
 
 
 ## Prompt-based Learning
