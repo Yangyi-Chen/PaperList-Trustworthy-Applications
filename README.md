@@ -249,6 +249,8 @@
 - **TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding;** Le Zhang, Zichao Yang, Diyi Yang
 - **Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation;** Dheeraj Mekala et al; Employing QA models to generate synthetic data. Most tasks can be reformulated as QA. 
 - **Rethinking Data Augmentation for Robust Visual Question Answering;** Long Chen et al
+- **WHAT MAKES BETTER AUGMENTATION STRATEGIES? AUGMENT DIFFICULT BUT NOT TOO DIFFERENT;** Jaehyung Kim et al
+
 
 
 ## Training Data Points
