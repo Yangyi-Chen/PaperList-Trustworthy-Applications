@@ -468,14 +468,12 @@
 - **Attention is not all you need: pure attention loses rank doubly exponentially with depth;** Yihe Dong et al
 - **BERT Loses Patience: Fast and Robust Inference with Early Exit;** Wangchunshu Zhou et al
 - **Shallow-Deep Networks: Understanding and Mitigating Network Overthinking;** Yigitcan Kaya et al
-- **PAIRNORM: TACKLING OVERSMOOTHING IN GNNS;** Lingxiao Zhao, Leman Akoglu
-- **REVISITING OVER-SMOOTHING IN BERT FROM THE PERSPECTIVE OF GRAPH;** Han Shi et al
 - **ON THE PITFALLS OF ANALYZING INDIVIDUAL NEURONS IN LANGUAGE MODELS;** Omer Antverg, Yonatan Belinkov
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **DISCOVERING LATENT CONCEPTS LEARNED IN BERT;** Fahim Dalvi et al
 - **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
 - **NO ONE REPRESENTATION TO RULE THEM ALL: OVERLAPPING FEATURES OF TRAINING METHODS;** Raphael Gontijo-Lopes, Yann Dauphin, Ekin D. Cubuk
-- 
+
 
 
 
@@ -483,6 +481,9 @@
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
 - **NEURAL COLLAPSE UNDER MSE LOSS: PROXIMITY TO AND DYNAMICS ON THE CENTRAL PATH;** X.Y. Han et al
 - **ON THE ROLE OF NEURAL COLLAPSE IN TRANSFER LEARNING;** Tomer Galanti et al
+- **PAIRNORM: TACKLING OVERSMOOTHING IN GNNS;** Lingxiao Zhao, Leman Akoglu
+- **REVISITING OVER-SMOOTHING IN BERT FROM THE PERSPECTIVE OF GRAPH;** Han Shi et al
+- **ANTI-OVERSMOOTHING IN DEEP VISION TRANSFORMERS VIA THE FOURIER DOMAIN ANALYSIS: FROM THEORY TO PRACTICE;** Peihao Wang et al
 
 
 
