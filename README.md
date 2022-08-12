@@ -76,6 +76,7 @@
 - **Survey on deep learning with class imbalance;** Justin M. Johnson, Taghi M. Khoshgoftaar
 - **WHAT IS THE STATE OF NEURAL NETWORK PRUNING?;** Davis Blalock et al
 - **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond;** Amir Feder et al
+- **Multimodal Learning with Transformers: A Survey;** Peng Xu, Xiatian Zhu, David A. Clifton
 
 
 ## Adversarial Sample
