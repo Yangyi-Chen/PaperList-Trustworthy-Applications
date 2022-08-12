@@ -103,6 +103,7 @@
 - **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples;** Dongyeop Kang et al
 - **Adversarially Regularising Neural NLI Models to Integrate Logical Background Knowledge;** Pasquale Minervini, Sebastian Riedel
 - **Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks;** Zhao Meng et al;
+- **Overfitting in adversarially robust deep learning;** Leslie Rice et al
 
 
 ## Calibration and Uncertainty
