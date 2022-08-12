@@ -640,3 +640,4 @@
 - **Challenges and Opportunities in NLP Benchmarking;** Sebastian Ruder
 - **Zero- and Few-Shot NLP with Pretrained Language Models; (Tutorial)** https://github.com/allenai/acl2022-zerofewshot-tutorial
 - **Dataset Shift in Machine Learning;** JOAQUIN QUIÑONERO-CANDELA, MASASHI SUGIYAMA, ANTON SCHWAIGHOFER, AND NEIL D. LAWRENCE; http://www.acad.bg/ebook/ml/The.MIT.Press.Dataset.Shift.in.Machine.Learning.Feb.2009.eBook-DDU.pdf
+- **Contrastive Data and Learning for Natural Language Processing; (Tutorial)** 
