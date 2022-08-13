@@ -77,6 +77,7 @@
 - **WHAT IS THE STATE OF NEURAL NETWORK PRUNING?;** Davis Blalock et al
 - **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond;** Amir Feder et al
 - **Multimodal Learning with Transformers: A Survey;** Peng Xu, Xiatian Zhu, David A. Clifton
+- **Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing;** Sarah Wiegreffe, Ana Marasovic
 
 
 ## Adversarial Sample
