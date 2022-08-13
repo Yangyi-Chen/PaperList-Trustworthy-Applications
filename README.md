@@ -238,6 +238,7 @@
 - **Compositional Explanations of Neurons;** Jesse Mu, Jacob Andreas
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
+- **Connecting Attributions and QA Model Behavior on Realistic Counterfactuals;** Xi Ye et al
 
 
 ## Data Augmentation
