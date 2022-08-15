@@ -580,7 +580,8 @@
 - **From Recognition to Cognition: Visual Commonsense Reasoning; (Image & Language Reasoning)** Rowan Zellers et al
 - **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning;** Jack Hessel et al
 - **Learning by Abstraction: The Neural State Machine;** Drew A. Hudson, Christopher D. Manning
-
+- **VQA-LOL: Visual Question Answering under the Lens of Logic;** Tejas Gokhale et al
+- **Cross-Modality Relevance for Reasoning on Language and Vision;** Chen Zheng, Quan Guo, Parisa Kordjamshidi
 
 
 
