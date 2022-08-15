@@ -579,7 +579,7 @@
 - **A Corpus for Reasoning About Natural Language Grounded in Photographs; (Image & Language Reasoning)** Alane Suhr et al
 - **From Recognition to Cognition: Visual Commonsense Reasoning; (Image & Language Reasoning)** Rowan Zellers et al
 - **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning;** Jack Hessel et al
-
+- **Learning by Abstraction: The Neural State Machine;** Drew A. Hudson, Christopher D. Manning
 
 
 
