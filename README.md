@@ -394,6 +394,7 @@
 - **Generative Bias for Visual Question Answering;** Jae Won Cho et al
 - **Measuring Causal Effects of Data Statistics on Language Model’s `Factual’ Predictions;** Yanai Elazar et al
 - **WHICH SHORTCUT CUES WILL DNNS CHOOSE? A STUDY FROM THE PARAMETER-SPACE PERSPECTIVE;** Luca Scimeca et al
+- **Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing;** Vedika Agarwal et al
 
 
 
