@@ -160,6 +160,7 @@
 
 
 
+
 ## Noisy Label
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels;** Bo Han et al; Propose a training algorithm that combat the noisy labels issue. 
 - **Learning to Reweight Examples for Robust Deep Learning;** Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
@@ -583,6 +584,7 @@
 - **Learning by Abstraction: The Neural State Machine;** Drew A. Hudson, Christopher D. Manning
 - **VQA-LOL: Visual Question Answering under the Lens of Logic;** Tejas Gokhale et al
 - **Cross-Modality Relevance for Reasoning on Language and Vision;** Chen Zheng, Quan Guo, Parisa Kordjamshidi
+- **SQuINTing at VQA Models: Introspecting VQA Models with Sub-Questions;** Ramprasaath R. Selvaraju et al
 
 
 
