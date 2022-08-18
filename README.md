@@ -319,6 +319,7 @@
 - **Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks;** Kang Liu et al
 - **Adversarial Neuron Pruning Purifies Backdoored Deep Models;** Dongxian Wu, Yisen Wang
 - **Backdoor Attacks on Self-Supervised Learning;** Aniruddha Saha et al
+- **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning;** Jinyuan Jia et al
 
 
 ## Prompt-based Learning
