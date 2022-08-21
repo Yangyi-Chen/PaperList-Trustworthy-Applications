@@ -142,6 +142,7 @@
 - **Improving Compositional Generalization in Classification Tasks via Structure Annotations;** Juyong Kim et al
 - **MEASURING COMPOSITIONALITY IN REPRESENTATION LEARNING;** Jacob Andreas
 - **Revisiting the Compositional Generalization Abilities of Neural Sequence Models;** Arkil Patel et al
+- **Learning Transductions to Test Systematic Compositionality;** Josef Valvoda et al
 
 
 ## Trustworthy (broad topic)
