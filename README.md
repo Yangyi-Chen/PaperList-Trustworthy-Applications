@@ -135,6 +135,7 @@
 - **Calibrated ensembles can mitigate accuracy tradeoffs under distribution shift;** Ananya Kumar et al
 - **TOP-LABEL CALIBRATION AND MULTICLASS-TO-BINARY REDUCTIONS;** Chirag Gupta, Aaditya Ramdas
 - **Can Explanations Be Useful for Calibrating Black Box Models?;** Xi Ye, Greg Durrett
+- **Confidence Modeling for Neural Semantic Parsing;** Li Dong et al
 
 
 ## Compositional Generalization
