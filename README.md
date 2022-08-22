@@ -640,6 +640,7 @@
 - **Describing Differences between Text Distributions with Natural Language;** Ruiqi Zhong et al
 - **The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail;** Samuel R. Bowman
 - **Solving Quantitative Reasoning Problems with Language Models;** Aitor Lewkowycz et al
+- **UniCausal: Unified Benchmark and Model for Causal Text Mining;** Fiona Anting Tan et al
 
 
 
