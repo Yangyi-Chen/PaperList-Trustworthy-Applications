@@ -554,6 +554,7 @@
 - **Scene Graph Prediction with Limited Labels;** Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei
 - **Neural Motifs: Scene Graph Parsing with Global Context;** Rowan Zellers et al
 - **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
+- **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
 
 
 ## NLP Reasoning
