@@ -642,7 +642,7 @@
 - **Solving Quantitative Reasoning Problems with Language Models;** Aitor Lewkowycz et al
 - **UniCausal: Unified Benchmark and Model for Causal Text Mining;** Fiona Anting Tan et al
 - **Large Language models and the reverse turing test;** Terrence Sejnowski
-
+- **Using Large Language Models to Simulate Multiple Humans;** Gati Aher et al
 
 
 
