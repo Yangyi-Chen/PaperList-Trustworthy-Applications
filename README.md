@@ -31,6 +31,7 @@
 - [MRC Reasoning](#mrc-reasoning)
 - [Grounding](#grounding) 
 - [NLG Hallucination](#nlg-hallucination)
+- [Information Extraction](#information-extraction)
 - [Interesting Topics](#interesting-topics)
 - [Resources](#resources) 
 
@@ -627,7 +628,8 @@
 - **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks;** Akari Asai et al
 
 
-
+## Information Extraction
+- **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling;** Manling Li et al
 
 
 
