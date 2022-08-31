@@ -632,6 +632,7 @@
 - **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling;** Manling Li et al
 - **Forecasting Future World Events with Neural Networks;** Andy Zou et al
 - **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction;** Manling Li et al
+- **Event Schema Induction with Double Graph Autoencoders;** Xiaomeng Jin, Manling Li, Heng Ji
 
 
 
