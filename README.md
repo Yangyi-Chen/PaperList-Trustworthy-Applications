@@ -650,6 +650,7 @@
 - **UniCausal: Unified Benchmark and Model for Causal Text Mining;** Fiona Anting Tan et al
 - **Large Language models and the reverse turing test;** Terrence Sejnowski
 - **Using Large Language Models to Simulate Multiple Humans;** Gati Aher et al
+- **WHAT DO NLP RESEARCHERS BELIEVE? RESULTS OF THE NLP COMMUNITY METASURVEY;** Julian Michael et al
 
 
 
