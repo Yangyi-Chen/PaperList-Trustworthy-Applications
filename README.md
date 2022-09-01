@@ -580,6 +580,7 @@
 - **Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations;** Jaehun Jung et al
 - **Impact of Pretraining Term Frequencies on Few-Shot Reasoning;** Yasaman Razeghi et al
 - **Language models show human-like content effects on reasoning;** Ishita Dasgupta et al
+- **Faithful Reasoning Using Large Language Models;** Antonia Creswell et al
 
 
 
