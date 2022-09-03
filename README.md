@@ -81,6 +81,7 @@
 - **Teach Me to Explain: A Review of Datasets for Explainable Natural Language Processing;** Sarah Wiegreffe, Ana Marasovic
 - **Neuron-level Interpretation of Deep NLP Models: A Survey;** Hassan Sajjad et al
 - **A Compact Survey on Event Extraction: Approaches and Applications;** Qian Li et al 
+- **Efficient Methods for Natural Language Processing: A Survey;** Marcos Treviso et al
 
 
 ## Adversarial Sample
