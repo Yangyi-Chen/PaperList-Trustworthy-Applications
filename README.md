@@ -33,6 +33,7 @@
 - [NLG Hallucination](#nlg-hallucination)
 - [Information Extraction](#information-extraction)
 - [Interesting Topics](#interesting-topics)
+- [Interesting Fields (CV)](#interesting-fields (CV))
 - [Resources](#resources) 
 
 
@@ -654,7 +655,8 @@
 - **Using Large Language Models to Simulate Multiple Humans;** Gati Aher et al
 - **WHAT DO NLP RESEARCHERS BELIEVE? RESULTS OF THE NLP COMMUNITY METASURVEY;** Julian Michael et al
 
-
+## Interesting Fields (CV)
+- **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
 
 
 ## Resources
