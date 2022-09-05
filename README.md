@@ -583,6 +583,7 @@
 - **Impact of Pretraining Term Frequencies on Few-Shot Reasoning;** Yasaman Razeghi et al
 - **Language models show human-like content effects on reasoning;** Ishita Dasgupta et al
 - **Faithful Reasoning Using Large Language Models;** Antonia Creswell et al
+- **FOLIO: Natural Language Reasoning with First-Order Logic;** Simeng Han et al
 
 
 
