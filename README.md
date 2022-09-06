@@ -232,6 +232,7 @@
 - **Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data;** Taha ValizadehAslani et al
 - **SELF-SUPERVISED LEARNING IS MORE ROBUST TO DATASET IMBALANCE;** Hong Liu et al
 - **SPARSITY WINNING TWICE: BETTER ROBUST GENERALIZATION FROM MORE EFFICIENT TRAINING;** Tianlong Chen et al
+- **BACK-TO-BONES: REDISCOVERING THE ROLE OF BACKBONES IN DOMAIN GENERALIZATION;** Simone Angarano et al
 
 
 
