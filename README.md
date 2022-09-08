@@ -662,6 +662,7 @@
 ## Interesting Fields (CV)
 - **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
 - **Zero-Shot Text-to-Image Generation;** Aditya Ramesh et al; DALL-E. 
+- **Masked Autoencoders Are Scalable Vision Learners;** Kaiming He et al
 
 
 ## Resources
