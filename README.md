@@ -83,6 +83,7 @@
 - **Neuron-level Interpretation of Deep NLP Models: A Survey;** Hassan Sajjad et al
 - **A Compact Survey on Event Extraction: Approaches and Applications;** Qian Li et al 
 - **Efficient Methods for Natural Language Processing: A Survey;** Marcos Treviso et al
+- **A Survey on Measuring and Mitigating Reasoning Shortcuts in Machine Reading Comprehension;** Xanh Ho et al
 
 
 ## Adversarial Sample
