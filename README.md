@@ -188,6 +188,7 @@
 - **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints;** Jieyu Zhao et al 
 - **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings;** Tolga Bolukbasi et al
 - **Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification;** Xiaolei Huang
+- **Data Feedback Loops: Model-driven Amplification of Dataset Biases;** Rohan Taori, Tatsunori B. Hashimoto
 
 ## OOD/Anomaly/Openset Detection
 - **Contrastive Out-of-Distribution Detection for Pretrained Transformers;** Wenxuan Zhou, Fangyu Liu, Muhao Chen
