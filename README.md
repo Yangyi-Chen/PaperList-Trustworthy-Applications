@@ -236,6 +236,7 @@
 - **SPARSITY WINNING TWICE: BETTER ROBUST GENERALIZATION FROM MORE EFFICIENT TRAINING;** Tianlong Chen et al
 - **BACK-TO-BONES: REDISCOVERING THE ROLE OF BACKBONES IN DOMAIN GENERALIZATION;** Simone Angarano et al
 - **In Search of Lost Domain Generalization;** Ishaan Gulrajani, David Lopez-Paz
+- **Domain Adaptation for Question Answering via Question Classification;** Zhenrui Yue  et al
 
 
 
