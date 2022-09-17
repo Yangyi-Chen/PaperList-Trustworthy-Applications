@@ -237,6 +237,7 @@
 - **BACK-TO-BONES: REDISCOVERING THE ROLE OF BACKBONES IN DOMAIN GENERALIZATION;** Simone Angarano et al
 - **In Search of Lost Domain Generalization;** Ishaan Gulrajani, David Lopez-Paz
 - **Domain Adaptation for Question Answering via Question Classification;** Zhenrui Yue  et al
+- **ENSEMBLES AND COCKTAILS: ROBUST FINETUNING FOR NATURAL LANGUAGE GENERATION;** John Hewitt et al
 
 
 
