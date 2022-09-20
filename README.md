@@ -477,6 +477,7 @@
 - **Emergent Abilities of Large Language Models;** Jason Wei et al
 - **GLaM: Efficient Scaling of Language Models with Mixture-of-Experts;** Nan Du et al
 - **RETHINKING SUPERVISED PRE-TRAINING FOR BETTER DOWNSTREAM TRANSFERRING;** Yutong Feng et al
+- **HTLM: HYPER-TEXT PRE-TRAINING AND PROMPT- ING OF LANGUAGE MODELS;** Armen Aghajanyan et al
 
 
 ## Model Analysis
