@@ -19,6 +19,7 @@
 - [Prompt-based Learning](#prompt-based-learning)
 - [Parameter Efficient Tuning](#parameter-efficient-tuning)
 - [Spurious Correlation](#spurious-correlation)
+- [NLP for Social Good](#nlp-for-social-good)
 - [Dataset and Benchmark](#dataset-and-benchmark)
 - [Foundation Model](#foundation-model)
 - [Model Analysis](#model-analysis)
@@ -418,6 +419,9 @@
 - **Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing;** Vedika Agarwal et al
 - **Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey;** Mengnan Du et al
 
+
+## NLP for Social Good
+- **Defending Against Neural Fake News;** Rowan Zellers et al
 
 
 ## Dataset and Benchmark
