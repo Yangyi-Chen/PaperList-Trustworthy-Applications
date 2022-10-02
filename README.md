@@ -85,6 +85,7 @@
 - **Efficient Methods for Natural Language Processing: A Survey;** Marcos Treviso et al
 - **A Survey on Measuring and Mitigating Reasoning Shortcuts in Machine Reading Comprehension;** Xanh Ho et al
 - **FOUNDATIONS & RECENT TRENDS IN MULTIMODAL MACHINE LEARNING: PRINCIPLES, CHALLENGES, & OPEN QUESTIONS;** Paul Pu Liang, Amir Zadeh, Louis-Philippe Morency
+- **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities;** XINYI ZHOU et al
 
 
 ## Adversarial Sample
