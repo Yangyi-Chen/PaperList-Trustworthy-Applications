@@ -656,6 +656,8 @@
 - **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction;** Manling Li et al
 - **Event Schema Induction with Double Graph Autoencoders;** Xiaomeng Jin, Manling Li, Heng Ji
 - **TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction;** Yaojie Lu et al
+- **CLEVE: Contrastive Pre-training for Event Extraction;** Ziqi Wang et al
+- **PILED: An Identify-and-Localize Framework for Few-Shot Event;** Sha Li et al
 
 
 
