@@ -658,6 +658,7 @@
 - **TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction;** Yaojie Lu et al
 - **CLEVE: Contrastive Pre-training for Event Extraction;** Ziqi Wang et al
 - **PILED: An Identify-and-Localize Framework for Few-Shot Event;** Sha Li et al
+- **Liberal Event Extraction and Event Schema Induction;** Lifu Huang et al
 
 
 
