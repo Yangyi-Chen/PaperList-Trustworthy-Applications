@@ -144,6 +144,7 @@
 - **Can Explanations Be Useful for Calibrating Black Box Models?;** Xi Ye, Greg Durrett
 - **Confidence Modeling for Neural Semantic Parsing;** Li Dong et al
 - **Knowing More About Questions Can Help: Improving Calibration in Question Answering;** Shujian Zhang et al
+- **IMPROVING THE CALIBRATION OF FINE-TUNED LANGUAGE MODELS VIA DENOISING VARIATIONAL AUTO-ENCODERS;** Anonymous
 
 
 ## Compositional Generalization
