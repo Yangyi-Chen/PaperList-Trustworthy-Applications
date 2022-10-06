@@ -464,6 +464,7 @@
 - **ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models;** Andrei Barbu et al; ObjectNet.
 - **EXTENDING THE WILDS BENCHMARK FOR UNSUPERVISED ADAPTATION;** Shiori Sagawa et al
 - **MEASURING MASSIVE MULTITASK LANGUAGE UNDERSTANDING;** Dan Hendrycks et al
+- **Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence;** Tal Schuster et al
 
 
 
