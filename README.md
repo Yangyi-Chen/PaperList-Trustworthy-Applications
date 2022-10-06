@@ -659,6 +659,7 @@
 - **Annotating and Modeling Fine-grained Factuality in Summarization;** Tanya Goyal, Greg Durrett
 - **FACTPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarizationl** David Wan, Mohit Bansal
 - **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks;** Akari Asai et al
+- **Towards Improving Faithfulness in Abstractive Summarization;** Xiuying Chen et al
 
 
 ## Information Extraction
