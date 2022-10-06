@@ -87,6 +87,7 @@
 - **FOUNDATIONS & RECENT TRENDS IN MULTIMODAL MACHINE LEARNING: PRINCIPLES, CHALLENGES, & OPEN QUESTIONS;** Paul Pu Liang, Amir Zadeh, Louis-Philippe Morency
 - **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities;** XINYI ZHOU et al
 - **A Survey on Automated Fact-Checking;** Zhijiang Guo et al
+- **Automated Fact Checking: Task formulations, methods and future directions;** James Thorne et al
 
 ## Adversarial Sample
 - **Repairing Adversarial Texts through Perturbation;** Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
