@@ -516,7 +516,9 @@
 - **DISCOVERING LATENT CONCEPTS LEARNED IN BERT;** Fahim Dalvi et al
 - **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
 - **NO ONE REPRESENTATION TO RULE THEM ALL: OVERLAPPING FEATURES OF TRAINING METHODS;** Raphael Gontijo-Lopes, Yann Dauphin, Ekin D. Cubuk
-
+- **Editing Factual Knowledge in Language Models;** Nicola De Cao et al
+- **How Much Knowledge Can You Pack Into the Parameters of a Language Model?;** Adam Roberts et al
+- **Transformer Feed-Forward Layers Are Key-Value Memories** Mor Geva et al
 
 
 
