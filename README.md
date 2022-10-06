@@ -427,6 +427,8 @@
 - **Defending Against Neural Fake News;** Rowan Zellers et al
 - **Fact-Enhanced Synthetic News Generation;** Kai Shu et al
 - **On Unifying Misinformation Detection;** Nayeon Lee et al 
+- **Towards Few-Shot Fact-Checking via Perplexity;** Nayeon Lee et al
+- **Language Models as Fact Checkers?;** Nayeon Lee et al
 
 
 
