@@ -520,6 +520,7 @@
 - **Editing Factual Knowledge in Language Models;** Nicola De Cao et al
 - **How Much Knowledge Can You Pack Into the Parameters of a Language Model?;** Adam Roberts et al
 - **Transformer Feed-Forward Layers Are Key-Value Memories** Mor Geva et al
+- **oLMpics - On what Language Model Pre-training Captures;** Alon Talmor et al
 
 
 
