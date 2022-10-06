@@ -429,6 +429,7 @@
 - **On Unifying Misinformation Detection;** Nayeon Lee et al 
 - **Towards Few-Shot Fact-Checking via Perplexity;** Nayeon Lee et al
 - **Language Models as Fact Checkers?;** Nayeon Lee et al
+- **A Stylometric Inquiry into Hyperpartisan and Fake News;** Martin Potthast et al
 
 
 
