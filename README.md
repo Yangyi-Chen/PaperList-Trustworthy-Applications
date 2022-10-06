@@ -426,6 +426,8 @@
 ## NLP for Social Good
 - **Defending Against Neural Fake News;** Rowan Zellers et al
 - **Fact-Enhanced Synthetic News Generation;** Kai Shu et al
+- **On Unifying Misinformation Detection;** Nayeon Lee et al 
+
 
 
 ## Dataset and Benchmark
