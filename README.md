@@ -382,6 +382,7 @@
 - **Sparse Structure Search for Parameter-Efficient Tuning;** Shengding Hu et al
 - **LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners;** Yaqing Wang et al
 - **Meta-Adapter: Parameter Efficient Few-Shot Learning through Meta-Learning;** Anonymous
+- **TOWARDS A UNIFIED VIEW ON VISUAL PARAMETER- EFFICIENT TRANSFER LEARNING;** Bruce X.B. Yu et al
 
 
 
