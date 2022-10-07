@@ -423,6 +423,7 @@
 - **Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing;** Vedika Agarwal et al
 - **Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey;** Mengnan Du et al
 - **Nuisances via Negativa: Adjusting for Spurious Correlations via Data Augmentation;** Aahlad Puli et al
+- **MaskTune: Mitigating Spurious Correlations by Forcing to Explore;** Saeid Asgari Taghanaki et al
 
 
 ## NLP for Social Good
