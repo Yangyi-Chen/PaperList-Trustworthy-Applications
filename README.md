@@ -675,6 +675,7 @@
 - **CLEVE: Contrastive Pre-training for Event Extraction;** Ziqi Wang et al
 - **PILED: An Identify-and-Localize Framework for Few-Shot Event;** Sha Li et al
 - **Liberal Event Extraction and Event Schema Induction;** Lifu Huang et al
+- **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
 
 
 
