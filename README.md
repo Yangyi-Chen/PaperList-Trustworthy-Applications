@@ -499,6 +499,7 @@
 - **RETHINKING SUPERVISED PRE-TRAINING FOR BETTER DOWNSTREAM TRANSFERRING;** Yutong Feng et al
 - **HTLM: HYPER-TEXT PRE-TRAINING AND PROMPT- ING OF LANGUAGE MODELS;** Armen Aghajanyan et al
 - **Downstream Datasets Make Surprisingly Good Pretraining Corpora;** Kundan Krishna et al
+- **GUESS THE INSTRUCTION! MAKING LANGUAGE MODELS STRONGER ZERO-SHOT LEARNERS;** Seonghyeon Ye et al
 
 
 ## Model Analysis
