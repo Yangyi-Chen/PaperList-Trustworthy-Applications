@@ -355,6 +355,7 @@
 - **reStructured Pre-training;** Weizhe Yuan, Pengfei Liu
 - **Learning to Prompt for Vision-Language Models;** Kaiyang Zhou et al
 - **Efficient Few-Shot Learning Without Prompts;** Lewis Tunstall et al
+- **ASK ME ANYTHING: A SIMPLE STRATEGY FOR PROMPTING LANGUAGE MODELS;** Anonymous
 
 
 
