@@ -618,6 +618,7 @@
 - **Language models show human-like content effects on reasoning;** Ishita Dasgupta et al
 - **Faithful Reasoning Using Large Language Models;** Antonia Creswell et al
 - **FOLIO: Natural Language Reasoning with First-Order Logic;** Simeng Han et al
+- **RAINIER: Reinforced Knowledge Introspector for Commonsense Question Answering; (Commonsense)** Jiacheng Liu et al
 
 
 
