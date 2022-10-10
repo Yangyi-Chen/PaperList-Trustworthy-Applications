@@ -147,6 +147,7 @@
 - **Confidence Modeling for Neural Semantic Parsing;** Li Dong et al
 - **Knowing More About Questions Can Help: Improving Calibration in Question Answering;** Shujian Zhang et al
 - **IMPROVING THE CALIBRATION OF FINE-TUNED LANGUAGE MODELS VIA DENOISING VARIATIONAL AUTO-ENCODERS;** Anonymous
+- **TO SOFTMAX, OR NOT TO SOFTMAX: THAT IS THE QUESTION WHEN APPLYING ACTIVE LEARNING FOR TRANSFORMER MODELS;** Julius Gonsior et al
 
 
 ## Compositional Generalization
