@@ -530,6 +530,7 @@
 - **Transformer Feed-Forward Layers Are Key-Value Memories** Mor Geva et al
 - **oLMpics - On what Language Model Pre-training Captures;** Alon Talmor et al
 - **Calibrating Factual Knowledge in Pretrained Language Models;** Qingxiu Dong et al
+- **RELATIVE REPRESENTATIONS ENABLE ZERO-SHOT LATENT SPACE COMMUNICATION;** Luca Moschella et al
 
 
 
