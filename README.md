@@ -624,6 +624,7 @@
 - **FOLIO: Natural Language Reasoning with First-Order Logic;** Simeng Han et al
 - **RAINIER: Reinforced Knowledge Introspector for Commonsense Question Answering; (Commonsense)** Jiacheng Liu et al
 - **MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS;** Ofir Press et al
+- **REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS;** Shunyu Yao et al
 
 
 
