@@ -90,6 +90,7 @@
 - **Automated Fact Checking: Task formulations, methods and future directions;** James Thorne et al
 - **Advances and Open Problems in Federated Learning;** Peter Kairouz et al
 - **Event Extraction: A Survey;** Viet Dac Lai et al
+- **State-of-the-art generalisation research in NLP: a taxonomy and review;** Dieuwke Hupkes et al
 
 ## Adversarial Sample
 - **Repairing Adversarial Texts through Perturbation;** Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
@@ -149,6 +150,7 @@
 - **Knowing More About Questions Can Help: Improving Calibration in Question Answering;** Shujian Zhang et al
 - **IMPROVING THE CALIBRATION OF FINE-TUNED LANGUAGE MODELS VIA DENOISING VARIATIONAL AUTO-ENCODERS;** Anonymous
 - **TO SOFTMAX, OR NOT TO SOFTMAX: THAT IS THE QUESTION WHEN APPLYING ACTIVE LEARNING FOR TRANSFORMER MODELS;** Julius Gonsior et al
+- **Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems;** Neeraj Varshney et al
 
 
 ## Compositional Generalization
