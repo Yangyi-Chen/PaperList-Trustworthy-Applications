@@ -544,6 +544,7 @@
 - **PAIRNORM: TACKLING OVERSMOOTHING IN GNNS;** Lingxiao Zhao, Leman Akoglu
 - **REVISITING OVER-SMOOTHING IN BERT FROM THE PERSPECTIVE OF GRAPH;** Han Shi et al
 - **ANTI-OVERSMOOTHING IN DEEP VISION TRANSFORMERS VIA THE FOURIER DOMAIN ANALYSIS: FROM THEORY TO PRACTICE;** Peihao Wang et al
+- **Inducing Neural Collapse in Imbalanced Learning: Do We Really Need a Learnable Classifier at the End of Deep Neural Network?;** Yibo Yang et al
 
 
 
