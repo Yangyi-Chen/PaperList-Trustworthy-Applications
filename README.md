@@ -153,6 +153,7 @@
 - **Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems;** Neeraj Varshney et al
 - **Improving the Reliability for Confidence Estimation;** Haoxuan Qu et al
 - **To Trust Or Not To Trust A Classifier;** Heinrich Jiang et al
+- **Addressing Failure Prediction by Learning Model Confidence;** Charles Corbière et al
 
 
 
