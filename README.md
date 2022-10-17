@@ -151,6 +151,10 @@
 - **IMPROVING THE CALIBRATION OF FINE-TUNED LANGUAGE MODELS VIA DENOISING VARIATIONAL AUTO-ENCODERS;** Anonymous
 - **TO SOFTMAX, OR NOT TO SOFTMAX: THAT IS THE QUESTION WHEN APPLYING ACTIVE LEARNING FOR TRANSFORMER MODELS;** Julius Gonsior et al
 - **Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems;** Neeraj Varshney et al
+- **Improving the Reliability for Confidence Estimation;** Haoxuan Qu et al
+- **To Trust Or Not To Trust A Classifier;** Heinrich Jiang et al
+
+
 
 
 ## Compositional Generalization
