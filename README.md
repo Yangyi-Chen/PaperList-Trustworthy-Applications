@@ -367,6 +367,7 @@
 - **Learning to Prompt for Vision-Language Models;** Kaiyang Zhou et al
 - **Efficient Few-Shot Learning Without Prompts;** Lewis Tunstall et al
 - **ASK ME ANYTHING: A SIMPLE STRATEGY FOR PROMPTING LANGUAGE MODELS;** Anonymous
+- **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization;** Yuxian Gu et al
 
 
 
