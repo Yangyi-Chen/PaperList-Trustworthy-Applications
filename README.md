@@ -717,6 +717,7 @@
 - **Using Large Language Models to Simulate Multiple Humans;** Gati Aher et al
 - **WHAT DO NLP RESEARCHERS BELIEVE? RESULTS OF THE NLP COMMUNITY METASURVEY;** Julian Michael et al
 - **EXPLAINING PATTERNS IN DATA WITH LANGUAGE MODELS VIA INTERPRETABLE AUTOPROMPTING;** Chandan Singh et al
+- **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
 
 ## Interesting Fields (CV)
 - **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
