@@ -735,3 +735,4 @@
 - **Dataset Shift in Machine Learning;** JOAQUIN QUIÑONERO-CANDELA, MASASHI SUGIYAMA, ANTON SCHWAIGHOFER, AND NEIL D. LAWRENCE; http://www.acad.bg/ebook/ml/The.MIT.Press.Dataset.Shift.in.Machine.Learning.Feb.2009.eBook-DDU.pdf
 - **Contrastive Data and Learning for Natural Language Processing; (Tutorial)** 
 - **GPT-3 Nonfiction;** https://www.gwern.net/GPT-3-nonfiction
+- **Research Taste;** https://colah.github.io/notes/taste/
