@@ -517,6 +517,8 @@
 - **Downstream Datasets Make Surprisingly Good Pretraining Corpora;** Kundan Krishna et al
 - **GUESS THE INSTRUCTION! MAKING LANGUAGE MODELS STRONGER ZERO-SHOT LEARNERS;** Seonghyeon Ye et al
 - **UNDERSTANDING HTML WITH LARGE LANGUAGE MODELS;** Anonymous
+- **Transcending Scaling Laws with 0.1% Extra Compute;** Yi Tay et al
+- **Scaling Instruction-Finetuned Language Models;** Hyung Won Chung et al
 
 
 ## Model Analysis
