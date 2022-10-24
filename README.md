@@ -155,6 +155,7 @@
 - **Improving the Reliability for Confidence Estimation;** Haoxuan Qu et al
 - **To Trust Or Not To Trust A Classifier;** Heinrich Jiang et al
 - **Addressing Failure Prediction by Learning Model Confidence;** Charles Corbière et al
+- **Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers;** Christopher Schröder et al
 
 
 
