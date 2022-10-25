@@ -323,6 +323,7 @@
 - **Prioritized Training on Points that are learnable, Worth Learning, and Not Yet Learnt;** Sören Mindermann et al
 - **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning;** Anonymous
 - **SELECTIVE ANNOTATION MAKES LANGUAGE MOD- ELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
+- **Understanding Transformer Memorization Recall Through Idioms;** Adi Haviv et al
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
