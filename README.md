@@ -404,6 +404,7 @@
 - **Meta-Adapter: Parameter Efficient Few-Shot Learning through Meta-Learning;** Anonymous
 - **TOWARDS A UNIFIED VIEW ON VISUAL PARAMETER- EFFICIENT TRANSFER LEARNING;** Bruce X.B. Yu et al
 - **Performance-Efficiency Trade-Offs in Adapting Language Models to Text Classification Tasks;** Laura Aina et al
+- **Attentional Mixtures of Soft Prompt Tuning for Parameter-efficient Multi-task Knowledge Sharing;** Akari Asai et al
 
 
 
