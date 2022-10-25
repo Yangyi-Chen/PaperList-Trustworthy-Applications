@@ -260,6 +260,7 @@
 - **On the Impact of Temporal Concept Drift on Model Explanations;** Zhixue Zhao et al
 - **TestAug: A Framework for Augmenting Capability-based NLP Tests;** Guanqun Yang et al
 - **Balanced Adversarial Training: Balancing Tradeoffs between Fickleness and Obstinacy in NLP Models;** Hannah Chen et al
+- **Robustifying Sentiment Classification by Maximally Exploiting Few Counterfactuals;** Maarten De Raedt et al
 
 
 ## Explanation
