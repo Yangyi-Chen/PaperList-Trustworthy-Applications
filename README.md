@@ -449,6 +449,8 @@
 - **Nuisances via Negativa: Adjusting for Spurious Correlations via Data Augmentation;** Aahlad Puli et al
 - **MaskTune: Mitigating Spurious Correlations by Forcing to Explore;** Saeid Asgari Taghanaki et al
 - **On Feature Learning in the Presence of Spurious Correlations;** Pavel Izmailov et al
+- **Finding Dataset Shortcuts with Grammar Induction;** Dan Friedman et al
+
 
 
 ## NLP for Social Good
