@@ -343,7 +343,8 @@
 - **Exploring and Predicting Transferability across NLP Tasks;** Tu Vu et al
 - **On Continual Model Refinement in Out-of-Distribution Data Streams;** Bill Yuchen Lin et al
 - **Continual-T0: Progressively Instructing 50+ Tasks to Language Models Without Forgetting;** Thomas Scialom et al
-- **AdapterFusion: Non-Destructive Task Composition for Transfer Learning;** Jonas Pfeiffer et al
+- **AdapterFusion: Non-Destructive Task Composition for Transfer Learning;** Jonas Pfeiffer et al 
+- **Multi-Task Pre-Training of Modular Prompt for Few-Shot Learning;** Tianxiang Sun et al
 
 
 ## Backdoor Learning
