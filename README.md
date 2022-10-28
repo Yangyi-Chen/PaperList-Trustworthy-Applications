@@ -262,6 +262,7 @@
 - **Balanced Adversarial Training: Balancing Tradeoffs between Fickleness and Obstinacy in NLP Models;** Hannah Chen et al
 - **Robustifying Sentiment Classification by Maximally Exploiting Few Counterfactuals;** Maarten De Raedt et al
 - **Exploring The Landscape of Distributional Robustness for Question Answering Models;** Anas Awadalla et al
+- **NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation;** Phillip Howard et al
 
 ## Explanation
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
