@@ -704,6 +704,7 @@
 - **Towards Improving Faithfulness in Abstractive Summarization;** Xiuying Chen et al
 - **Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization;** Yiyang Li et al
 - **Mutual Information Alleviates Hallucinations in Abstractive Summarization;** Liam van der Poel et al
+- **Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling;** Vidhisha Balachandran et al
 
 
 ## Information Extraction
