@@ -561,6 +561,7 @@
 - **oLMpics - On what Language Model Pre-training Captures;** Alon Talmor et al
 - **Calibrating Factual Knowledge in Pretrained Language Models;** Qingxiu Dong et al
 - **RELATIVE REPRESENTATIONS ENABLE ZERO-SHOT LATENT SPACE COMMUNICATION;** Luca Moschella et al
+- **What do Large Language Models Learn beyond Language?;** Avinash Madasu, Shashank Srivastava
 
 
 
