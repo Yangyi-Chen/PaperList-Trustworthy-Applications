@@ -411,6 +411,7 @@
 - **Attentional Mixtures of Soft Prompt Tuning for Parameter-efficient Multi-task Knowledge Sharing;** Akari Asai et al
 - **Efficiently Tuned Parameters are Task Embeddings;** Wangchunshu Zhou et al
 - **Different Tunes Played with Equal Skill: Exploring a Unified Optimization Subspace for Delta Tuning;** Jing Yi et al
+- **Evaluating Parameter Efficient Learning for Generation;** Peng Xu et al
 
 
 
