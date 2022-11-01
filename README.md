@@ -466,6 +466,7 @@
 - **Towards Few-Shot Fact-Checking via Perplexity;** Nayeon Lee et al
 - **Language Models as Fact Checkers?;** Nayeon Lee et al
 - **A Stylometric Inquiry into Hyperpartisan and Fake News;** Martin Potthast et al
+- **Zoom Out and Observe: News Environment Perception for Fake News Detection;** Qiang Sheng et al
 
 
 
