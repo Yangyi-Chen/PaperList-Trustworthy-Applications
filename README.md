@@ -456,6 +456,7 @@
 - **On Feature Learning in the Presence of Spurious Correlations;** Pavel Izmailov et al
 - **Finding Dataset Shortcuts with Grammar Induction;** Dan Friedman et al
 - **Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens;** Nitish Joshi et al
+- **Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers;** Jieyu Zhao et al
 
 
 ## NLP for Social Good
