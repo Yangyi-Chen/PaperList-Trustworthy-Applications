@@ -747,6 +747,7 @@
 - **WHAT DO NLP RESEARCHERS BELIEVE? RESULTS OF THE NLP COMMUNITY METASURVEY;** Julian Michael et al
 - **EXPLAINING PATTERNS IN DATA WITH LANGUAGE MODELS VIA INTERPRETABLE AUTOPROMPTING;** Chandan Singh et al
 - **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
+- **Do Large Language Models know what humans know?;** Sean Trott et al
 
 ## Interesting Fields (CV)
 - **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
