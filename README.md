@@ -458,6 +458,7 @@
 - **Finding Dataset Shortcuts with Grammar Induction;** Dan Friedman et al
 - **Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens;** Nitish Joshi et al
 - **Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers;** Jieyu Zhao et al
+- **XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models;** Dong-Ho Lee et al
 
 
 ## NLP for Social Good
