@@ -666,6 +666,7 @@
 - **MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS;** Ofir Press et al
 - **REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS;** Shunyu Yao et al
 - **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs;** Maarten Sap et al
+- **A Systematic Investigation of Commonsense Knowledge in Large Language Models (Commonsense);** Xiang Lorraine Li et al
 
 
 ## CV Reasoning
