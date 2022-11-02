@@ -540,6 +540,7 @@
 - **Transcending Scaling Laws with 0.1% Extra Compute;** Yi Tay et al
 - **Scaling Instruction-Finetuned Language Models;** Hyung Won Chung et al
 - **LARGE LANGUAGE MODELS CAN SELF-IMPROVE;** Jiaxin Huang et al
+- **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
 
 
 ## Model Analysis
