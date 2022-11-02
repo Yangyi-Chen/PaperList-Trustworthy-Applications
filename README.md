@@ -716,7 +716,7 @@
 - **Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization;** Yiyang Li et al
 - **Mutual Information Alleviates Hallucinations in Abstractive Summarization;** Liam van der Poel et al
 - **Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling;** Vidhisha Balachandran et al
-
+- **FRSUM: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness;** Wenhao Wu et al
 
 ## Information Extraction
 - **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling;** Manling Li et al
