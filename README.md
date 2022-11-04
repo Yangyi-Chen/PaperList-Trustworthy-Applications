@@ -572,6 +572,7 @@
 - **Calibrating Factual Knowledge in Pretrained Language Models;** Qingxiu Dong et al
 - **RELATIVE REPRESENTATIONS ENABLE ZERO-SHOT LATENT SPACE COMMUNICATION;** Luca Moschella et al
 - **What do Large Language Models Learn beyond Language?;** Avinash Madasu, Shashank Srivastava
+- **On the Transformation of Latent Space in Fine-Tuned NLP Models;** Nadir Durrani et al
 
 
 
