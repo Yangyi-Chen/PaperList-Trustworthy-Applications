@@ -159,6 +159,8 @@
 - **Stop Measuring Calibration When Humans Disagree;** Joris Baan et al
 - **On the Calibration of Massively Multilingual Language Models;** Kabir Ahuja et al
 - **ADDMU: Detection of Far-Boundary Adversarial Examples with Data and Model Uncertainty Estimation;** Fan Yin et al
+- **Hard Gate Knowledge Distillation - Leverage Calibration for a Robust and Reliable Language Model;** Dongkyu Lee et al
+- **Calibrating Deep Neural Networks using Focal Loss;** Jishnu Mukhoti et al
 
 
 
