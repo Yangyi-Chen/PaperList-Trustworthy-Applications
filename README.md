@@ -560,6 +560,9 @@
 - **PROMPTING GPT-3 TO BE RELIABLE;** Chenglei Si et al
 - **Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm;** Laria Reynolds et al
 - **Do Prompt-Based Models Really Understand the Meaning of their Prompts?;** Albert Webson et al
+- **On the Relation between Sensitivity and Accuracy in In-context Learning;** Yanda Chen et al
+
+
 
 
 
