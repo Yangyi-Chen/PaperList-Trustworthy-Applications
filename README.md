@@ -556,6 +556,10 @@
 - **Learning To Retrieve Prompts for In-Context Learning;** Ohad Rubin et al
 - **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
 - **MetaICL: Learning to Learn In Context;** Sewon Min et al
+- **PROMPTING GPT-3 TO BE RELIABLE;** Chenglei Si et al
+- **Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm;** Laria Reynolds et al
+- **Do Prompt-Based Models Really Understand the Meaning of their Prompts?;** Albert Webson et al
+- **Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models;** Robert L. Logan IV et al
 
 
 ## Model Analysis
