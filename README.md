@@ -22,6 +22,7 @@
 - [NLP for Social Good](#nlp-for-social-good)
 - [Dataset and Benchmark](#dataset-and-benchmark)
 - [Foundation Model](#foundation-model)
+- [Incontext Learning](#incontext-learning)
 - [Model Analysis](#model-analysis)
 - [Theory](#theory)
 - [Language and Robotics](#language-and-robotics)
@@ -548,6 +549,14 @@
 - **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
 
 
+## Incontext Learning
+- **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
+- **Extrapolating to Unnatural Language Processing with GPT-3's In-context Learning: The Good, the Bad, and the Mysterious;** Frieda Rong et al
+- **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
+- **Learning To Retrieve Prompts for In-Context Learning;** Ohad Rubin et al
+- **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
+
+
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
 - **Word Order Does Matter (And Shuffled Language Models Know It);** Vinit Ravishankar et al
@@ -566,7 +575,6 @@
 - **ON THE PITFALLS OF ANALYZING INDIVIDUAL NEURONS IN LANGUAGE MODELS;** Omer Antverg, Yonatan Belinkov
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **DISCOVERING LATENT CONCEPTS LEARNED IN BERT;** Fahim Dalvi et al
-- **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
 - **NO ONE REPRESENTATION TO RULE THEM ALL: OVERLAPPING FEATURES OF TRAINING METHODS;** Raphael Gontijo-Lopes, Yann Dauphin, Ekin D. Cubuk
 - **Editing Factual Knowledge in Language Models;** Nicola De Cao et al
 - **How Much Knowledge Can You Pack Into the Parameters of a Language Model?;** Adam Roberts et al
