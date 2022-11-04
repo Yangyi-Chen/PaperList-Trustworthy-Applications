@@ -555,6 +555,7 @@
 - **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
 - **Learning To Retrieve Prompts for In-Context Learning;** Ohad Rubin et al
 - **An Explanation of In-context Learning as Implicit Bayesian Inference;** Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma
+- **MetaICL: Learning to Learn In Context;** Sewon Min et al
 
 
 ## Model Analysis
