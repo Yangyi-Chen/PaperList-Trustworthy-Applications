@@ -384,6 +384,7 @@
 - **ASK ME ANYTHING: A SIMPLE STRATEGY FOR PROMPTING LANGUAGE MODELS;** Anonymous
 - **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization;** Yuxian Gu et al
 - **Boosting Natural Language Generation from Instructions with Meta-Learning;** Budhaditya Deb et al
+- **Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models;** Robert L. Logan IV et al
 
 
 
@@ -559,7 +560,7 @@
 - **PROMPTING GPT-3 TO BE RELIABLE;** Chenglei Si et al
 - **Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm;** Laria Reynolds et al
 - **Do Prompt-Based Models Really Understand the Meaning of their Prompts?;** Albert Webson et al
-- **Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models;** Robert L. Logan IV et al
+
 
 
 ## Model Analysis
