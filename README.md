@@ -341,7 +341,6 @@
 - **MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION;** Victor Sanh et al
 - **LAMOL: LANGUAGE MODELING FOR LIFELONG LANGUAGE LEARNING;** Fan-Keng Sun, Cheng-Hao Ho, Hung-Yi Lee; Use an LM to both generate previous tasks' data and solve the tasks.
 - **CLUES: A Benchmark for Learning Classifiers using Natural Language Explanations;** Rakesh R Menon et al
-- **Meta-learning via Language Model In-context Tuning;** Yanda Chen et al
 - **Muppet: Massive Multi-task Representations with Pre-Finetuning;** Armen Aghajanyan et al
 - **Cross-Task Generalization via Natural Language Crowdsourcing Instructions;** Swaroop Mishra et al
 - **Unsupervised Cross-Task Generalization via Retrieval Augmentation;** Bill Yuchen Lin et al
@@ -561,7 +560,7 @@
 - **Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm;** Laria Reynolds et al
 - **Do Prompt-Based Models Really Understand the Meaning of their Prompts?;** Albert Webson et al
 - **On the Relation between Sensitivity and Accuracy in In-context Learning;** Yanda Chen et al
-
+- **Meta-learning via Language Model In-context Tuning;** Yanda Chen et al
 
 
 
