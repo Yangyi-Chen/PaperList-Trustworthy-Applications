@@ -158,6 +158,7 @@
 - **Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers;** Christopher Schröder et al
 - **Stop Measuring Calibration When Humans Disagree;** Joris Baan et al
 - **On the Calibration of Massively Multilingual Language Models;** Kabir Ahuja et al
+- **ADDMU: Detection of Far-Boundary Adversarial Examples with Data and Model Uncertainty Estimation;** Fan Yin et al
 
 
 
