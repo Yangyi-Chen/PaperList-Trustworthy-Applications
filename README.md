@@ -419,6 +419,7 @@
 - **Different Tunes Played with Equal Skill: Exploring a Unified Optimization Subspace for Delta Tuning;** Jing Yi et al
 - **Evaluating Parameter Efficient Learning for Generation;** Peng Xu et al
 - **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning;** Yaqing Wang et al
+- **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters;** Hongyu Zhao et al
 
 
 
