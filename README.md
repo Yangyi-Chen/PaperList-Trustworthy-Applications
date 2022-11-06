@@ -563,7 +563,7 @@
 - **On the Relation between Sensitivity and Accuracy in In-context Learning;** Yanda Chen et al
 - **Meta-learning via Language Model In-context Tuning;** Yanda Chen et al
 - **Extrapolating to Unnatural Language Processing with GPT-3's In-context Learning: The Good, the Bad, and the Mysterious;** Frieda Rong
-
+- **SELECTIVE ANNOTATION MAKES LANGUAGE MODELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
 
 
 
