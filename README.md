@@ -337,6 +337,7 @@
 - **SELECTIVE ANNOTATION MAKES LANGUAGE MOD- ELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
 - **Understanding Transformer Memorization Recall Through Idioms;** Adi Haviv et al
 - **Multi-task Active Learning for Pre-trained Transformer-based Models;** Guy Rotman et al
+- **DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning;** Chengcheng Guo et al
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
