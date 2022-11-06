@@ -93,6 +93,10 @@
 - **Event Extraction: A Survey;** Viet Dac Lai et al
 - **State-of-the-art generalisation research in NLP: a taxonomy and review;** Dieuwke Hupkes et al
 - **A Survey of Active Learning for Natural Language Processing;** Zhisong Zhang et al
+- **A Survey of Data Optimization for Problems in Computer Vision Datasets;** Zhijing Wan et al
+- **Towards Data-and Knowledge-Driven Artificial Intelligence: A Survey on Neuro-Symbolic Computing;** Wenguan Wang et al
+- **Self-Training: A Survey;** Massih-Reza Amini et al
+
 
 ## Adversarial Sample
 - **Repairing Adversarial Texts through Perturbation;** Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
