@@ -178,6 +178,7 @@
 - **MEASURING COMPOSITIONALITY IN REPRESENTATION LEARNING;** Jacob Andreas
 - **Revisiting the Compositional Generalization Abilities of Neural Sequence Models;** Arkil Patel et al
 - **Learning Transductions to Test Systematic Compositionality;** Josef Valvoda et al
+- **CHARACTERIZING INTRINSIC COMPOSITIONALITY IN TRANSFORMERS WITH TREE PROJECTIONS;** Shikhar Murty et al
 
 
 ## Trustworthy (broad topic)
