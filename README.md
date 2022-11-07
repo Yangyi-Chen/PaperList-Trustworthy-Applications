@@ -521,6 +521,7 @@
 - **Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence;** Tal Schuster et al
 - **CROSSFIT: A Few-shot Learning Challenge for Cross-task Generalization in NLP;** Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
 - **RAFT: A Real-World Few-Shot Text Classification Benchmark;** Neel Alex et al
+- **LMentry: A Language Model Benchmark of Elementary Language Tasks;** Avia Efrat et al
 
 
 
