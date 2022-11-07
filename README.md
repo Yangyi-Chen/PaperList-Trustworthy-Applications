@@ -338,6 +338,9 @@
 - **Understanding Transformer Memorization Recall Through Idioms;** Adi Haviv et al
 - **Multi-task Active Learning for Pre-trained Transformer-based Models;** Guy Rotman et al
 - **DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning;** Chengcheng Guo et al
+- **DATASET DISTILLATION;** Tongzhou Wang et al
+- **DATASET CONDENSATION WITH GRADIENT MATCHING;** Bo Zhao et al
+- **Dataset Distillation by Matching Training Trajectories;** George Cazenavette et al
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
