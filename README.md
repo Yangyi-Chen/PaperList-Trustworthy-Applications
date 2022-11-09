@@ -560,7 +560,7 @@
 - **Scaling Instruction-Finetuned Language Models;** Hyung Won Chung et al
 - **LARGE LANGUAGE MODELS CAN SELF-IMPROVE;** Jiaxin Huang et al
 - **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
-
+- **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 
 ## Incontext Learning
 - **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
@@ -606,7 +606,7 @@
 - **RELATIVE REPRESENTATIONS ENABLE ZERO-SHOT LATENT SPACE COMMUNICATION;** Luca Moschella et al
 - **What do Large Language Models Learn beyond Language?;** Avinash Madasu, Shashank Srivastava
 - **On the Transformation of Latent Space in Fine-Tuned NLP Models;** Nadir Durrani et al
-
+- **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al
 
 
 ## Theory
