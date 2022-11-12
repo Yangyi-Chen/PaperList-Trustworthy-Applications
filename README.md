@@ -563,6 +563,7 @@
 - **LARGE LANGUAGE MODELS CAN SELF-IMPROVE;** Jiaxin Huang et al
 - **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
+- **Large Language Models with Controllable Working Memory;** Daliang Li et al
 
 ## Incontext Learning
 - **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
