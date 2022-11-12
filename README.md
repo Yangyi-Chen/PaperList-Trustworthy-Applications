@@ -396,6 +396,7 @@
 - **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization;** Yuxian Gu et al
 - **Boosting Natural Language Generation from Instructions with Meta-Learning;** Budhaditya Deb et al
 - **Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models;** Robert L. Logan IV et al
+- ** Prompt consistency for zero-shot task generalization;** Chunting Zhou et al
 
 
 
