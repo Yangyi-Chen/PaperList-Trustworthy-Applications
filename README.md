@@ -479,6 +479,7 @@
 - **Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens;** Nitish Joshi et al
 - **Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers;** Jieyu Zhao et al
 - **XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models;** Dong-Ho Lee et al
+- **“Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification;** Jasmijn Bastings et al
 
 
 ## NLP for Social Good
