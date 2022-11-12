@@ -96,6 +96,7 @@
 - **A Survey of Data Optimization for Problems in Computer Vision Datasets;** Zhijing Wan et al
 - **Towards Data-and Knowledge-Driven Artificial Intelligence: A Survey on Neuro-Symbolic Computing;** Wenguan Wang et al
 - **Self-Training: A Survey;** Massih-Reza Amini et al
+- **On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey;** Xu Guo et al
 
 
 ## Adversarial Sample
