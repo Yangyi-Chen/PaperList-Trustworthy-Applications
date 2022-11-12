@@ -579,6 +579,8 @@
 - **Extrapolating to Unnatural Language Processing with GPT-3's In-context Learning: The Good, the Bad, and the Mysterious;** Frieda Rong
 - **SELECTIVE ANNOTATION MAKES LANGUAGE MODELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
 - **Robustness of Demonstration-based Learning Under Limited Data Scenario;** Hongxin Zhang et al
+- **Active Example Selection for In-Context Learning;** Yiming Zhang et al
+- **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity;** Yao Lu et al
 
 
 ## Model Analysis
