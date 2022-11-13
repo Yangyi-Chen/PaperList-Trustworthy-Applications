@@ -345,6 +345,8 @@
 - **DATASET DISTILLATION;** Tongzhou Wang et al
 - **DATASET CONDENSATION WITH GRADIENT MATCHING;** Bo Zhao et al
 - **Dataset Distillation by Matching Training Trajectories;** George Cazenavette et al
+- **Deep Learning on a Data Diet: Finding Important Examples Early in Training;** Mansheej Paul et al
+- **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning;** Mohsen Fayyaz et al
 
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
