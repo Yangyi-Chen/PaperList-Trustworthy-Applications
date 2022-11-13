@@ -774,6 +774,8 @@
 - **PILED: An Identify-and-Localize Framework for Few-Shot Event;** Sha Li et al
 - **Liberal Event Extraction and Event Schema Induction;** Lifu Huang et al
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
+- **Learning from Context or Names? An Empirical Study on Neural Relation Extraction;** Hao Peng et al
+- **Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition;** Abbas Ghaddar et al 
 
 
 
