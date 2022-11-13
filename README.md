@@ -724,6 +724,7 @@
 - **VQA-LOL: Visual Question Answering under the Lens of Logic;** Tejas Gokhale et al
 - **Cross-Modality Relevance for Reasoning on Language and Vision;** Chen Zheng, Quan Guo, Parisa Kordjamshidi
 - **SQuINTing at VQA Models: Introspecting VQA Models with Sub-Questions;** Ramprasaath R. Selvaraju et al
+- **EVENTS REALM: Event Reasoning of Entity States via Language Models;** Evangelia Spiliopoulou et al; Relevant to PiGLET & Open PI. 
 
 
 
