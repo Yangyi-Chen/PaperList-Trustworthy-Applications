@@ -35,6 +35,7 @@
 - [NLG Hallucination](#nlg-hallucination)
 - [Information Extraction](#information-extraction)
 - [Interesting Topics](#interesting-topics)
+- [Theory of Mind](#theory-of-mind)
 - [Interesting Fields (CV)](#interesting-fields (CV))
 - [Resources](#resources) 
 
@@ -796,7 +797,15 @@
 - **WHAT DO NLP RESEARCHERS BELIEVE? RESULTS OF THE NLP COMMUNITY METASURVEY;** Julian Michael et al
 - **EXPLAINING PATTERNS IN DATA WITH LANGUAGE MODELS VIA INTERPRETABLE AUTOPROMPTING;** Chandan Singh et al
 - **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
+
+
+## Theory of Mind
 - **Do Large Language Models know what humans know?;** Sean Trott et al
+- **Few-shot Language Coordination by Modeling Theory of Mind;** Hao Zhu et al
+- **Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind;** Mo Yu et al 
+- **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
+
+
 
 ## Interesting Fields (CV)
 - **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
