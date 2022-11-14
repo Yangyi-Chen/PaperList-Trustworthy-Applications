@@ -616,6 +616,7 @@
 - **What do Large Language Models Learn beyond Language?;** Avinash Madasu, Shashank Srivastava
 - **On the Transformation of Latent Space in Fine-Tuned NLP Models;** Nadir Durrani et al
 - **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al
+- **How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers;** Michael Hassid et al
 
 
 ## Theory
