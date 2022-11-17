@@ -620,7 +620,7 @@
 - **On the Transformation of Latent Space in Fine-Tuned NLP Models;** Nadir Durrani et al
 - **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al
 - **How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers;** Michael Hassid et al
-
+- **Large Language Models Struggle to Learn Long-Tail Knowledge;** Nikhil Kandpal et al
 
 ## Theory
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
