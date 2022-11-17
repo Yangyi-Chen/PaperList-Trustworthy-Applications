@@ -402,6 +402,7 @@
 - **Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models;** Robert L. Logan IV et al
 - **Prompt consistency for zero-shot task generalization;** Chunting Zhou et al
 - **A Universal Discriminator for Zero-Shot Generalization;** Haike Xu et al
+- **Co-training Improves Prompt-based Learning for Large Language Models;** Hunter Lang et al
 
 
 
