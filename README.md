@@ -348,7 +348,7 @@
 - **Dataset Distillation by Matching Training Trajectories;** George Cazenavette et al
 - **Deep Learning on a Data Diet: Finding Important Examples Early in Training;** Mansheej Paul et al
 - **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning;** Mohsen Fayyaz et al
-
+- **On Measuring the Intrinsic Few-Shot Hardness of Datasets;** Xinran Zhao et al
 
 ## Transfer & Lifelong & Few-shot & Zero-shot Learning
 - **FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding;** Yanan Zheng et al
