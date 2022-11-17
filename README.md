@@ -590,6 +590,8 @@
 - **Calibrate Before Use: Improving Few-Shot Performance of Language Models;** Tony Z. Zhao et al
 - **DIALOGIC: Controllable Dialogue Simulation with In-Context Learning;** Zekun Li et al 
 - **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
+- **Teaching Algorithmic Reasoning via In-context Learning;** Hattie Zhou et al
+- **On the Compositional Generalization Gap of In-Context Learning** Arian Hosseini et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
