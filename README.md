@@ -567,7 +567,6 @@
 - **Transcending Scaling Laws with 0.1% Extra Compute;** Yi Tay et al
 - **Scaling Instruction-Finetuned Language Models;** Hyung Won Chung et al
 - **LARGE LANGUAGE MODELS CAN SELF-IMPROVE;** Jiaxin Huang et al
-- **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Large Language Models with Controllable Working Memory;** Daliang Li et al
 
@@ -590,7 +589,7 @@
 - **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity;** Yao Lu et al
 - **Calibrate Before Use: Improving Few-Shot Performance of Language Models;** Tony Z. Zhao et al
 - **DIALOGIC: Controllable Dialogue Simulation with In-Context Learning;** Zekun Li et al 
-
+- **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
