@@ -589,6 +589,7 @@
 - **Active Example Selection for In-Context Learning;** Yiming Zhang et al
 - **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity;** Yao Lu et al
 - **Calibrate Before Use: Improving Few-Shot Performance of Language Models;** Tony Z. Zhao et al
+- **DIALOGIC: Controllable Dialogue Simulation with In-Context Learning;** Zekun Li et al 
 
 
 ## Model Analysis
