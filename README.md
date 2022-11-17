@@ -538,7 +538,7 @@
 - **CROSSFIT: A Few-shot Learning Challenge for Cross-task Generalization in NLP;** Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
 - **RAFT: A Real-World Few-Shot Text Classification Benchmark;** Neel Alex et al
 - **LMentry: A Language Model Benchmark of Elementary Language Tasks;** Avia Efrat et al
-
+- **GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective;** Linyi Yang et al
 
 
 
