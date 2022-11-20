@@ -408,6 +408,7 @@
 - **A Universal Discriminator for Zero-Shot Generalization;** Haike Xu et al
 - **Co-training Improves Prompt-based Learning for Large Language Models;** Hunter Lang et al
 - **UNISUMM: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning;** Yulong Chen et al
+- **Task-aware Retrieval with Instructions;** Akari Asai et al
 
 
 
