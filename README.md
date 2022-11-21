@@ -351,6 +351,8 @@
 - **On Measuring the Intrinsic Few-Shot Hardness of Datasets;** Xinran Zhao et al
 - **Rissanen data analysis: Examining dataset charac- teristics via description length;** Ethan Perez et al
 - **Sensitivity as a Complexity Measure for Sequence Classification Tasks;** Michael Hahn et al
+- **Data-Centric Debugging: mitigating model failures via targeted data collection;** Sahil Singla et al
+- **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric;** Richard Zhang et al
 
 
 
