@@ -795,6 +795,7 @@
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
 - **Learning from Context or Names? An Empirical Study on Neural Relation Extraction;** Hao Peng et al
 - **Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition;** Abbas Ghaddar et al 
+- **MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction;** Xiaozhi Wang et al
 
 
 
