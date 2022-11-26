@@ -739,6 +739,7 @@
 - **REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS;** Shunyu Yao et al
 - **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs;** Maarten Sap et al
 - **A Systematic Investigation of Commonsense Knowledge in Large Language Models (Commonsense);** Xiang Lorraine Li et al
+- **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks;** Wenhu Chen et al
 
 
 ## CV Reasoning
