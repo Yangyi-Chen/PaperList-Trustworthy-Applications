@@ -449,7 +449,7 @@
 - **Evaluating Parameter Efficient Learning for Generation;** Peng Xu et al
 - **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning;** Yaqing Wang et al
 - **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters;** Hongyu Zhao et al
-
+- **HyperTuning: Toward Adapting Large Language Models without Back-propagation;** Jason Phang et al
 
 
 ## Spurious Correlation
