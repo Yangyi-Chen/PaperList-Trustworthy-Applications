@@ -748,7 +748,7 @@
 - **Cross-Modality Relevance for Reasoning on Language and Vision;** Chen Zheng, Quan Guo, Parisa Kordjamshidi
 - **SQuINTing at VQA Models: Introspecting VQA Models with Sub-Questions;** Ramprasaath R. Selvaraju et al
 - **EVENTS REALM: Event Reasoning of Entity States via Language Models;** Evangelia Spiliopoulou et al; Relevant to PiGLET & Open PI. 
-
+- **Visually Grounded Commonsense Knowledge Acquisition;** Yuan Yao et al; Automatically build knowledge base.
 
 
 
