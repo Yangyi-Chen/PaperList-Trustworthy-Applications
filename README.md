@@ -389,7 +389,7 @@
 - **Adversarial Neuron Pruning Purifies Backdoored Deep Models;** Dongxian Wu, Yisen Wang
 - **Backdoor Attacks on Self-Supervised Learning;** Aniruddha Saha et al
 - **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning;** Jinyuan Jia et al
-- **BRIDGING MODE CONNECTIVITY IN LOSS LANDSCAPES AND ADVERSARIAL ROBUSTNESS;** Pu Zhao et al
+
 
 
 ## Prompt-based Learning
@@ -632,9 +632,11 @@
 - **RELATIVE REPRESENTATIONS ENABLE ZERO-SHOT LATENT SPACE COMMUNICATION;** Luca Moschella et al
 - **What do Large Language Models Learn beyond Language?;** Avinash Madasu, Shashank Srivastava
 - **On the Transformation of Latent Space in Fine-Tuned NLP Models;** Nadir Durrani et al
-- **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al
 - **How Much Does Attention Actually Attend? Questioning the Importance of Attention in Pretrained Transformers;** Michael Hassid et al
 - **Large Language Models Struggle to Learn Long-Tail Knowledge;** Nikhil Kandpal et al
+- **Linear Interpolation In Parameter Space is Good Enough for Fine-Tuned Language Models;** Mark Rofin et al; Mode connectivity. 
+- **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al; Mode connectivity. 
+- **BRIDGING MODE CONNECTIVITY IN LOSS LANDSCAPES AND ADVERSARIAL ROBUSTNESS;** Pu Zhao et al; Mode connectivity. 
 
 ## Theory
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
