@@ -610,6 +610,7 @@
 - **PRESERVING IN-CONTEXT LEARNING ABILITY IN LARGE LANGUAGE MODEL FINE-TUNING;** Yihan Wang et al
 - **Teaching Algorithmic Reasoning via In-context Learning;** Hattie Zhou et al
 - **On the Compositional Generalization Gap of In-Context Learning** Arian Hosseini et al
+- **Transformers generalize differently from information stored in context vs weights;** Stephanie C.Y. Chan et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
@@ -643,6 +644,7 @@
 - **Linear Interpolation In Parameter Space is Good Enough for Fine-Tuned Language Models;** Mark Rofin et al; Mode connectivity. 
 - **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al; Mode connectivity. 
 - **BRIDGING MODE CONNECTIVITY IN LOSS LANDSCAPES AND ADVERSARIAL ROBUSTNESS;** Pu Zhao et al; Mode connectivity. 
+- **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
 
 ## Theory
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
