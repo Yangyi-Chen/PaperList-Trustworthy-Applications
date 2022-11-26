@@ -233,6 +233,7 @@
 - **Enhancing Out-of-Distribution Detection in Natural Language Understanding via Implicit Layer Ensemble;** Hyunsoo Cho et al
 - **Are Out-of-Distribution Detection Methods Reliable?;** Vahid Reza Khazaie et al
 - **ADBench: Anomaly Detection Benchmark;** Songqiao Han et al
+- **Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text;** Qianhui Wu et al
 
 
 
