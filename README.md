@@ -645,6 +645,8 @@
 - **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al; Mode connectivity. 
 - **BRIDGING MODE CONNECTIVITY IN LOSS LANDSCAPES AND ADVERSARIAL ROBUSTNESS;** Pu Zhao et al; Mode connectivity. 
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
+- **Neural Dependencies Emerging from Learning Massive Categories;** Ruili Feng et al
+
 
 ## Theory
 - **Reconciling modern machine learning practice and the bias-variance trade-off;** Mikhail Belkin et al
