@@ -355,6 +355,7 @@
 - **Sensitivity as a Complexity Measure for Sequence Classification Tasks;** Michael Hahn et al
 - **Data-Centric Debugging: mitigating model failures via targeted data collection;** Sahil Singla et al
 - **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric;** Richard Zhang et al
+- **Synthetic Data Can Also Teach: Synthesizing Effective Data for Unsupervised Visual Representation Learning;** Yawen Wu et al
 
 
 
