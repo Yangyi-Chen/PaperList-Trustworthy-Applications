@@ -14,7 +14,7 @@
 - [Explanation](#explanation)
 - [Data Augmentation](#data-augmentation)
 - [Training Data Points](#training-data-points)
-- [Transfer & Lifelong & Few-shot & Zero-shot Learning](#transfer-&-lifelong-&-few-shot-&-zero-shot-learning)
+- [Multi-task & Transfer & Lifelong & Few-shot & Zero-shot Learning](#transfer-&-lifelong-&-few-shot-&-zero-shot-learning)
 - [Backdoor Learning](#backdoor-learning)
 - [Prompt-based Learning](#prompt-based-learning)
 - [Parameter Efficient Tuning](#parameter-efficient-tuning)
@@ -359,7 +359,7 @@
 
 
 
-## Transfer & Lifelong & Few-shot & Zero-shot Learning
+## Multi-Task & Transfer & Lifelong & Few-shot & Zero-shot Learning
 - **FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding;** Yanan Zheng et al
 - **FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS;** Jason Wei et al
 - **MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION;** Victor Sanh et al
@@ -375,6 +375,7 @@
 - **Continual-T0: Progressively Instructing 50+ Tasks to Language Models Without Forgetting;** Thomas Scialom et al
 - **AdapterFusion: Non-Destructive Task Composition for Transfer Learning;** Jonas Pfeiffer et al 
 - **Multi-Task Pre-Training of Modular Prompt for Few-Shot Learning;** Tianxiang Sun et al
+- **Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts;** Qinyuan Ye et al
 
 
 ## Backdoor Learning
