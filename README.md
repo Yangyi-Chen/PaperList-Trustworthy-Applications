@@ -231,6 +231,7 @@
 - **AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing;** Matei Bejan et al
 - **OpenOOD: Benchmarking Generalized Out-of-Distribution Detection;** Jingkang Yang et al
 - **Enhancing Out-of-Distribution Detection in Natural Language Understanding via Implicit Layer Ensemble;** Hyunsoo Cho et al
+- **Are Out-of-Distribution Detection Methods Reliable?;** Vahid Reza Khazaie et al
 
 
 
