@@ -587,6 +587,9 @@
 - **Measuring Progress on Scalable Oversight for Large Language Models;** Samuel R. Bowman et al
 - **Large Language Models with Controllable Working Memory;** Daliang Li et al
 - **Galactica: A Large Language Model for Science;** Ross Taylor et al
+- **PAL: Program-aided Language Models;** Luyu Gao et al
+
+
 
 ## Incontext Learning
 - **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?;** Sewon Min et al
