@@ -667,6 +667,7 @@
 - **Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models;** Hong Liu et al
 - **MODELDIFF: A Framework for Comparing Learning Algorithms;** Harshay Shah et al
 - **Datamodels: Predicting Predictions from Training Data;** Andrew Ilyas et al
+- **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
 
 
 
