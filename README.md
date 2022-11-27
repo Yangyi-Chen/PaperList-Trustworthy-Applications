@@ -175,6 +175,7 @@
 - **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade;** Lei Li et al
 - **Calibration Meets Explanation: A Simple and Effective Approach for Model Confidence Estimates;** Dongfang Li et al
 - **AdaFocal: Calibration-aware Adaptive Focal Loss;** Arindam Ghosh et al
+- **Calibrated Interpretation: Confidence Estimation in Semantic Parsing;** Elias Stengel-Eskin et al
 
 
 ## Compositional Generalization
