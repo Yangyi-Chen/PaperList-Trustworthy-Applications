@@ -661,6 +661,9 @@
 - **REVISITING OVER-SMOOTHING IN BERT FROM THE PERSPECTIVE OF GRAPH;** Han Shi et al
 - **ANTI-OVERSMOOTHING IN DEEP VISION TRANSFORMERS VIA THE FOURIER DOMAIN ANALYSIS: FROM THEORY TO PRACTICE;** Peihao Wang et al
 - **Inducing Neural Collapse in Imbalanced Learning: Do We Really Need a Learnable Classifier at the End of Deep Neural Network?;** Yibo Yang et al
+- **Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models;** Hong Liu et al
+- **MODELDIFF: A Framework for Comparing Learning Algorithms;** Harshay Shah et al
+- **Datamodels: Predicting Predictions from Training Data;** Andrew Ilyas et al
 
 
 
