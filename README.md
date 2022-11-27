@@ -611,6 +611,7 @@
 - **Teaching Algorithmic Reasoning via In-context Learning;** Hattie Zhou et al
 - **On the Compositional Generalization Gap of In-Context Learning** Arian Hosseini et al
 - **Transformers generalize differently from information stored in context vs weights;** Stephanie C.Y. Chan et al
+- **OVERTHINKING THE TRUTH: UNDERSTANDING HOW LANGUAGE MODELS PROCESS FALSE DEMONSTRATIONS;** Anonymous
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
