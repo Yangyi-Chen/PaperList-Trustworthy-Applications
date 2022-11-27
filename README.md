@@ -99,6 +99,9 @@
 - **Self-Training: A Survey;** Massih-Reza Amini et al
 - **On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey;** Xu Guo et al
 - **A Survey of Knowledge-Enhanced Pre-trained Language Models;** Linmei Hu et al
+- **Continual Learning of Natural Language Processing Tasks: A Survey;** Zixuan Ke et al
+
+
 
 ## Adversarial Sample
 - **Repairing Adversarial Texts through Perturbation;** Guoliang Dong, Jingyi Wang, Jun Sun, Sudipta Chattopadhyay, Xinyu Wang, Ting Dai, Jie Shi and Jin Song Dong; Introduce method to detect textual adversarial samples and "repair" them. 
