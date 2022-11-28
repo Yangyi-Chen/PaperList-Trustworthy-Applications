@@ -623,6 +623,7 @@
 - **Transformers generalize differently from information stored in context vs weights;** Stephanie C.Y. Chan et al
 - **OVERTHINKING THE TRUTH: UNDERSTANDING HOW LANGUAGE MODELS PROCESS FALSE DEMONSTRATIONS;** Anonymous
 - **In-context Learning and Induction Heads;** Catherine Olsson et al
+- **Complementary Explanations for Effective In-Context Learning;** Xi Ye et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
