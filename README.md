@@ -238,6 +238,8 @@
 - **Are Out-of-Distribution Detection Methods Reliable?;** Vahid Reza Khazaie et al
 - **ADBench: Anomaly Detection Benchmark;** Songqiao Han et al
 - **Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text;** Qianhui Wu et al
+- **Beyond Mahalanobis-Based Scores for Textual OOD Detection;** Pierre Colombo et al
+- **Delving into Out-of-Distribution Detection with Vision-Language Representations;** Yifei Ming et al
 
 
 
