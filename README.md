@@ -178,6 +178,7 @@
 - **AdaFocal: Calibration-aware Adaptive Focal Loss;** Arindam Ghosh et al
 - **Calibrated Interpretation: Confidence Estimation in Semantic Parsing;** Elias Stengel-Eskin et al
 - **CONAL: ANTICIPATING OUTLIERS WITH LARGE LANGUAGE MODELS;** Albert Xu et al 
+- **DOCTOR: A Simple Method for Detecting Misclassification Errors;** Federica Granese et al
 
 
 ## Compositional Generalization
