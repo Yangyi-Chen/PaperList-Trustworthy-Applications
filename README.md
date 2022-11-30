@@ -510,7 +510,7 @@
 - **XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models;** Dong-Ho Lee et al
 - **“Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification;** Jasmijn Bastings et al
 - **Using Focal Loss to Fight Shallow Heuristics: An Empirical Analysis of Modulated Cross-Entropy in Natural Language Inference;** Frano Rajic et al
-
+- **Automatic Shortcut Removal for Self-Supervised Representation Learning;** Matthias Minderer et al
 
 ## NLP for Social Good
 - **Defending Against Neural Fake News;** Rowan Zellers et al
