@@ -100,6 +100,7 @@
 - **On the Domain Adaptation and Generalization of Pretrained Language Models: A Survey;** Xu Guo et al
 - **A Survey of Knowledge-Enhanced Pre-trained Language Models;** Linmei Hu et al
 - **Continual Learning of Natural Language Processing Tasks: A Survey;** Zixuan Ke et al
+- **A Survey on Model Compression and Acceleration for Pretrained Language Models;** Canwen Xu et al
 
 
 
@@ -562,6 +563,7 @@
 - **RAFT: A Real-World Few-Shot Text Classification Benchmark;** Neel Alex et al
 - **LMentry: A Language Model Benchmark of Elementary Language Tasks;** Avia Efrat et al
 - **GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective;** Linyi Yang et al
+- **ClueWeb22: 10 Billion Web Documents with Rich Information;** ARNOLD OVERWIJK et al
 
 
 
