@@ -402,7 +402,7 @@
 - **Backdoor Attacks on Self-Supervised Learning;** Aniruddha Saha et al
 - **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning;** Jinyuan Jia et al
 - **BadPrompt: Backdoor Attacks on Continuous Prompts;** Xiangrui Cai et al
-
+- **BACKDOOR OR FEATURE? A NEW PERSPECTIVE ON DATA POISONING;** Anonymous et al
 
 
 ## Prompt-based Learning
