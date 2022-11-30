@@ -463,7 +463,7 @@
 - **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning;** Yaqing Wang et al
 - **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters;** Hongyu Zhao et al
 - **HyperTuning: Toward Adapting Large Language Models without Back-propagation;** Jason Phang et al
-
+- **On the Effectiveness of Parameter-Efficient Fine-Tuning;** Zihao Fu et al
 
 ## Spurious Correlation
 - **Competency Problems: On Finding and Removing Artifacts in Language Data;** Matt Gardner et al
