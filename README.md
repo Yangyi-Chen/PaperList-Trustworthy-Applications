@@ -177,6 +177,7 @@
 - **Calibration Meets Explanation: A Simple and Effective Approach for Model Confidence Estimates;** Dongfang Li et al
 - **AdaFocal: Calibration-aware Adaptive Focal Loss;** Arindam Ghosh et al
 - **Calibrated Interpretation: Confidence Estimation in Semantic Parsing;** Elias Stengel-Eskin et al
+- **CONAL: ANTICIPATING OUTLIERS WITH LARGE LANGUAGE MODELS;** Albert Xu et al 
 
 
 ## Compositional Generalization
