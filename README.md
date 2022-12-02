@@ -295,6 +295,7 @@
 - **NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation;** Phillip Howard et al
 - **Not to Overfit or Underfit? A Study of Domain Generalization in Question Answering;** Md Arafat Sultan et al
 - **Are Sample-Efficient NLP Models More Robust?;** Nelson F. Liu et al
+- **Finetune like you pretrain: Improved finetuning of zero-shot vision models;** Sachin Goyal et al
 
 ## Explanation
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
