@@ -244,6 +244,7 @@
 - **Beyond Mahalanobis-Based Scores for Textual OOD Detection;** Pierre Colombo et al
 - **Delving into Out-of-Distribution Detection with Vision-Language Representations;** Yifei Ming et al
 - **Out-Of-Distribution Detection Is Not All You Need;** Joris Guerin et al
+- **Rethinking Out-of-Distribution Detection From a Human-Centric Perspective;** Yao Zhu et al
 
 
 
