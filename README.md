@@ -101,7 +101,7 @@
 - **A Survey of Knowledge-Enhanced Pre-trained Language Models;** Linmei Hu et al
 - **Continual Learning of Natural Language Processing Tasks: A Survey;** Zixuan Ke et al
 - **A Survey on Model Compression and Acceleration for Pretrained Language Models;** Canwen Xu et al
-
+- **Learning from Disagreement: A Survey;** Alexandra N. Uma et al
 
 
 ## Adversarial Sample
@@ -370,7 +370,7 @@
 - **Data-Centric Debugging: mitigating model failures via targeted data collection;** Sahil Singla et al
 - **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric;** Richard Zhang et al
 - **Synthetic Data Can Also Teach: Synthesizing Effective Data for Unsupervised Visual Representation Learning;** Yawen Wu et al
-
+- **The “Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation;** Barbara Plank
 
 
 ## Multi-Task & Transfer & Lifelong & Few-shot & Zero-shot Learning
