@@ -567,6 +567,7 @@
 - **LMentry: A Language Model Benchmark of Elementary Language Tasks;** Avia Efrat et al
 - **GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective;** Linyi Yang et al
 - **ClueWeb22: 10 Billion Web Documents with Rich Information;** ARNOLD OVERWIJK et al
+- **What Will it Take to Fix Benchmarking in Natural Language Understanding?;** Samuel R. Bowman et al 
 
 
 
