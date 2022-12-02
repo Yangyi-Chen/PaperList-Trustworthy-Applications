@@ -198,15 +198,15 @@
 - **PIXMIX: Dreamlike Pictures Comprehensively Improve Safety Measures;** Dan Hendrycks et al
 - **METASHIFT: A DATASET OF DATASETS FOR EVALUATING CONTEXTUAL DISTRIBUTION SHIFTS AND TRAINING CONFLICTS;** Weixin Liang, James Zou
 - **TOXIGEN: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection;** Thomas Hartvigsen et al
-- **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
 - **NON-TRANSFERABLE LEARNING: A NEW APPROACH FOR MODEL OWNERSHIP VERIFICATION AND APPLICABILITY AUTHORIZATION;** Lixu Wang et al
 - **Plex: Towards Reliability Using Pretrained Large Model Extensions;** Dustin Tran et al
 - **Recovering Private Text in Federated Learning of Language Models;** Samyak Gupta et al
 - **LEVERAGING UNLABELED DATA TO PREDICT OUT-OF-DISTRIBUTION PERFORMANCE;** Saurabh Garg et al
 - **Formalizing Trust in Artificial Intelligence: Prerequisites, Causes and Goals of Human Trust in AI;** Alon Jacovi et al
 - **Memorization in NLP Fine-tuning Methods;** Fatemehsadat Mireshghallah et al
-
-
+- **SEAL: Interactive Tool for Systematic Error Analysis and Labeling;** Nazneen Rajani et al
+- **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
+- **Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing;** Wenyue Hua et al
 
 
 
