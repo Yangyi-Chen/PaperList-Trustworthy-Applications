@@ -312,7 +312,7 @@
 - **NATURAL LANGUAGE DESCRIPTIONS OF DEEP VISUAL FEATURES;** Evan Hernandez et al
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 - **Connecting Attributions and QA Model Behavior on Realistic Counterfactuals;** Xi Ye et al
-
+- **CausaLM: Causal Model Explanation Through Counterfactual Language Models;** Amir Feder et al
 
 ## Data Augmentation
 - **Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning; (Few-shot setting)** Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu
