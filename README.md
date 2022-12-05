@@ -36,6 +36,7 @@
 - [Information Extraction](#information-extraction)
 - [Interesting Topics](#interesting-topics)
 - [Theory of Mind](#theory-of-mind)
+- [Learning](#learning)
 - [Interesting Fields (CV)](#interesting-fields (CV))
 - [Resources](#resources) 
 
@@ -207,7 +208,7 @@
 - **SEAL: Interactive Tool for Systematic Error Analysis and Labeling;** Nazneen Rajani et al
 - **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
 - **Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing;** Wenyue Hua et al
-- **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
+
 
 
 
@@ -868,7 +869,8 @@
 - **Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind;** Mo Yu et al 
 - **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
 
-
+## Learning
+- **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
 
 ## Interesting Fields (CV)
 - **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
