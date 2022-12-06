@@ -809,7 +809,7 @@
 - **Experience Grounds Language;** Yonatan Bisk et al
 - **ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension;** Sanjay Subramanian et al
 - **Do Trajectories Encode Verb Meaning?;** Dylan Ebert et al
-
+- **Retrospectives on the Embodied AI Workshop;** Matt Deitke et al
 
 
 
@@ -871,6 +871,9 @@
 
 ## Learning
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
+- **Measures of Information Reflect Memorization Patterns;** Rachit Bansal et al
+- **Datamodels: Predicting Predictions from Training Data;** Andrew Ilyas et al
+- **MODELDIFF: A Framework for Comparing Learning Algorithms;** Harshay Shah et al
 
 ## Interesting Fields (CV)
 - **Taming Transformers for High-Resolution Image Synthesis;** Patrick Esser et al
