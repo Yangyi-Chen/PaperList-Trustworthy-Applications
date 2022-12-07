@@ -863,6 +863,7 @@
 - **EXPLAINING PATTERNS IN DATA WITH LANGUAGE MODELS VIA INTERPRETABLE AUTOPROMPTING;** Chandan Singh et al
 - **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
 - **Human or Machine? Turing Tests for Vision and Language;** Mengmi Zhang et al
+- **Language Models as Agent Models;** Jacob Andreas
 
 
 ## Theory of Mind
