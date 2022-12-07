@@ -180,6 +180,8 @@
 - **Calibrated Interpretation: Confidence Estimation in Semantic Parsing;** Elias Stengel-Eskin et al
 - **CONAL: ANTICIPATING OUTLIERS WITH LARGE LANGUAGE MODELS;** Albert Xu et al 
 - **DOCTOR: A Simple Method for Detecting Misclassification Errors;** Federica Granese et al
+- **Robust Models are less Over-Confident;** Julia Grabinski et al
+
 
 
 ## Compositional Generalization
