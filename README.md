@@ -414,6 +414,7 @@
 - **BadPrompt: Backdoor Attacks on Continuous Prompts;** Xiangrui Cai et al
 - **BACKDOOR OR FEATURE? A NEW PERSPECTIVE ON DATA POISONING;** Anonymous et al
 - **Backdoor Vulnerabilities in Normally Trained Deep Learning Models;** Guanhong Tao et al
+- **Defending Against Backdoor Attacks in Natural Language Generation;** Xiaofei Sun et al
 
 
 ## Prompt-based Learning
