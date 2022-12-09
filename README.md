@@ -611,7 +611,7 @@
 - **Large Language Models with Controllable Working Memory;** Daliang Li et al
 - **Galactica: A Large Language Model for Science;** Ross Taylor et al
 - **PAL: Program-aided Language Models;** Luyu Gao et al
-
+- **Can Offline Reinforcement Learning Help Natural Language Understanding?;** Ziqi Zhang et al
 
 
 ## Incontext Learning
