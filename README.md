@@ -678,6 +678,7 @@
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
 - **Neural Dependencies Emerging from Learning Massive Categories;** Ruili Feng et al
 - **Event knowledge in large language models: the gap between the impossible and the unlikely;** Carina Kauf et al
+- **EDITING MODELS WITH TASK ARITHMETIC;** Gabriel Ilharco et al
 
 
 ## Theory
