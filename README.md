@@ -902,3 +902,4 @@
 - **Contrastive Data and Learning for Natural Language Processing; (Tutorial)** 
 - **GPT-3 Nonfiction;** https://www.gwern.net/GPT-3-nonfiction
 - **Research Taste;** https://colah.github.io/notes/taste/
+- **OFASYS: A Multi-Modal Multi-Task Learning System for Building Generalist Models;** Jinze Bai et al
