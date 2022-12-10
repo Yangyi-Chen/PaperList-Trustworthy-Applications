@@ -677,6 +677,7 @@
 - **BRIDGING MODE CONNECTIVITY IN LOSS LANDSCAPES AND ADVERSARIAL ROBUSTNESS;** Pu Zhao et al; Mode connectivity. 
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
 - **Neural Dependencies Emerging from Learning Massive Categories;** Ruili Feng et al
+- **Event knowledge in large language models: the gap between the impossible and the unlikely;** Carina Kauf et al
 
 
 ## Theory
