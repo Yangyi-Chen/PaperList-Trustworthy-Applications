@@ -438,6 +438,7 @@
 - **UNISUMM: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning;** Yulong Chen et al
 - **Task-aware Retrieval with Instructions;** Akari Asai et al
 - **PromptCap: Prompt-Guided Task-Aware Image Captioning;** Yushi Hu et al
+- **Demystifying Prompts in Language Models via Perplexity Estimation;** Hila Gonen et al
 
 
 
