@@ -642,6 +642,7 @@
 - **In-context Learning and Induction Heads;** Catherine Olsson et al
 - **Complementary Explanations for Effective In-Context Learning;** Xi Ye et al
 - **What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations;** Michal Štefánik et al
+- **Robustness of Learning from Task Instructions;** Jiasheng Gu et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
