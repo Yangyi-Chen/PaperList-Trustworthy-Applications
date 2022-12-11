@@ -870,6 +870,7 @@
 - **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
 - **Human or Machine? Turing Tests for Vision and Language;** Mengmi Zhang et al
 - **Language Models as Agent Models;** Jacob Andreas
+- **Talking About Large Language Models;** Murray Shanahan
 
 
 ## Theory of Mind
