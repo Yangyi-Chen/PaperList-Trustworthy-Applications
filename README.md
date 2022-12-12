@@ -683,6 +683,7 @@
 - **Neural Dependencies Emerging from Learning Massive Categories;** Ruili Feng et al
 - **Event knowledge in large language models: the gap between the impossible and the unlikely;** Carina Kauf et al
 - **EDITING MODELS WITH TASK ARITHMETIC;** Gabriel Ilharco et al
+- **DISCOVERING LATENT KNOWLEDGE IN LANGUAGE MODELS WITHOUT SUPERVISION;** Collin Burns et al
 
 
 ## Theory
