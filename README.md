@@ -303,6 +303,7 @@
 - **Finetune like you pretrain: Improved finetuning of zero-shot vision models;** Sachin Goyal et al
 - **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation;** Kaustubh D. Dhole et al
 - **Reliability Testing for Natural Language Processing Systems;** Samson Tan et al
+- **If your data distribution shifts, use self-learning;** Evgenia Rusak et al
 
 
 ## Explanation
