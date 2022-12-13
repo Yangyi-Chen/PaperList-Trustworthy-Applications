@@ -34,6 +34,7 @@
 - [Grounding](#grounding) 
 - [NLG Hallucination](#nlg-hallucination)
 - [Information Extraction](#information-extraction)
+- [Code](#code)
 - [Interesting Topics](#interesting-topics)
 - [Theory of Mind](#theory-of-mind)
 - [Learning](#learning)
@@ -849,11 +850,22 @@
 - **CLEVE: Contrastive Pre-training for Event Extraction;** Ziqi Wang et al
 - **PILED: An Identify-and-Localize Framework for Few-Shot Event;** Sha Li et al
 - **Liberal Event Extraction and Event Schema Induction;** Lifu Huang et al
-- **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
 - **Learning from Context or Names? An Empirical Study on Neural Relation Extraction;** Hao Peng et al
 - **Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition;** Abbas Ghaddar et al 
 - **MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction;** Xiaozhi Wang et al
 
+## Code
+- **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
+- **HTLM: Hyper-Text Pre-Training and Prompting of Language Models;** Armen Aghajanyan et al
+- **PAL: Program-aided Language Models;** Luyu Gao et al
+- **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks;** Wenhu Chen et al
+- **CODE4STRUCT: Code Generation for Few-Shot Structured Prediction from Natural Language;** Xingyao Wang et al
+- **Language Models of Code are Few-Shot Commonsense Learners;** Aman Madaan et al
+- **CodeExp: Explanatory Code Document Generation;** Haotian Cui et al
+- **Visual Programming: Compositional visual reasoning without training;** Tanmay Gupta et al
+- **CM3: A Causal Masked Multimodal Model of the Internet;** Armen Aghajanyan et al
+- **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models;** Ishika Singh et al
+- **InCoder: A Generative Model for Code Infilling and Synthesis;** Daniel Fried et al
 
 
 ## Interesting Topics
