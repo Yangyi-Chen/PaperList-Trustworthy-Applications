@@ -104,6 +104,7 @@
 - **Continual Learning of Natural Language Processing Tasks: A Survey;** Zixuan Ke et al
 - **A Survey on Model Compression and Acceleration for Pretrained Language Models;** Canwen Xu et al
 - **Learning from Disagreement: A Survey;** Alexandra N. Uma et al
+- **A Survey on Natural Language Processing for Programming;** Qingfu Zhu et al
 
 
 ## Adversarial Sample
