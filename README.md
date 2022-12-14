@@ -620,6 +620,12 @@
 - **Galactica: A Large Language Model for Science;** Ross Taylor et al
 - **PAL: Program-aided Language Models;** Luyu Gao et al
 - **Can Offline Reinforcement Learning Help Natural Language Understanding?;** Ziqi Zhang et al
+- **Training language models to follow instructions with human feedback;** Long Ouyang et al; Directly use RL to train language generation models according to the human feedback. 
+- **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
+- **Human or Machine? Turing Tests for Vision and Language;** Mengmi Zhang et al
+- **Language Models as Agent Models;** Jacob Andreas
+- **Talking About Large Language Models;** Murray Shanahan
+
 
 
 ## Incontext Learning
@@ -878,7 +884,6 @@
 - **A Neural-Symbolic Approach to Natural Language Understanding;** Zhixuan Liu et al
 - **Fast Few-shot Debugging for NLU Test Suites;** Christopher Malon et al
 - **Shedding New Light on the Language of the Dark Web;** Youngjin Jin et al
-- **Training language models to follow instructions with human feedback;** Long Ouyang et al; Directly use RL to train language generation models according to the human feedback. 
 - **Machine-in-the-Loop Rewriting for Creative Image Captioning;** Vishakh Padmakumar, He He
 - **Describing Differences between Text Distributions with Natural Language;** Ruiqi Zhong et al
 - **The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail;** Samuel R. Bowman
@@ -888,10 +893,7 @@
 - **Using Large Language Models to Simulate Multiple Humans;** Gati Aher et al
 - **WHAT DO NLP RESEARCHERS BELIEVE? RESULTS OF THE NLP COMMUNITY METASURVEY;** Julian Michael et al
 - **EXPLAINING PATTERNS IN DATA WITH LANGUAGE MODELS VIA INTERPRETABLE AUTOPROMPTING;** Chandan Singh et al
-- **SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models;** Sharon Levy et al
-- **Human or Machine? Turing Tests for Vision and Language;** Mengmi Zhang et al
-- **Language Models as Agent Models;** Jacob Andreas
-- **Talking About Large Language Models;** Murray Shanahan
+- **A fine-grained comparison of pragmatic language understanding in humans and language models;** Jennifer Hu et al
 
 
 ## Theory of Mind
