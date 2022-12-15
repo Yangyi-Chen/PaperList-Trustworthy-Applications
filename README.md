@@ -928,3 +928,4 @@
 - **GPT-3 Nonfiction;** https://www.gwern.net/GPT-3-nonfiction
 - **Research Taste;** https://colah.github.io/notes/taste/
 - **OFASYS: A Multi-Modal Multi-Task Learning System for Building Generalist Models;** Jinze Bai et al
+- **Uncertainty estimation in NLP (Tutorial);** https://sites.google.com/view/uncertainty-nlp
