@@ -876,6 +876,7 @@
 - **CM3: A Causal Masked Multimodal Model of the Internet;** Armen Aghajanyan et al
 - **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models;** Ishika Singh et al
 - **InCoder: A Generative Model for Code Infilling and Synthesis;** Daniel Fried et al
+- **Evaluating Large Language Models Trained on Code;** Mark Chen et al
 
 
 ## Interesting Topics
