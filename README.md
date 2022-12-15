@@ -850,6 +850,7 @@
 - **FRSUM: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness;** Wenhao Wu et al
 - **Evaluating the Factual Consistency of Large Language Models Through Summarization;** Derek Tam et al
 - **RARR: Researching and Revising What Language Models Say, Using Language Models;** Luyu Gao et al
+- **SUMMAC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization;** Philippe Laban et al
 
 ## Information Extraction
 - **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling;** Manling Li et al
