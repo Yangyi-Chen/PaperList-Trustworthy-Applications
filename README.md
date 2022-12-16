@@ -307,6 +307,7 @@
 - **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation;** Kaustubh D. Dhole et al
 - **Reliability Testing for Natural Language Processing Systems;** Samson Tan et al
 - **If your data distribution shifts, use self-learning;** Evgenia Rusak et al
+- **RobustBench: a standardized adversarial robustness benchmark;** Francesco Croce et al
 
 
 ## Explanation
