@@ -195,6 +195,7 @@
 - **Revisiting the Compositional Generalization Abilities of Neural Sequence Models;** Arkil Patel et al
 - **Learning Transductions to Test Systematic Compositionality;** Josef Valvoda et al
 - **CHARACTERIZING INTRINSIC COMPOSITIONALITY IN TRANSFORMERS WITH TREE PROJECTIONS;** Shikhar Murty et al
+- **CREPE: Can Vision-Language Foundation Models Reason Compositionally?;** Zixian Ma et al
 
 
 ## Trustworthy (broad topic)
