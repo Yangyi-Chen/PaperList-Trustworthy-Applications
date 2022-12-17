@@ -535,6 +535,9 @@
 - **Using Focal Loss to Fight Shallow Heuristics: An Empirical Analysis of Modulated Cross-Entropy in Natural Language Inference;** Frano Rajic et al
 - **Automatic Shortcut Removal for Self-Supervised Representation Learning;** Matthias Minderer et al
 - **Which Shortcut Solution Do Question Answering Models Prefer to Learn?;** Kazutoshi Shinoda et al
+- **On Feature Learning in the Presence of Spurious Correlations;** Pavel Izmailov et al
+
+
 
 ## NLP for Social Good
 - **Defending Against Neural Fake News;** Rowan Zellers et al
