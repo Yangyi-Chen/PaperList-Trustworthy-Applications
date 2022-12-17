@@ -770,6 +770,7 @@
 - **Neural Motifs: Scene Graph Parsing with Global Context;** Rowan Zellers et al
 - **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
 - **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
+- **Large-Scale Visual Relationship Understanding;** Ji Zhang et al
 
 
 ## NLP Reasoning
