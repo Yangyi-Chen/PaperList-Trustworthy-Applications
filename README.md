@@ -487,6 +487,7 @@
 - **HyperTuning: Toward Adapting Large Language Models without Back-propagation;** Jason Phang et al
 - **On the Effectiveness of Parameter-Efficient Fine-Tuning;** Zihao Fu et al
 - **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning;** Yi-Lin Sung et al
+- **Contrastive Adapters for Foundation Model Group Robustness;** Michael Zhang et al
 
 ## Spurious Correlation
 - **Competency Problems: On Finding and Removing Artifacts in Language Data;** Matt Gardner et al
