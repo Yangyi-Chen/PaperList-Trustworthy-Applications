@@ -215,7 +215,7 @@
 - **SEAL: Interactive Tool for Systematic Error Analysis and Labeling;** Nazneen Rajani et al
 - **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
 - **Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing;** Wenyue Hua et al
-
+- **Capturing Failures of Large Language Models via Human Cognitive Biases;** Erik Jones et al
 
 
 
