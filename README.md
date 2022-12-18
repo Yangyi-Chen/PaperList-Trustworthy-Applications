@@ -185,6 +185,8 @@
 - **Robust Models are less Over-Confident;** Julia Grabinski et al
 - **Holistic Evaluation of Language Models;** Percy Liang et al
 - **Confident Adaptive Language Modeling;** Tal Schuster et al
+- **Adversarial Unlearning: Reducing Confidence Along Adversarial Directions;** Amrith Setlur et al
+- 
 
 
 
