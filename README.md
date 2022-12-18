@@ -330,6 +330,7 @@
 - **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data;** Peter Hase, Mohit Bansal
 - **Connecting Attributions and QA Model Behavior on Realistic Counterfactuals;** Xi Ye et al
 - **CausaLM: Causal Model Explanation Through Counterfactual Language Models;** Amir Feder et al
+- **CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior;** Eldar David Abraham et al
 
 ## Data Augmentation
 - **Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning; (Few-shot setting)** Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu
@@ -881,6 +882,7 @@
 - **Learning from Context or Names? An Empirical Study on Neural Relation Extraction;** Hao Peng et al
 - **Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition;** Abbas Ghaddar et al 
 - **MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction;** Xiaozhi Wang et al
+- **LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model;** Hao Fei et al
 
 ## Code
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
