@@ -778,6 +778,7 @@
 - **Fine-Grained Scene Graph Generation with Data Transfer;** Ao Zhang et al
 - **Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning;** Tao He et al
 - **Large-Scale Visual Relationship Understanding;** Ji Zhang et al
+- **Exploring Long Tail Visual Relationship Recognition with Large Vocabulary;** Sherif Abdelkarim et al
 
 
 ## NLP Reasoning
