@@ -310,7 +310,7 @@
 - **If your data distribution shifts, use self-learning;** Evgenia Rusak et al
 - **RobustBench: a standardized adversarial robustness benchmark;** Francesco Croce et al
 - **Assaying Out-Of-Distribution Generalization in Transfer Learning;** Florian Wenzel et al
-
+- **Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift;** Christina Baek et al
 
 ## Explanation
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
