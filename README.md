@@ -883,6 +883,9 @@
 - **Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition;** Abbas Ghaddar et al 
 - **MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction;** Xiaozhi Wang et al
 - **LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model;** Hao Fei et al
+- **Unified Structure Generation for Universal Information Extraction;** Yaojie Lu et al
+
+
 
 ## Code
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
