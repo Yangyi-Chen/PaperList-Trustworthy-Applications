@@ -406,6 +406,7 @@
 - **AdapterFusion: Non-Destructive Task Composition for Transfer Learning;** Jonas Pfeiffer et al 
 - **Multi-Task Pre-Training of Modular Prompt for Few-Shot Learning;** Tianxiang Sun et al
 - **Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts;** Qinyuan Ye et al
+- **Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer;** Sen Lin et al
 
 
 ## Backdoor Learning
