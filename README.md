@@ -456,6 +456,7 @@
 - **PromptCap: Prompt-Guided Task-Aware Image Captioning;** Yushi Hu et al
 - **Demystifying Prompts in Language Models via Perplexity Estimation;** Hila Gonen et al
 - **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning;** Xiang Chen et al
+- **Self-Prompting Large Language Models for Open-Domain QA;** Junlong Li et al
 
 
 
