@@ -331,6 +331,7 @@
 - **Connecting Attributions and QA Model Behavior on Realistic Counterfactuals;** Xi Ye et al
 - **CausaLM: Causal Model Explanation Through Counterfactual Language Models;** Amir Feder et al
 - **CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior;** Eldar David Abraham et al
+- **Interpreting Language Models with Contrastive Explanations;** Kayo Yin et al
 
 ## Data Augmentation
 - **Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning; (Few-shot setting)** Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu
