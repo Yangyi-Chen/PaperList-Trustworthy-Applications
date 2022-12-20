@@ -36,7 +36,6 @@
 - [Information Extraction](#information-extraction)
 - [Code](#code)
 - [Interesting Topics](#interesting-topics)
-- [Theory of Mind](#theory-of-mind)
 - [Learning](#learning)
 - [Interesting Fields (CV)](#interesting-fields (CV))
 - [Resources](#resources) 
@@ -938,11 +937,8 @@
 - **A fine-grained comparison of pragmatic language understanding in humans and language models;** Jennifer Hu et al
 
 
-## Theory of Mind
-- **Do Large Language Models know what humans know?;** Sean Trott et al
-- **Few-shot Language Coordination by Modeling Theory of Mind;** Hao Zhu et al
-- **Few-Shot Character Understanding in Movies as an Assessment to Meta-Learning of Theory-of-Mind;** Mo Yu et al 
-- **TVSHOWGUESS: Character Comprehension in Stories as Speaker Guessing;** Yisi Sang et al
+<!-- ## Theory of Mind -->
+
 
 ## Learning
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
