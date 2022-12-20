@@ -459,6 +459,8 @@
 - **Demystifying Prompts in Language Models via Perplexity Estimation;** Hila Gonen et al
 - **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning;** Xiang Chen et al
 - **Self-Prompting Large Language Models for Open-Domain QA;** Junlong Li et al
+- **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
+- **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
 
 
 
