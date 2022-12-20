@@ -908,6 +908,7 @@
 - **Evaluating Large Language Models Trained on Code;** Mark Chen et al
 - **Code as Policies: Language Model Programs for Embodied Control;** Jacky Liang et al
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
+- **Reasoning Like Program Executors;** Xinyu Pi et al
 
 
 ## Interesting Topics
