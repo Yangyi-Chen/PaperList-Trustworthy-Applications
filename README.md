@@ -124,6 +124,8 @@
 - **AEON: A Method for Automatic Evaluation of NLP Test Cases;** Jen-tse Huang et al; Validity verification. 
 - **It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations;** Samson Tan et al
 - **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
+- **TEXTGRAD: ADVANCING ROBUSTNESS EVALUATION IN NLP BY GRADIENT-DRIVEN OPTIMIZATION;** Bairu Hou et al
+
 
 
 ## Adversarial Training
@@ -219,6 +221,7 @@
 - **DOMINO: DISCOVERING SYSTEMATIC ERRORS WITH CROSS-MODAL EMBEDDINGS;** Sabri Eyuboglu et al
 - **Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing;** Wenyue Hua et al
 - **Capturing Failures of Large Language Models via Human Cognitive Biases;** Erik Jones et al
+- **Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI;** Alex Mei et al
 
 
 
