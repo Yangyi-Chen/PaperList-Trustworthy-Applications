@@ -646,7 +646,8 @@
 - **Human or Machine? Turing Tests for Vision and Language;** Mengmi Zhang et al
 - **Language Models as Agent Models;** Jacob Andreas
 - **Talking About Large Language Models;** Murray Shanahan
-
+- **Discovering Language Model Behaviors with Model-Written Evaluations;** Ethan Perez et al
+- **Evaluating Human-Language Model Interaction;** Mina Lee et al
 
 
 ## Incontext Learning
