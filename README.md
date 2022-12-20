@@ -105,6 +105,7 @@
 - **A Survey on Model Compression and Acceleration for Pretrained Language Models;** Canwen Xu et al
 - **Learning from Disagreement: A Survey;** Alexandra N. Uma et al
 - **A Survey on Natural Language Processing for Programming;** Qingfu Zhu et al
+- **When Neural Model Meets NL2Code: A Survey;** Daoguang Zan et al
 
 
 ## Adversarial Sample
