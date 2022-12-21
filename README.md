@@ -463,6 +463,7 @@
 - **Self-Prompting Large Language Models for Open-Domain QA;** Junlong Li et al
 - **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
 - **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
+- **Toward Human Readable Prompt Tuning: Kubrick’s The Shining is a good movie, and a good prompt too?;** Weijia Shi et al
 
 
 
@@ -686,6 +687,7 @@
 - **Transformers learn in-context by gradient descent;** Johannes von Oswald et al
 - **Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale;** Hritik Bansal et al
 - **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations;** Xinxi Lyu et al
+- **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
