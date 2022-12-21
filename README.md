@@ -685,6 +685,7 @@
 - **Structured Prompting: Scaling In-Context Learning to 1,000 Examples;** Yaru Hao et al
 - **Transformers learn in-context by gradient descent;** Johannes von Oswald et al
 - **Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale;** Hritik Bansal et al
+- **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations;** Xinxi Lyu et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
