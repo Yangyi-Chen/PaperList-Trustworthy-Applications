@@ -124,6 +124,7 @@
 - **It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations;** Samson Tan et al
 - **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
 - **TEXTGRAD: ADVANCING ROBUSTNESS EVALUATION IN NLP BY GRADIENT-DRIVEN OPTIMIZATION;** Bairu Hou et al
+- **In and Out-of-Domain Text Adversarial Robustness via Label Smoothing;** Yahan Yang et al
 
 
 
