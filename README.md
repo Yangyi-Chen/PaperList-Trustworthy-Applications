@@ -465,6 +465,7 @@
 - **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
 - **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
 - **Toward Human Readable Prompt Tuning: Kubrick’s The Shining is a good movie, and a good prompt too?;** Weijia Shi et al
+- **Making Pretrained Language Models Good Long-tailed Learners;** Chen Zhang et al
 
 
 
