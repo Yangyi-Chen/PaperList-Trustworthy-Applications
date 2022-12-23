@@ -692,6 +692,7 @@
 - **Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations;** Xinxi Lyu et al
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 - **Careful Data Curation Stabilizes In-context Learning;** Ting-Yun Chang et al
+- **Parallel Context Windows Improve In-Context Learning of Large Language Models;** Nir Ratner et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
