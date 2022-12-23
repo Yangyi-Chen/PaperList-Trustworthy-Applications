@@ -557,6 +557,7 @@
 - **Automatic Shortcut Removal for Self-Supervised Representation Learning;** Matthias Minderer et al
 - **Which Shortcut Solution Do Question Answering Models Prefer to Learn?;** Kazutoshi Shinoda et al
 - **On Feature Learning in the Presence of Spurious Correlations;** Pavel Izmailov et al
+- **Debiasing Masks: A New Framework for Shortcut Mitigation in NLU;** Johannes Mario Meissner et al
 
 
 
