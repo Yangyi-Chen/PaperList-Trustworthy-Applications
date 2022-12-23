@@ -927,6 +927,7 @@
 - **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **Reasoning Like Program Executors;** Xinyu Pi et al
 - **ReCode: Robustness Evaluation of Code Generation Models;** Shiqi Wang et al
+- **CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning;** Yijiang River Dong et al
 
 
 ## Interesting Topics
