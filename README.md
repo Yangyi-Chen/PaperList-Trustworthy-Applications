@@ -222,6 +222,7 @@
 - **Discover, Explanation, Improvement: Automatic Slice Detection Framework for Natural Language Processing;** Wenyue Hua et al
 - **Capturing Failures of Large Language Models via Human Cognitive Biases;** Erik Jones et al
 - **Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI;** Alex Mei et al
+- **Are Red Roses Red? Evaluating Consistency of Question-Answering Models;** Marco Tulio Ribeiro et al
 
 
 
