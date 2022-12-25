@@ -105,6 +105,9 @@
 - **Learning from Disagreement: A Survey;** Alexandra N. Uma et al
 - **A Survey on Natural Language Processing for Programming;** Qingfu Zhu et al
 - **When Neural Model Meets NL2Code: A Survey;** Daoguang Zan et al
+- **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
+- **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al
+
 
 
 ## Adversarial Sample
