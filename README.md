@@ -694,6 +694,7 @@
 - **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters;** Boshi Wang et al
 - **Careful Data Curation Stabilizes In-context Learning;** Ting-Yun Chang et al
 - **Parallel Context Windows Improve In-Context Learning of Large Language Models;** Nir Ratner et al
+- **Investigating Fusion Methods for In-Context Learning;** Qinyuan Ye et al
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
