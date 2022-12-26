@@ -471,6 +471,7 @@
 - **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
 - **Toward Human Readable Prompt Tuning: Kubrick’s The Shining is a good movie, and a good prompt too?;** Weijia Shi et al
 - **Making Pretrained Language Models Good Long-tailed Learners;** Chen Zhang et al
+- **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization;** Srinivasan Iyer et al
 
 
 
