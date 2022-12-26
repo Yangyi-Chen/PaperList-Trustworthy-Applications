@@ -321,6 +321,7 @@
 - **RobustBench: a standardized adversarial robustness benchmark;** Francesco Croce et al
 - **Assaying Out-Of-Distribution Generalization in Transfer Learning;** Florian Wenzel et al
 - **Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift;** Christina Baek et al
+- **Benchmark for Uncertainty & Robustness in Self-Supervised Learning;** Ha Manh Bui et al
 
 ## Explanation
 - **Rethinking Explainability as a Dialogue: A Practitioner’s Perspective;** Himabindu Lakkaraju et al
