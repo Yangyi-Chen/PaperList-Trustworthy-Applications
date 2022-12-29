@@ -984,3 +984,6 @@
 - **Research Taste;** https://colah.github.io/notes/taste/
 - **OFASYS: A Multi-Modal Multi-Task Learning System for Building Generalist Models;** Jinze Bai et al
 - **Uncertainty estimation in NLP (Tutorial);** https://sites.google.com/view/uncertainty-nlp
+- **A Closer Look at Large Language Models Emergent Abilities;** Yao Fu et al; Blog post.
+- **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources;** Yao Fu et al; Blog post.
+- **Notes on Teaching GPT-3 Adding Numbers;** Ekin Akyürek et al; Blog post. 
