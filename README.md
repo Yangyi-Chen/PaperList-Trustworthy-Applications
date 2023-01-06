@@ -107,6 +107,7 @@
 - **When Neural Model Meets NL2Code: A Survey;** Daoguang Zan et al
 - **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
 - **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al
+- **A Survey for In-context Learning;** Qingxiu Dong et al
 
 
 
@@ -514,6 +515,7 @@
 - **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning;** Yi-Lin Sung et al
 - **Contrastive Adapters for Foundation Model Group Robustness;** Michael Zhang et al
 - **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning;** Dongze Lian et al
+- **PARAMETER-EFFICIENT FINE-TUNING DESIGN SPACES;** Jiaao Chen et al
 
 
 ## Spurious Correlation
