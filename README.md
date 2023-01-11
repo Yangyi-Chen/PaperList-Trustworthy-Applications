@@ -743,6 +743,7 @@
 - **DISCOVERING LATENT KNOWLEDGE IN LANGUAGE MODELS WITHOUT SUPERVISION;** Collin Burns et al
 - **Insights into Pre-training via Simpler Synthetic Tasks;** Yuhuai Wu et al
 - **A Structural Probe for Finding Syntax in Word Representations;** John Hewitt et al
+- **Why do Nearest Neighbor Language Models Work?;** Frank F. Xu et al
 
 
 ## Theory
