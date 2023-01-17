@@ -422,6 +422,7 @@
 - **Multi-Task Pre-Training of Modular Prompt for Few-Shot Learning;** Tianxiang Sun et al
 - **Eliciting and Understanding Cross-Task Skills with Task-Level Mixture-of-Experts;** Qinyuan Ye et al
 - **Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer;** Sen Lin et al
+- **12-in-1: Multi-Task Vision and Language Representation Learning;** Jiasen Lu et al
 
 
 ## Backdoor Learning
