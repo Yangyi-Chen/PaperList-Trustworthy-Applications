@@ -77,7 +77,7 @@
 - **Core Challenges in Embodied Vision-Language Planning;** Jonathan Francis et al
 - **Multimodal Machine Learning: A Survey and Taxonomy;** Tadas Baltrusaitis, Chaitanya Ahuja, Louis-Philippe Morency; Introduce 4 challenges for multi-modal learning, including representation, translation, alignment, fusion, and co-learning. 
 - **Modern Question Answering Datasets and Benchmarks: A Survey;** Zhen Wang 
-- **A Unified Survey on Anomaly, Novelty, Open-Set, and Out- of-Distribution Detection: Solutions and Future Challenges;** Mohammadreza Salehi et al
+- **A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges;** Mohammadreza Salehi et al
 - **Survey on deep learning with class imbalance;** Justin M. Johnson, Taghi M. Khoshgoftaar
 - **WHAT IS THE STATE OF NEURAL NETWORK PRUNING?;** Davis Blalock et al
 - **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond;** Amir Feder et al
@@ -180,7 +180,7 @@
 - **Stop Measuring Calibration When Humans Disagree;** Joris Baan et al
 - **On the Calibration of Massively Multilingual Language Models;** Kabir Ahuja et al
 - **ADDMU: Detection of Far-Boundary Adversarial Examples with Data and Model Uncertainty Estimation;** Fan Yin et al
-- **Hard Gate Knowledge Distillation - Leverage Calibration for a Robust and Reliable Language Model;** Dongkyu Lee et al
+- **Hard Gate Knowledge Distillation-Leverage Calibration for a Robust and Reliable Language Model;** Dongkyu Lee et al
 - **Calibrating Deep Neural Networks using Focal Loss;** Jishnu Mukhoti et al
 - **Exploring Predictive Uncertainty and Calibration in NLP: A Study on the Impact of Method & Data Scarcity;** Dennis Ulmer et al
 - **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade;** Lei Li et al
@@ -385,7 +385,7 @@
 - **Understanding Dataset Difficulty with V-Usable Information;** Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta
 - **Prioritized Training on Points that are learnable, Worth Learning, and Not Yet Learnt;** Sören Mindermann et al
 - **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning;** Anonymous
-- **SELECTIVE ANNOTATION MAKES LANGUAGE MOD- ELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
+- **SELECTIVE ANNOTATION MAKES LANGUAGE MODELS BETTER FEW-SHOT LEARNERS;** Hongjin Su et al
 - **Understanding Transformer Memorization Recall Through Idioms;** Adi Haviv et al
 - **Multi-task Active Learning for Pre-trained Transformer-based Models;** Guy Rotman et al
 - **DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning;** Chengcheng Guo et al
@@ -395,7 +395,7 @@
 - **Deep Learning on a Data Diet: Finding Important Examples Early in Training;** Mansheej Paul et al
 - **BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning;** Mohsen Fayyaz et al
 - **On Measuring the Intrinsic Few-Shot Hardness of Datasets;** Xinran Zhao et al
-- **Rissanen data analysis: Examining dataset charac- teristics via description length;** Ethan Perez et al
+- **Rissanen data analysis: Examining dataset characteristics via description length;** Ethan Perez et al
 - **Sensitivity as a Complexity Measure for Sequence Classification Tasks;** Michael Hahn et al
 - **Data-Centric Debugging: mitigating model failures via targeted data collection;** Sahil Singla et al
 - **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric;** Richard Zhang et al
@@ -503,7 +503,7 @@
 - **Sparse Structure Search for Parameter-Efficient Tuning;** Shengding Hu et al
 - **LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners;** Yaqing Wang et al
 - **Meta-Adapter: Parameter Efficient Few-Shot Learning through Meta-Learning;** Anonymous
-- **TOWARDS A UNIFIED VIEW ON VISUAL PARAMETER- EFFICIENT TRANSFER LEARNING;** Bruce X.B. Yu et al
+- **TOWARDS A UNIFIED VIEW ON VISUAL PARAMETER-EFFICIENT TRANSFER LEARNING;** Bruce X.B. Yu et al
 - **Performance-Efficiency Trade-Offs in Adapting Language Models to Text Classification Tasks;** Laura Aina et al
 - **Attentional Mixtures of Soft Prompt Tuning for Parameter-efficient Multi-task Knowledge Sharing;** Akari Asai et al
 - **Efficiently Tuned Parameters are Task Embeddings;** Wangchunshu Zhou et al
@@ -647,7 +647,7 @@
 - **Emergent Abilities of Large Language Models;** Jason Wei et al
 - **GLaM: Efficient Scaling of Language Models with Mixture-of-Experts;** Nan Du et al
 - **RETHINKING SUPERVISED PRE-TRAINING FOR BETTER DOWNSTREAM TRANSFERRING;** Yutong Feng et al
-- **HTLM: HYPER-TEXT PRE-TRAINING AND PROMPT- ING OF LANGUAGE MODELS;** Armen Aghajanyan et al
+- **HTLM: HYPER-TEXT PRE-TRAINING AND PROMPTING OF LANGUAGE MODELS;** Armen Aghajanyan et al
 - **Downstream Datasets Make Surprisingly Good Pretraining Corpora;** Kundan Krishna et al
 - **GUESS THE INSTRUCTION! MAKING LANGUAGE MODELS STRONGER ZERO-SHOT LEARNERS;** Seonghyeon Ye et al
 - **UNDERSTANDING HTML WITH LARGE LANGUAGE MODELS;** Anonymous
@@ -738,7 +738,6 @@
 - **Linear Interpolation In Parameter Space is Good Enough for Fine-Tuned Language Models;** Mark Rofin et al; Mode connectivity. 
 - **Exploring Mode Connectivity for Pre-trained Language Models;** Yujia Qin et al; Mode connectivity. 
 - **BRIDGING MODE CONNECTIVITY IN LOSS LANDSCAPES AND ADVERSARIAL ROBUSTNESS;** Pu Zhao et al; Mode connectivity. 
-- **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
 - **Neural Dependencies Emerging from Learning Massive Categories;** Ruili Feng et al
 - **Event knowledge in large language models: the gap between the impossible and the unlikely;** Carina Kauf et al
 - **EDITING MODELS WITH TASK ARITHMETIC;** Gabriel Ilharco et al
@@ -938,7 +937,7 @@
 - **InCoder: A Generative Model for Code Infilling and Synthesis;** Daniel Fried et al
 - **Evaluating Large Language Models Trained on Code;** Mark Chen et al
 - **Code as Policies: Language Model Programs for Embodied Control;** Jacky Liang et al
-- **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAIN- ING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
+- **PIX2STRUCT: SCREENSHOT PARSING AS PRETRAINING FOR VISUAL LANGUAGE UNDERSTANDING;** Kenton Lee et al
 - **Reasoning Like Program Executors;** Xinyu Pi et al
 - **ReCode: Robustness Evaluation of Code Generation Models;** Shiqi Wang et al
 - **CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning;** Yijiang River Dong et al
