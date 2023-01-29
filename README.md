@@ -35,6 +35,7 @@
 - [NLG Hallucination](#nlg-hallucination)
 - [Information Extraction](#information-extraction)
 - [Code](#code)
+- [Security of LLM](#security-of-llm)
 - [Interesting Topics](#interesting-topics)
 - [Learning](#learning)
 - [Interesting Fields (CV)](#interesting-fields (CV))
@@ -941,6 +942,10 @@
 - **Reasoning Like Program Executors;** Xinyu Pi et al
 - **ReCode: Robustness Evaluation of Code Generation Models;** Shiqi Wang et al
 - **CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning;** Yijiang River Dong et al
+
+## Security of LLM
+- **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection;** Biyang Guo et al
+- **A Watermark for Large Language Models;** John Kirchenbauer et al
 
 
 ## Interesting Topics
