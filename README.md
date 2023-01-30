@@ -895,7 +895,7 @@
 - **Entity-Based Knowledge Conflicts in Question Answering;** Shayne Longpre et al; QA Task hallucination. 
 - **Evaluating the Factual Consistency of Abstractive Text Summarization;** Wojciech Krys ́cin ́ski, Bryan McCann, Caiming Xiong, Richard Socher
 - **Annotating and Modeling Fine-grained Factuality in Summarization;** Tanya Goyal, Greg Durrett
-- **FACTPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarizationl** David Wan, Mohit Bansal
+- **FACTPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarizationl;** David Wan, Mohit Bansal
 - **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks;** Akari Asai et al
 - **Towards Improving Faithfulness in Abstractive Summarization;** Xiuying Chen et al
 - **Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization;** Yiyang Li et al
@@ -905,7 +905,10 @@
 - **Evaluating the Factual Consistency of Large Language Models Through Summarization;** Derek Tam et al
 - **RARR: Researching and Revising What Language Models Say, Using Language Models;** Luyu Gao et al
 - **SUMMAC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization;** Philippe Laban et al
-- **Tracing and Removing Data Errors in Natural Language Generation Datasets**; Faisal Ladhak et al
+- **Tracing and Removing Data Errors in Natural Language Generation Datasets;** Faisal Ladhak et al
+- **Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection;** Weijia Xu et al
+
+
 
 ## Information Extraction
 - **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling;** Manling Li et al
