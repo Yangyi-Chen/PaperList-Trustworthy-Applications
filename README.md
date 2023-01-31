@@ -950,7 +950,7 @@
 - **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection;** Biyang Guo et al
 - **A Watermark for Large Language Models;** John Kirchenbauer et al
 - **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature;** Eric Mitchell et al
-
+- **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis;** Terry Yue Zhuo et al
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
