@@ -34,6 +34,7 @@
 - [Grounding](#grounding) 
 - [NLG Hallucination](#nlg-hallucination)
 - [Information Extraction](#information-extraction)
+- [Retrieval-augmented LLM](#retrieval-augmented-llm)
 - [Code](#code)
 - [Security of LLM](#security-of-llm)
 - [Interesting Topics](#interesting-topics)
@@ -413,7 +414,6 @@
 - **CLUES: A Benchmark for Learning Classifiers using Natural Language Explanations;** Rakesh R Menon et al
 - **Muppet: Massive Multi-task Representations with Pre-Finetuning;** Armen Aghajanyan et al
 - **Cross-Task Generalization via Natural Language Crowdsourcing Instructions;** Swaroop Mishra et al
-- **Unsupervised Cross-Task Generalization via Retrieval Augmentation;** Bill Yuchen Lin et al
 - **Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks;** Yizhong Wang et al
 - **Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners;** Shashank Gupta et al
 - **Exploring and Predicting Transferability across NLP Tasks;** Tu Vu et al
@@ -465,17 +465,14 @@
 - **A Universal Discriminator for Zero-Shot Generalization;** Haike Xu et al
 - **Co-training Improves Prompt-based Learning for Large Language Models;** Hunter Lang et al
 - **UNISUMM: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning;** Yulong Chen et al
-- **Task-aware Retrieval with Instructions;** Akari Asai et al
 - **PromptCap: Prompt-Guided Task-Aware Image Captioning;** Yushi Hu et al
 - **Demystifying Prompts in Language Models via Perplexity Estimation;** Hila Gonen et al
-- **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning;** Xiang Chen et al
 - **Self-Prompting Large Language Models for Open-Domain QA;** Junlong Li et al
 - **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor;** Or Honovich et al
 - **One Embedder, Any Task: Instruction-Finetuned Text Embeddings;** Hongjin Su et al
 - **Toward Human Readable Prompt Tuning: Kubrick’s The Shining is a good movie, and a good prompt too?;** Weijia Shi et al
 - **Making Pretrained Language Models Good Long-tailed Learners;** Chen Zhang et al
 - **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization;** Srinivasan Iyer et al
-- **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP;** Omar Khattab et al
 
 
 
@@ -925,8 +922,12 @@
 - **LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model;** Hao Fei et al
 - **Unified Structure Generation for Universal Information Extraction;** Yaojie Lu et al
 
-
-
+## Retrieval-augmented LLM
+- **Unsupervised Cross-Task Generalization via Retrieval Augmentation;** Bill Yuchen Lin et al
+- **REPLUG: Retrieval-Augmented Black-Box Language Models;** Weijia Shi et al
+- **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP;** Omar Khattab et al
+- **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning;** Xiang Chen et al
+- **Task-aware Retrieval with Instructions;** Akari Asai et al
 ## Code
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
 - **HTLM: Hyper-Text Pre-Training and Prompting of Language Models;** Armen Aghajanyan et al
