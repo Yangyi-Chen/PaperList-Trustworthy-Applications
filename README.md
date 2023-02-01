@@ -928,6 +928,9 @@
 - **DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP;** Omar Khattab et al
 - **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning;** Xiang Chen et al
 - **Task-aware Retrieval with Instructions;** Akari Asai et al
+- **GENERATE RATHER THAN RETRIEVE: LARGE LANGU- AGE MODELS ARE STRONG CONTEXT GENERATORS;** Wenhao Yu et al
+
+
 ## Code
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
 - **HTLM: Hyper-Text Pre-Training and Prompting of Language Models;** Armen Aghajanyan et al
