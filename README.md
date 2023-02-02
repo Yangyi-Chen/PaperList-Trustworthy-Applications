@@ -929,7 +929,7 @@
 - **Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning;** Xiang Chen et al
 - **Task-aware Retrieval with Instructions;** Akari Asai et al
 - **GENERATE RATHER THAN RETRIEVE: LARGE LANGU- AGE MODELS ARE STRONG CONTEXT GENERATORS;** Wenhao Yu et al
-
+- **In-Context Retrieval-Augmented Language Models;** Ori Ram et al
 
 ## Code
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
