@@ -958,6 +958,7 @@
 - **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature;** Eric Mitchell et al
 - **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis;** Terry Yue Zhuo et al
 - **CHATGPT OR HUMAN? DETECT AND EXPLAIN. EXPLAINING DECISIONS OF MACHINE LEARNING MODEL FOR DETECTING SHORT CHATGPT-GENERATED TEXT;** Sandra Mitrovic et al
+- **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
