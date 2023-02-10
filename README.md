@@ -406,6 +406,8 @@
 - **The “Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation;** Barbara Plank
 - **An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models;** Fatemehsadat Mireshghallah et al
 - **Training Trajectories of Language Models Across Scales;** Mengzhou Xia et al
+- **Data Selection for Language Models via Importance Resampling;** Sang Michael Xie et al
+
 
 ## Multi-Task & Transfer & Lifelong & Few-shot & Zero-shot Learning
 - **FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding;** Yanan Zheng et al
