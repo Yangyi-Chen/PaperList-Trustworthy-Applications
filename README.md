@@ -476,7 +476,7 @@
 - **Toward Human Readable Prompt Tuning: Kubrick’s The Shining is a good movie, and a good prompt too?;** Weijia Shi et al
 - **Making Pretrained Language Models Good Long-tailed Learners;** Chen Zhang et al
 - **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization;** Srinivasan Iyer et al
-
+- **Exploring the Benefits of Training Expert Language Models over Instruction Tuning;** Joel Jang et al
 
 
 ## Parameter Efficient Tuning
