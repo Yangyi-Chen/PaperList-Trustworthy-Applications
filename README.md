@@ -712,6 +712,9 @@
 - **Parallel Context Windows Improve In-Context Learning of Large Language Models;** Nir Ratner et al
 - **Investigating Fusion Methods for In-Context Learning;** Qinyuan Ye et al
 - **Batch Prompting: Efficient Inference with Large Language Model APIs;** Zhoujun Cheng et al
+- **Explanation Selection Using Unlabeled Data for In-Context Learning;** Xi Ye et al
+
+
 
 ## Model Analysis
 - **A Closer Look at How Fine-tuning Changes BERT;** Yichu Zhou, Vivek Srikumar; Analyze fine-tuning. 
