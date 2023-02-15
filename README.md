@@ -714,6 +714,7 @@
 - **Batch Prompting: Efficient Inference with Large Language Model APIs;** Zhoujun Cheng et al
 - **Explanation Selection Using Unlabeled Data for In-Context Learning;** Xi Ye et al
 - **Compositional Exemplars for In-context Learning;** Jiacheng Ye et al
+- **Distinguishability Calibration to In-Context Learning;** Hongjing Li et al
 
 
 
