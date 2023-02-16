@@ -973,6 +973,9 @@
 - **CHATGPT OR HUMAN? DETECT AND EXPLAIN. EXPLAINING DECISIONS OF MACHINE LEARNING MODEL FOR DETECTING SHORT CHATGPT-GENERATED TEXT;** Sandra Mitrovic et al
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Adversarial Prompting for Black Box Foundation Models;** Natalie Maus et al
+- **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
+
+
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
