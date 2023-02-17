@@ -965,6 +965,8 @@
 - **Reasoning Like Program Executors;** Xinyu Pi et al
 - **ReCode: Robustness Evaluation of Code Generation Models;** Shiqi Wang et al
 - **CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning;** Yijiang River Dong et al
+- **LEVER: Learning to Verify Language-to-Code Generation with Execution;** Ansong Ni et al
+
 
 ## Security of LLM
 - **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection;** Biyang Guo et al
