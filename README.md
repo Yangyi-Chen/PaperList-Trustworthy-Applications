@@ -758,6 +758,7 @@
 - **A Structural Probe for Finding Syntax in Word Representations;** John Hewitt et al
 - **Why do Nearest Neighbor Language Models Work?;** Frank F. Xu et al
 - **Task-Specific Skill Localization in Fine-tuned Language Models;** Abhishek Panigrahi et al
+- **Knowledge is a Region in Weight Space for Fine-tuned Language Models;** Almog Gueta et al
 
 
 ## Theory
