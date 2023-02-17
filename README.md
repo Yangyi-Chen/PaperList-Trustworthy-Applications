@@ -975,6 +975,8 @@
 - **A Categorical Archive of ChatGPT Failures;** Ali Borji et al
 - **Adversarial Prompting for Black Box Foundation Models;** Natalie Maus et al
 - **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
+- **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?;** Chengwei Qin et al
+- **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity;** Yejin Bang et al
 
 
 
