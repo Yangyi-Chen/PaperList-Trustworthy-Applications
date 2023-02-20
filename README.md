@@ -921,6 +921,8 @@
 - **Tracing and Removing Data Errors in Natural Language Generation Datasets;** Faisal Ladhak et al
 - **Understanding and Detecting Hallucinations in Neural Machine Translation via Model Introspection;** Weijia Xu et al
 - **Measuring Attribution in Natural Language Generation Models;** Hannah Rashkin et al
+- **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models;** Bernd Bohnet et al
+
 
 
 
