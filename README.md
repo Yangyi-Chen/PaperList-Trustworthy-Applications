@@ -983,7 +983,7 @@
 - **The Capacity for Moral Self-Correction in Large Language Models;** Deep Ganguli et al
 - **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?;** Chengwei Qin et al
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity;** Yejin Bang et al
-
+- **Pretraining Language Models with Human Preferences;** Tomasz Korbak et al
 
 
 ## Interesting Topics
