@@ -985,7 +985,8 @@
 - **IS CHATGPT A GENERAL-PURPOSE NATURAL LANGUAGE PROCESSING TASK SOLVER?;** Chengwei Qin et al
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity;** Yejin Bang et al
 - **Pretraining Language Models with Human Preferences;** Tomasz Korbak et al
-
+- **ChatGPT: Jack of all trades, master of none;** Jan Kocoń et al
+ 
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
