@@ -503,8 +503,6 @@
 - **Adaptable Adapters;** Nafise Sadat Moosavi et al
 - **Efficient Hierarchical Domain Adaptation for Pretrained Language Models;** Alexandra Chronopoulou et al
 - **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning;** Haokun Liu et al
-- **LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners;** Yaqing Wang et al
-- **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning;** Yi-Lin Sung et al
 - **Sparse Structure Search for Parameter-Efficient Tuning;** Shengding Hu et al
 - **LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners;** Yaqing Wang et al
 - **Meta-Adapter: Parameter Efficient Few-Shot Learning through Meta-Learning;** Anonymous
@@ -575,7 +573,7 @@
 - **On Feature Learning in the Presence of Spurious Correlations;** Pavel Izmailov et al
 - **Debiasing Masks: A New Framework for Shortcut Mitigation in NLU;** Johannes Mario Meissner et al
 - **SHORTCUT LEARNING THROUGH THE LENS OF EARLY TRAINING DYNAMICS;** Nihal Murali et al
-
+- **Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations;** Polina Kirichenko et al
 
 
 ## NLP for Social Good
