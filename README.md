@@ -986,6 +986,7 @@
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity;** Yejin Bang et al
 - **Pretraining Language Models with Human Preferences;** Tomasz Korbak et al
 - **ChatGPT: Jack of all trades, master of none;** Jan Kocoń et al
+- **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective;** Jindong Wang et al
  
 
 ## Interesting Topics
