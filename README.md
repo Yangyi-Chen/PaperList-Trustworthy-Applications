@@ -716,6 +716,7 @@
 - **Distinguishability Calibration to In-Context Learning;** Hongjing Li et al
 - **How Does In-Context Learning Help Prompt Tuning?;** Simeng Sun et al
 - **Guiding Large Language Models via Directional Stimulus Prompting;** Zekun Li et al
+- **In-Context Instruction Learning;** Seonghyeon Ye et al
 
 
 
