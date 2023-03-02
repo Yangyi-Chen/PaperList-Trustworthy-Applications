@@ -776,6 +776,7 @@
 - **MODELDIFF: A Framework for Comparing Learning Algorithms;** Harshay Shah et al
 - **Datamodels: Predicting Predictions from Training Data;** Andrew Ilyas et al
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
+- **DISCOVERING AND EXPLAINING THE REPRESENTA- TION BOTTLENECK OF DNNS;** Huiqi Deng et al
 - **Concept-Level Explanation for the Generalization of a DNN;** Huilin Zhou et al
 
 
@@ -989,6 +990,7 @@
 - **Pretraining Language Models with Human Preferences;** Tomasz Korbak et al
 - **ChatGPT: Jack of all trades, master of none;** Jan Kocoń et al
 - **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective;** Jindong Wang et al
+- **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks;** Xuanting Chen et al
  
 
 ## Interesting Topics
