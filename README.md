@@ -776,7 +776,7 @@
 - **MODELDIFF: A Framework for Comparing Learning Algorithms;** Harshay Shah et al
 - **Datamodels: Predicting Predictions from Training Data;** Andrew Ilyas et al
 - **Distinguishing rule- and exemplar-based generalization in learning systems;** Ishita Dasgupta et al
-
+- **Concept-Level Explanation for the Generalization of a DNN;** Huilin Zhou et al
 
 
 ## Language and Robotics
