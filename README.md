@@ -959,6 +959,8 @@
 - **Task-aware Retrieval with Instructions;** Akari Asai et al
 - **GENERATE RATHER THAN RETRIEVE: LARGE LANGU- AGE MODELS ARE STRONG CONTEXT GENERATORS;** Wenhao Yu et al
 - **In-Context Retrieval-Augmented Language Models;** Ori Ram et al
+- **Semiparametric Language Models Are Scalable Continual Learners;** Guangyue Peng et al
+
 
 ## Code
 - **BINDING LANGUAGE MODELS IN SYMBOLIC LANGUAGES;** Zhoujun Cheng et al
