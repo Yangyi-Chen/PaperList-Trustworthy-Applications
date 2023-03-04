@@ -33,6 +33,7 @@
 - [MRC Reasoning](#mrc-reasoning)
 - [Grounding](#grounding) 
 - [NLG Hallucination](#nlg-hallucination)
+- [Text Editing](#text-editing)
 - [Information Extraction](#information-extraction)
 - [Retrieval-augmented LLM](#retrieval-augmented-llm)
 - [Code](#code)
@@ -928,6 +929,10 @@
 - **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models;** Bernd Bohnet et al
 - **Learning with Rejection for Abstractive Text Summarization;** Meng Cao et al
 
+
+## Text Editing
+- **Text Editing by Command;** Felix Faltings et al
+- **Interactive Text Generation;** Felix Faltings et al
 
 
 
