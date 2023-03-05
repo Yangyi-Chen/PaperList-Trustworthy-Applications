@@ -932,6 +932,8 @@
 
 ## Text Editing
 - **Text Editing by Command;** Felix Faltings et al
+- **CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities;** Mina Lee et al
+- **PEER: A Collaborative Language Model;** Timo Schick et al
 - **Interactive Text Generation;** Felix Faltings et al
 
 
