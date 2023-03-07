@@ -928,6 +928,10 @@
 - **Measuring Attribution in Natural Language Generation Models;** Hannah Rashkin et al
 - **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models;** Bernd Bohnet et al
 - **Learning with Rejection for Abstractive Text Summarization;** Meng Cao et al
+- **Factuality Enhanced Language Models for Open-Ended Text Generation;** Nayeon Lee et al
+
+
+
 
 
 ## Text Editing
