@@ -522,6 +522,8 @@
 - **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning;** Dongze Lian et al
 - **PARAMETER-EFFICIENT FINE-TUNING DESIGN SPACES;** Jiaao Chen et al
 - **An Empirical Study on the Transferability of Transformer Modules in Parameter-Efficient Fine-Tuning;** Mohammad AkbarTajari et al
+- **MULTITASK PROMPT TUNING ENABLES PARAMETER-EFFICIENT TRANSFER LEARNING;** Zhen Wang et al
+
 
 
 ## Spurious Correlation
