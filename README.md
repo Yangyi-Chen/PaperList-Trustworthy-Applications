@@ -720,6 +720,7 @@
 - **How Does In-Context Learning Help Prompt Tuning?;** Simeng Sun et al
 - **Guiding Large Language Models via Directional Stimulus Prompting;** Zekun Li et al
 - **In-Context Instruction Learning;** Seonghyeon Ye et al
+- **LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY;** Jerry Wei et al
 
 
 
