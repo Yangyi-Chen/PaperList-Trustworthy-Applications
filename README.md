@@ -132,7 +132,7 @@
 - **Tailor: Generating and Perturbing Text with Semantic Controls;** Alexis Ross et al 
 - **TEXTGRAD: ADVANCING ROBUSTNESS EVALUATION IN NLP BY GRADIENT-DRIVEN OPTIMIZATION;** Bairu Hou et al
 - **In and Out-of-Domain Text Adversarial Robustness via Label Smoothing;** Yahan Yang et al
-
+- **Learning the Legibility of Visual Text Perturbations;** Dev Seth et al
 
 
 ## Adversarial Training
