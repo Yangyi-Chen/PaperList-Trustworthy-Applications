@@ -991,6 +991,7 @@
 - **ReCode: Robustness Evaluation of Code Generation Models;** Shiqi Wang et al
 - **CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning;** Yijiang River Dong et al
 - **LEVER: Learning to Verify Language-to-Code Generation with Execution;** Ansong Ni et al
+- **PLANNING WITH LARGE LANGUAGE MODELS FOR CODE GENERATION;** Shun Zhang et al
 
 
 ## Security of LLM
