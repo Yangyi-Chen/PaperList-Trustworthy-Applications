@@ -1010,6 +1010,7 @@
 - **ChatGPT: Jack of all trades, master of none;** Jan Kocoń et al
 - **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective;** Jindong Wang et al
 - **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks;** Xuanting Chen et al
+- **The Science of Detecting LLM-Generated Texts;** Ruixiang Tang et al
  
 
 ## Interesting Topics
