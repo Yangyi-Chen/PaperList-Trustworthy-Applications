@@ -111,6 +111,7 @@
 - **Towards Reasoning in Large Language Models: A Survey;** Jie Huang et al
 - **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al
 - **A Survey for In-context Learning;** Qingxiu Dong et al
+- **The Life Cycle of Knowledge in Big Language Models: A Survey;** Boxi Cao et al
 
 
 
