@@ -484,7 +484,7 @@
 - **Making Pretrained Language Models Good Long-tailed Learners;** Chen Zhang et al
 - **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization;** Srinivasan Iyer et al
 - **Exploring the Benefits of Training Expert Language Models over Instruction Tuning;** Joel Jang et al
-
+- **UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation;** Daixuan Cheng et al
 
 ## Parameter Efficient Tuning
 - **Parameter-Efficient Transfer Learning for NLP;** Neil Houlsby et al 
