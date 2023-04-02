@@ -1014,7 +1014,7 @@
 - **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks;** Xuanting Chen et al
 - **The Science of Detecting LLM-Generated Texts;** Ruixiang Tang et al
 - **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models;** Potsawee Manakul et al
- 
+ - **A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models;** Junjie Ye et al
 
 ## Interesting Topics
 - **Advancing mathematics by guiding human intuition with AI;** Alex Davies et al
