@@ -112,7 +112,7 @@
 - **Reasoning with Language Model Prompting: A Survey;** Shuofei Qiao et al
 - **A Survey for In-context Learning;** Qingxiu Dong et al
 - **The Life Cycle of Knowledge in Big Language Models: A Survey;** Boxi Cao et al
-
+- **Sparks of Artificial General Intelligence: Early experiments with GPT-4;** S´ebastien Bubeck et al
 
 
 ## Adversarial Sample
