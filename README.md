@@ -579,6 +579,7 @@
 - **Debiasing Masks: A New Framework for Shortcut Mitigation in NLU;** Johannes Mario Meissner et al
 - **SHORTCUT LEARNING THROUGH THE LENS OF EARLY TRAINING DYNAMICS;** Nihal Murali et al
 - **Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations;** Polina Kirichenko et al
+- **Discover and Cure: Concept-aware Mitigation of Spurious Correlation;** Shirley Wu et al
 
 
 ## NLP for Social Good
