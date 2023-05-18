@@ -414,6 +414,7 @@
 - **An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models;** Fatemehsadat Mireshghallah et al
 - **Training Trajectories of Language Models Across Scales;** Mengzhou Xia et al
 - **Data Selection for Language Models via Importance Resampling;** Sang Michael Xie et al
+- **Retentive or Forgetful? Diving into the Knowledge Memorizing Mechanism of Language Models; (Memorization)** Boxi Cao et al
 
 
 ## Multi-Task & Transfer & Lifelong & Few-shot & Zero-shot Learning
