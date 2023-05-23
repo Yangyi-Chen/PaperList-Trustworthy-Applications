@@ -975,6 +975,7 @@
 - **GENERATE RATHER THAN RETRIEVE: LARGE LANGU- AGE MODELS ARE STRONG CONTEXT GENERATORS;** Wenhao Yu et al
 - **In-Context Retrieval-Augmented Language Models;** Ori Ram et al
 - **Semiparametric Language Models Are Scalable Continual Learners;** Guangyue Peng et al
+- **Decouple knowledge from paramters for plug-and-play language modeling;** Xin Cheng et al
 
 
 ## Code
