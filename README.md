@@ -938,6 +938,7 @@
 - **Attributed Question Answering: Evaluation and Modeling for Attributed Large Language Models;** Bernd Bohnet et al
 - **Learning with Rejection for Abstractive Text Summarization;** Meng Cao et al
 - **Factuality Enhanced Language Models for Open-Ended Text Generation;** Nayeon Lee et al
+- **Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment;** Shuo Zhang et al
 
 
 
